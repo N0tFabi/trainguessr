@@ -1,0 +1,382 @@
+id;name;uic;lat;lon;country
+17512;Aalborg St.;aalborg-st;57.043127;9.916486;DK
+17513;Aarhus;aarhus;56.150075;10.204995;DK
+17514;Kolding St.;kolding-st;55.490842;9.481525;DK
+17515;København;kobenhavn;55.672721;12.564618;DK
+17516;Odense St.;odense-st;55.401777;10.386001;DK
+17517;Roskilde St.;roskilde-st;55.639012;12.088855;DK
+17594;Fredericia St.;fredericia-st;55.5680870000;9.7388140000;DK
+17595;Tinglev St.;tinglev-st;54.9361720000;9.2582330000;DK
+18595;Alken St.;alken-st;56.0525960000;9.8457680000;DK
+18596;Ålsgårde St.;alsgarde-st;56.0750600000;12.5377040000;DK
+18597;Arden St.;arden-st;56.7692520000;9.8598270000;DK
+18598;Aulum St.;aulum-st;56.2641310000;8.7874500000;DK
+18599;Bedsted Thy St.;bedsted-thy-st;56.8060360000;8.4070260000;DK
+18600;Bjerringbro St.;bjerringbro-st;56.3742480000;9.6581180000;DK
+18601;Bording St.;bording-st;56.1467400000;9.2782250000;DK
+18602;Børkop St.;borkop-st;55.6420680000;9.6523290000;DK
+18603;Borris St.;borris-st;55.9581920000;8.6440360000;DK
+18604;Borup St.;borup-st;55.4948970000;11.9729300000;DK
+18605;Bramming St.;bramming-st;55.4645130000;8.7067800000;DK
+18606;Brande St.;brande-st;55.9396290000;9.1238800000;DK
+18607;Bred St.;bred-st;55.3732910000;10.1057720000;DK
+18608;Bredebro St.;bredebro-st;55.0568970000;8.8230650000;DK
+18609;Brejning St.;brejning-st;55.6666710000;9.6591870000;DK
+18610;Brønderslev St.;bronderslev-st;57.2703560000;9.9425180000;DK
+18611;Brøns St.;brons-st;55.1946930000;8.7407510000;DK
+18612;Brørup St.;brorup-st;55.4826800000;9.0155960000;DK
+18613;Bur St.;bur-st;56.3677760000;8.4261010000;DK
+18614;Døstrup St. (Sønderjylland);dostrup-st-sonderjylland;55.1174850000;8.8078640000;DK
+18615;Dronningmølle St.;dronningmolle-st;56.0976770000;12.3875750000;DK
+18616;Ejby St.;ejby-st;55.4287450000;9.9298890000;DK
+18617;Engesvang St.;engesvang-st;56.1677300000;9.3516660000;DK
+18618;Firhøj St. (Gilleleje);firhoj-st-gilleleje;56.0983250000;12.3557270000;DK
+18619;Fjellenstrup St.;fjellenstrup-st;56.1164380000;12.2982230000;DK
+18620;Frederikshavn St.;frederikshavn-st;57.4426790000;10.5406700000;DK
+18621;Fruens Bøge St.;fruens-boge-st;55.3696230000;10.3775240000;DK
+18622;Gadstrup St.;gadstrup-st;55.5729860000;12.0994260000;DK
+18623;Gaarde St.;gaarde-st;55.7638810000;8.6112880000;DK
+18624;Gelsted St.;gelsted-st;55.3962130000;9.9743940000;DK
+18625;Give St.;give-st;55.8427610000;9.2367570000;DK
+18626;Glumsø St.;glumso-st;55.3533340000;11.6958290000;DK
+18627;Gørding St.;gording-st;55.4696010000;8.8009780000;DK
+18628;Græsted St.;graested-st;56.0730470000;12.2865190000;DK
+18629;Græsted Syd St.;graested-syd-st;56.0635090000;12.2952560000;DK
+18630;Gråsten St.;grasten-st;54.9187060000;9.5939260000;DK
+18631;Gredstedbro St.;gredstedbro-st;55.3974270000;8.7410650000;DK
+18632;Grenaa St.;grenaa-st;56.4124890000;10.8799950000;DK
+18633;Grønnehave St. (Helsingør);gronnehave-st-helsingor;56.0402270000;12.6110020000;DK
+18634;Guldager St.;guldager-st;55.5359590000;8.4403220000;DK
+18635;Hadsten St.;hadsten-st;56.3274420000;10.0471890000;DK
+18636;Hammerum St.;hammerum-st;56.1318180000;9.0632300000;DK
+18637;Haslev St.;haslev-st;55.3295220000;11.9608660000;DK
+18638;Havdrup St.;havdrup-st;55.5435460000;12.1171170000;DK
+18639;Hee St.;hee-st;56.1440710000;8.2866610000;DK
+18640;Hellebæk St.;hellebaek-st;56.0666730000;12.5536870000;DK
+18641;Herfølge St.;herfolge-st;55.4178410000;12.1371090000;DK
+18642;Hinnerup St.;hinnerup-st;56.2630880000;10.0594860000;DK
+18643;Hjallese St.;hjallese-st;55.3582250000;10.3926080000;DK
+18644;Hjerm St.;hjerm-st;56.4395370000;8.6390560000;DK
+18645;Hjørring St.;hjorring-st;57.4563970000;9.9874560000;DK
+18646;Hobro St.;hobro-st;56.6433760000;9.7822500000;DK
+18647;Højby Fyn St.;hojby-fyn-st;55.3302140000;10.4339590000;DK
+18648;Højslev St.;hojslev-st;56.5494300000;9.1102790000;DK
+18649;Højstrup St.;hojstrup-st;56.0471040000;12.5941120000;DK
+18650;Holbæk St.;holbaek-st;55.7154830000;11.7083680000;DK
+18651;Holme-Olstrup St.;holme-olstrup-st;55.2610240000;11.8486360000;DK
+18652;Holmstrup St.;holmstrup-st;55.3620090000;10.2719550000;DK
+18653;Holsted St.;holsted-st;55.4848290000;8.9137120000;DK
+18654;Hørdum St.;hordum-st;56.8506860000;8.4901760000;DK
+18655;Hornbæk St.;hornbaek-st;56.0891650000;12.4594620000;DK
+18656;Horneby Sand St.;horneby-sand-st;56.0899650000;12.4352630000;DK
+18657;Humlebæk St.;humlebaek-st;55.9638100000;12.5329310000;DK
+18658;Humlum St.;humlum-st;56.5404500000;8.5524000000;DK
+18659;Hurup Thy St.;hurup-thy-st;56.7515890000;8.4182090000;DK
+18660;Hvalsø St.;hvalso-st;55.5953060000;11.8596480000;DK
+18661;Hvidbjerg St.;hvidbjerg-st;56.6503340000;8.5261690000;DK
+18662;Hviding St.;hviding-st;55.2744630000;8.7301520000;DK
+18663;Ikast St.;ikast-st;56.1449160000;9.1551800000;DK
+18664;Jelling St.;jelling-st;55.7538940000;9.4220610000;DK
+18665;Jyderup St.;jyderup-st;55.6603070000;11.3979800000;DK
+18666;Kagerup St. (Hillerød);kagerup-st-hillerod;55.9972590000;12.2861860000;DK
+18667;Kalundborg St.;kalundborg-st;55.6777460000;11.0900810000;DK
+18668;Karinebæk St.;karinebaek-st;56.0831690000;12.4682090000;DK
+18669;Kauslunde St.;kauslunde-st;55.4759560000;9.8105300000;DK
+18670;Kibæk St.;kibaek-st;56.0321280000;8.8515160000;DK
+18671;Kildekrog St.;kildekrog-st;56.0926160000;12.4234420000;DK
+18672;Klampenborg St.;klampenborg-st;55.7772030000;12.5883050000;DK
+18673;Kliplev St.;kliplev-st;54.9353630000;9.3967740000;DK
+18674;Knabstrup St.;knabstrup-st;55.6648110000;11.5536640000;DK
+18675;Korsør St.;korsor-st;55.3572000000;11.1351260000;DK
+18676;Kværndrup St.;kvaerndrup-st;55.1777930000;10.5190870000;DK
+18677;Kvissel St.;kvissel-st;57.4720290000;10.4123490000;DK
+18678;Kvistgaard St.;kvistgaard-st;55.9903910000;12.5024850000;DK
+18679;Langerød St.;langerod-st;55.9813480000;12.4516860000;DK
+18680;Laven St.;laven-st;56.1248250000;9.7175450000;DK
+18681;Lejre St.;lejre-st;55.6047090000;11.9723280000;DK
+18682;Lem St.;lem-st;56.0249820000;8.3860360000;DK
+18683;Lille Skensved St.;lille-skensved-st;55.5115090000;12.1402820000;DK
+18684;Lundby St.;lundby-st;55.1102930000;11.8694910000;DK
+18685;Lyngs St.;lyngs-st;56.6646810000;8.4513700000;DK
+18686;Ørestad St.;orestad-st;55.6284400000;12.5786500000;DK
+18687;Marienlyst St.;marienlyst-st;56.0433110000;12.6019770000;DK
+18688;Mårum St. (Græsted-Gilleleje);marum-st-graested-gilleleje;56.0308690000;12.3168570000;DK
+18689;Mørdrup St.;mordrup-st;56.0021940000;12.5326520000;DK
+18690;Mørkøv St.;morkov-st;55.6545180000;11.5018320000;DK
+18691;Nivå St.;niva-st;55.9340830000;12.5068980000;DK
+18692;Nørre Alslev St.;norre-alslev-st;54.8967540000;11.8857350000;DK
+18693;Nyborg St.;nyborg-st;55.3140700000;10.8029210000;DK
+18694;Oddesund Nord St.;oddesund-nord-st;56.5826720000;8.5474110000;DK
+18695;Ølby St.;olby-st;55.4800550000;12.1754570000;DK
+18696;Ølgod St.;olgod-st;55.8109840000;8.6227670000;DK
+18697;Paarup St.;paarup-st;56.1008680000;12.3013060000;DK
+18698;Pederstrup St.;pederstrup-st;55.2831920000;10.4857820000;DK
+18699;Randers St.;randers-st;56.4616600000;10.0213000000;DK
+18700;Regstrup St.;regstrup-st;55.6776740000;11.6126600000;DK
+18701;Rejsby St.;rejsby-st;55.2300020000;8.7321750000;DK
+18702;Ribe St.;ribe-st;55.3276340000;8.7703070000;DK
+18703;Ribe Nørremark St.;ribe-norremark-st;55.3399050000;8.7758350000;DK
+18704;Ringe St.;ringe-st;55.2393330000;10.4817810000;DK
+18705;Ringkøbing St.;ringkobing-st;56.0928410000;8.2503350000;DK
+18706;Rødby;rodby;54.6557180000;11.3574660000;DK
+18707;Rødby Færge;rodby-faerge;54.6552320000;11.3548410000;DK
+18708;Rødekro St.;rodekro-st;55.0696890000;9.3327530000;DK
+18709;Rødkærsbro St.;rodkaersbro-st;56.3528450000;9.5000330000;DK
+18710;Rudme St.;rudme-st;55.1989000000;10.4868960000;DK
+18711;Rungsted Kyst St.;rungsted-kyst-st;55.8823500000;12.5315470000;DK
+18712;Saltrup St.;saltrup-st;56.0544300000;12.3217020000;DK
+18713;Saunte St.;saunte-st;56.0770020000;12.4845780000;DK
+18714;Sejstrup St.;sejstrup-st;55.4353160000;8.7333340000;DK
+18715;Sig St.;sig-st;55.6655300000;8.5774620000;DK
+18716;Silkeborg St.;silkeborg-st;56.1641700000;9.5440270000;DK
+18717;Sindal St.;sindal-st;57.4692780000;10.1989450000;DK
+18718;Sjørring St.;sjorring-st;56.9518320000;8.5877360000;DK
+18719;Skærbæk St.;skaerbaek-st;55.1587630000;8.7714940000;DK
+18720;Skalbjerg St.;skalbjerg-st;55.3660540000;10.1411890000;DK
+18721;Skibstrup St.;skibstrup-st;56.0781710000;12.5126420000;DK
+18722;Skive St.;skive-st;56.5609630000;9.0274800000;DK
+18723;Skodsborg St.;skodsborg-st;55.8233530000;12.5716480000;DK
+18724;Skørping St.;skorping-st;56.8359610000;9.8872980000;DK
+18725;Slagelse St.;slagelse-st;55.4075480000;11.3480540000;DK
+18726;Slotspavillonen St.;slotspavillonen-st;55.9425950000;12.3110950000;DK
+18727;Snedsted St.;snedsted-st;56.8921530000;8.5269060000;DK
+18728;Søborg St. (Gilleleje);soborg-st-gilleleje;56.1005900000;12.3338110000;DK
+18729;Sønderborg St.;sonderborg-st;54.9126740000;9.7785730000;DK
+18730;Sorø St.;soro-st;55.4190190000;11.5687930000;DK
+18731;Stæremosen St.;staeremosen-st;56.1121410000;12.3186820000;DK
+18732;Stenstrup St.;stenstrup-st;55.1311210000;10.5094230000;DK
+18733;Stenstrup Syd St.;stenstrup-syd-st;55.1204960000;10.5150320000;DK
+18734;Stoholm St.;stoholm-st;56.4874860000;9.1498950000;DK
+18735;Studsgaard St.;studsgaard-st;56.0915200000;8.9101970000;DK
+18736;Svebølle St.;svebolle-st;55.6523700000;11.2917450000;DK
+18737;Svejbæk St.;svejbaek-st;56.1330680000;9.6357890000;DK
+18738;Svendborg St.;svendborg-st;55.0597830000;10.6123500000;DK
+18739;Tarm St.;tarm-st;55.9097940000;8.5206770000;DK
+18740;Taulov St.;taulov-st;55.5450110000;9.6157070000;DK
+18741;Thisted St.;thisted-st;56.9527490000;8.6878940000;DK
+18742;Thyregod St.;thyregod-st;55.9071060000;9.2496930000;DK
+18743;Tim St.;tim-st;56.1954800000;8.3058700000;DK
+18744;Tistrup St.;tistrup-st;55.7162740000;8.5985770000;DK
+18745;Tjæreborg St.;tjaereborg-st;55.4666620000;8.5791430000;DK
+18746;Tølløse St.;tollose-st;55.6119990000;11.7732710000;DK
+18747;Tolne St.;tolne-st;57.4859350000;10.3135030000;DK
+18748;Tommerup St.;tommerup-st;55.3497480000;10.1826020000;DK
+18749;Tønder St.;tonder-st;54.9333940000;8.8603970000;DK
+18750;Troldhede St.;troldhede-st;55.9914160000;8.7470250000;DK
+18751;Tureby St.;tureby-st;55.3735150000;12.0762070000;DK
+18752;Uglev St.;uglev-st;56.6122830000;8.5413070000;DK
+18753;Ulfborg St.;ulfborg-st;56.2717170000;8.3252780000;DK
+18754;Ulstrup St.;ulstrup-st;56.3953370000;9.7944300000;DK
+18755;Vamdrup St.;vamdrup-st;55.4280890000;9.2864500000;DK
+18756;Varde St.;varde-st;55.6159720000;8.4843780000;DK
+18757;Vedbæk St.;vedbaek-st;55.8527210000;12.5623800000;DK
+18758;Vejen St.;vejen-st;55.4755880000;9.1364740000;DK
+18759;Vemb St.;vemb-st;56.3439370000;8.3457470000;DK
+18760;Viborg St.;viborg-st;56.4475550000;9.3968730000;DK
+18761;Viby Sjælland St.;viby-sjaelland-st;55.5448500000;12.0275480000;DK
+18762;Vildbjerg St.;vildbjerg-st;56.1980330000;8.7707120000;DK
+18763;Vinderup St.;vinderup-st;56.4828290000;8.7833680000;DK
+18764;Visby St.;visby-st;55.0098930000;8.8018950000;DK
+18765;Vojens St.;vojens-st;55.2484750000;9.3049140000;DK
+18766;Vraa St.;vraa-st;57.3546570000;9.9421140000;DK
+18767;Ydby St.;ydby-st;56.7143460000;8.3986480000;DK
+18768;Nykøbing Falster Rtb. (Bus);nykobing-falster-rtb-bus;54.7668960000;11.8770420000;DK
+18769;Gilleleje Øst St.;gilleleje-ost-st;56.1227390000;12.3089650000;DK
+18770;Birk Centerpark St.;birk-centerpark-st;56.1254630000;9.0295290000;DK
+18771;Tårnby St.;tarnby-st;55.6298250000;12.6019950000;DK
+18772;Ørestad St. (Metro);orestad-st-metro;55.6288090000;12.5792340000;DK
+18773;Herning Messecenter St.;herning-messecenter-st;56.1235390000;8.9441590000;DK
+18774;Esbjerg St.;esbjerg-st;55.4677940000;8.4586510000;DK
+18775;Fredensborg St.;fredensborg-st;55.9771140000;12.4070280000;DK
+18776;Gilleleje St.;gilleleje-st;56.1238540000;12.3030590000;DK
+18777;Herning St.;herning-st;56.1323940000;8.9792340000;DK
+18778;Høje Taastrup St.;hoje-taastrup-st;55.6486210000;12.2688010000;DK
+18779;Holstebro St.;holstebro-st;56.3654210000;8.6204570000;DK
+18780;Horsens St.;horsens-st;55.8627890000;9.8355020000;DK
+18781;Langå St.;langa-st;56.3862670000;9.8968710000;DK
+18782;Middelfart St.;middelfart-st;55.5016210000;9.7346610000;DK
+18783;Næstved St.;naestved-st;55.2318720000;11.7669240000;DK
+18784;Nørre Aaby St.;norre-aaby-st;55.4602160000;9.8706680000;DK
+18785;Nykøbing Falster St.;nykobing-falster-st;54.7668330000;11.8777700000;DK
+18786;Padborg St.;padborg-st;54.8242470000;9.3588040000;DK
+18787;Ry St.;ry-st;56.0911690000;9.7586800000;DK
+18788;Skjern St.;skjern-st;55.9475480000;8.4922890000;DK
+18790;Vordingborg St.;vordingborg-st;55.0125170000;11.8994160000;DK
+18791;Helsingør St.;helsingor-st;56.0331350000;12.6137800000;DK
+18792;Lunderskov St.;lunderskov-st;55.4801180000;9.3037900000;DK
+18793;Ringsted St.;ringsted-st;55.4380400000;11.7861520000;DK
+18794;Skanderborg St.;skanderborg-st;56.0435620000;9.9244950000;DK
+18795;Vejle St.;vejle-st;55.7063590000;9.5368710000;DK
+18796;Østerport St.;osterport-st;55.6927040000;12.5876120000;DK
+22607;Kastrup Lufthavn St.;kastrup-lufthavn-st;55.629609;12.649377;DK
+23008;København Ingerslevsgade;kobenhavn-ingerslevsgade;55.669817;12.565478;DK
+23598;Orehoved St.;orehoved-st;54.939071;11.867738;DK
+27717;Ålbæk St.;albaek-st;57.592628;10.408345;DK
+27718;Ålborg Vestby St.;alborg-vestby-st;57.053278;9.90866;DK
+27719;Ålholm St.;alholm-st;55.672324;12.493168;DK
+27720;Åmarken St.;amarken-st;55.640085;12.49971;DK
+27721;Årslev St.;arslev-st;55.301296;10.466149;DK
+27722;Årup St.;arup-st;55.382918;10.051246;DK
+27723;Albertslund St.;albertslund-st;55.658091;12.353525;DK
+27724;Allerød St.;allerod-st;55.871031;12.356987;DK
+27725;Avedøre St.;avedore-st;55.62519;12.454213;DK
+27726;Bagsværd St.;bagsvaerd-st;55.761589;12.454312;DK
+27727;Ballerup St.;ballerup-st;55.729865;12.358344;DK
+27728;Bernstorffsvej St.;bernstorffsvej-st;55.743021;12.557477;DK
+27729;Birkerød St.;birkerod-st;55.840608;12.423736;DK
+27730;Bispebjerg St.;bispebjerg-st;55.706281;12.541485;DK
+27731;Brøndby Strand St.;brondby-strand-st;55.620996;12.421769;DK
+27732;Brøndbyøster St.;brondbyoster-st;55.665056;12.4402;DK
+27733;Buddinge St.;buddinge-st;55.747377;12.494059;DK
+27734;Bunken St.;bunken-st;57.629863;10.43922;DK
+27735;Charlottenlund St.;charlottenlund-st;55.751869;12.572198;DK
+27736;Danshøj St.;danshoj-st;55.664305;12.493667;DK
+27737;Dybbølsbro St.;dybbolsbro-st;55.66484;12.559522;DK
+27738;Dyssegård St.;dyssegard-st;55.732629;12.535743;DK
+27739;Emdrup St.;emdrup-st;55.720894;12.540751;DK
+27740;Enghave St.;enghave-st;55.663358;12.539499;DK
+27741;Eskilstrup St.;eskilstrup-st;54.85592;11.885479;DK
+27742;Espergærde St.;espergaerde-st;55.995786;12.549433;DK
+27743;Farum St.;farum-st;55.812113;12.373438;DK
+27744;Flintholm St.;flintholm-st;55.685405;12.49866;DK
+27745;Skagen St. (Frederikshavn);skagen-st-frederikshavn;57.723905;10.592102;DK
+27746;Frederikssund St.;frederikssund-st;55.835827;12.065625;DK
+27747;Friheden St.;friheden-st;55.628932;12.482509;DK
+27748;Fuglebakken St. (Frederiksberg);fuglebakken-st-frederiksberg;55.695449;12.527225;DK
+27749;Gentofte St.;gentofte-st;55.753416;12.541556;DK
+27750;Gjesing St.;gjesing-st;55.509504;8.457383;DK
+27751;Egedal St.;egedal-st;55.779611;12.185418;DK
+27752;Glostrup St.;glostrup-st;55.663154;12.397816;DK
+27753;Greve St.;greve-st;55.581368;12.29586;DK
+27754;Grøndal St.;grondal-st;55.690744;12.515975;DK
+27755;Hareskov St.;hareskov-st;55.765525;12.407162;DK
+27756;Hedehusene St.;hedehusene-st;55.648899;12.197618;DK
+27757;Hedensted St.;hedensted-st;55.767565;9.698487;DK
+27758;Hellerup St.;hellerup-st;55.731022;12.567691;DK
+27759;Herlev St.;herlev-st;55.718937;12.443695;DK
+27760;Hillerød St.;hillerod-st;55.926982;12.310719;DK
+27761;Hirtshals St.;hirtshals-st;57.591797;9.962235;DK
+27762;Hjortshøj St.;hjortshoj-st;56.244666;10.268431;DK
+27763;Hørning St.;horning-st;56.082062;10.037819;DK
+27764;Holte St.;holte-st;55.807538;12.468515;DK
+27765;Hornslet St.;hornslet-st;56.320737;10.3135;DK
+27766;Hovmarken St.;hovmarken-st;56.233975;10.255086;DK
+27767;Hulsig St.;hulsig-st;57.659578;10.463063;DK
+27768;Hundige St.;hundige-st;55.597439;12.333398;DK
+27769;Husum St.;husum-st;55.709397;12.464001;DK
+27770;Hvidovre St.;hvidovre-st;55.664547;12.474314;DK
+27771;Ishøj St.;ishoj-st;55.613335;12.358;DK
+27772;Islev St.;islev-st;55.699505;12.469329;DK
+27773;Jægersborg St.;jaegersborg-st;55.761627;12.521583;DK
+27774;Jersie St.;jersie-st;55.520662;12.208485;DK
+27775;Jerup St.;jerup-st;57.532442;10.417343;DK
+27776;Jyllingevej St.;jyllingevej-st;55.690834;12.477206;DK
+27777;Karlslunde St.;karlslunde-st;55.566284;12.268808;DK
+27778;Kb Hallen St.;kb-hallen-st;55.677975;12.492313;DK
+27779;Kildebakke St.;kildebakke-st;55.744638;12.508535;DK
+27780;Kildedal St.;kildedal-st;55.75194;12.286656;DK
+27781;Køge St.;koge-st;55.457533;12.186283;DK
+27782;Kokkedal St.;kokkedal-st;55.9035;12.502111;DK
+27783;Kolind St.;kolind-st;56.362651;10.588282;DK
+27784;Langgade St.;langgade-st;55.667056;12.504203;DK
+27785;Lindholm St.;lindholm-st;57.066712;9.904498;DK
+27786;Løgten St.;logten-st;56.276103;10.317612;DK
+27787;Lyngby St.;lyngby-st;55.768143;12.502911;DK
+27788;Lystrup St.;lystrup-st;56.231123;10.23493;DK
+27789;Måløv St.;malov-st;55.747497;12.318276;DK
+27790;Malmparken St.;malmparken-st;55.724651;12.386017;DK
+27791;Mørke St.;morke-st;56.339228;10.376263;DK
+27792;Nørrebro St.;norrebro-st;55.700835;12.537817;DK
+27793;Nørreport St.;norreport-st;55.683107;12.571506;DK
+27794;Nordhavn St.;nordhavn-st;55.705485;12.590829;DK
+27795;Ny Ellebjerg St.;ny-ellebjerg-st;55.652396;12.51605;DK
+27796;Odder St.;odder-st;55.97144;10.150335;DK
+27797;Odense Sygehus St.;odense-sygehus-st;55.381353;10.366658;DK
+27798;Ølstykke St.;olstykke-st;55.795623;12.159723;DK
+27799;Østbanetorvet St.;ostbanetorvet-st;56.163257;10.216455;DK
+27800;Ordrup St.;ordrup-st;55.76306;12.583677;DK
+27801;Peter Bangs Vej St.;peter-bangs-vej-st;55.678066;12.503628;DK
+27802;Rimmen St.;rimmen-st;57.505023;10.444935;DK
+27803;Rødovre St.;rodovre-st;55.66482;12.458684;DK
+27804;Ryparken St.;ryparken-st;55.715338;12.559556;DK
+27805;Sjælør St.;sjaelor-st;55.651705;12.527114;DK
+27806;Skagen St.;skagen-st;57.723911;10.592109;DK
+27807;Skalborg St.;skalborg-st;57.008366;9.898371;DK
+27808;Skødstrup St. (Århus);skodstrup-st-arhus;56.262104;10.303391;DK
+27809;Skolebakken St.;skolebakken-st;56.156813;10.212891;DK
+27810;Skovbrynet St.;skovbrynet-st;55.765167;12.432029;DK
+27811;Skovlunde St.;skovlunde-st;55.722763;12.40349;DK
+27812;Snekkersten St.;snekkersten-st;56.009261;12.583818;DK
+27813;Solrød Strand St.;solrod-strand-st;55.533325;12.218082;DK
+27814;Sorgenfri St.;sorgenfri-st;55.781755;12.4832;DK
+27815;Spangsbjerg St.;spangsbjerg-st;55.49214;8.460807;DK
+27816;Stengården St.;stengarden-st;55.756527;12.473207;DK
+27817;Stenløse St.;stenlose-st;55.766379;12.190619;DK
+27818;Støvring St.;stovring-st;56.890951;9.84394;DK
+27819;Strandby St. (Frederikshavn);strandby-st-frederikshavn;57.489884;10.490367;DK
+27820;Struer St.;struer-st;56.491385;8.60192;DK
+27821;Svanemøllen St.;svanemollen-st;55.715538;12.578039;DK
+27822;Svendborg Vest St.;svendborg-vest-st;55.055719;10.581898;DK
+27823;Svenstrup St. (Jylland);svenstrup-st-jylland;56.973088;9.856319;DK
+27824;Sydhavn St.;sydhavn-st;55.654794;12.537197;DK
+27825;Taastrup St.;taastrup-st;55.652597;12.302202;DK
+27826;Tønder Nord St.;tonder-nord-st;54.938923;8.861081;DK
+27827;Torsøvej St.;torsovej-st;56.20524;10.228585;DK
+27828;Trekroner St.;trekroner-st;55.647885;12.131796;DK
+27829;Trustrup St.;trustrup-st;56.350505;10.77187;DK
+27830;Vestre Strandalle St.;vestre-strandalle-st;56.194582;10.237028;DK
+27831;Værløse St.;vaerlose-st;55.781986;12.373364;DK
+27832;Valby St.;valby-st;55.663847;12.514321;DK
+27833;Vallensbæk St.;vallensbaek-st;55.623247;12.388391;DK
+27834;Vangede St.;vangede-st;55.739465;12.523627;DK
+27835;Vanløse St.;vanlose-st;55.687357;12.490572;DK
+27836;Varde Kaserne St.;varde-kaserne-st;55.61198;8.472315;DK
+27837;Varde Nord St.;varde-nord-st;55.631326;8.500232;DK
+27838;Vejle Sygehus St.;vejle-sygehus-st;55.714782;9.537029;DK
+27839;Veksø St.;vekso-st;55.750211;12.23841;DK
+27840;Vesterport St.;vesterport-st;55.675701;12.56242;DK
+27841;Vigerslev Alle St.;vigerslev-alle-st;55.659886;12.498686;DK
+27842;Vipperød St.;vipperod-st;55.666828;11.738678;DK
+27843;Virum St.;virum-st;55.795803;12.471532;DK
+27844;Maribo St.;maribo-st;54.77666;11.501694;DK
+27845;Nakskov St.;nakskov-st;54.833243;11.138204;DK
+27846;Sakskøbing St.;sakskobing-st;54.796609;11.634594;DK
+27847;Søllested St.;sollested-st;54.810953;11.270193;DK
+29284;Odense;odense;55.403756;10.40237;DK
+29652;Aabenraa;aabenraa;55.040852;9.4151589;DK
+29653;Aars;aars;56.804489;9.510164;DK
+29655;Ebeltoft;ebeltoft;56.196327;10.677857;DK
+29656;Fjerritslev;fjerritslev;57.08864;9.263244;DK
+29659;Haderslev;haderslev;55.250072;9.48911;DK
+29660;Hadsund;hadsund;56.721437;10.112897;DK
+29661;Herning;herning;56.138557;8.967322;DK
+29667;Krusa;krusa;54.848754;9.401548;DK
+29668;Løgstør;logstor;56.963151;9.257084;DK
+29669;Nykøbing Mors;nykobing-mors;56.7955597;8.8574417;DK
+29670;Rudkøbing;rudkobing;54.94085;10.721751;DK
+29671;Rønde;ronde;56.300275;10.476545;DK
+29673;Tirstrup;tirstrup;56.300462;10.687407;DK
+29675;Voldby;voldby;56.235662;9.885574;DK
+32191;Ans Station;ans-station;56.288981;9.608682;DK
+33377;Christiansfeld;christiansfeld;55.356653;9.486305;DK
+34297;København Lufthavn;kobenhavn-lufthavn;55.6299954;12.6486294;DK
+34786;Roskilde Festival;roskilde-festival;55.6167516;12.0767417;DK
+35183;Tappernøje;tappernoje;55.1657569;11.9582594;DK
+35214;Copenhagen Airport;copenhagen-airport;55.631365;12.656061;DK
+35799;Nykøbing Falster;nykobing-falster;54.765422;11.875492;DK
+37589;Køge Nord St.;koge-nord-st;55.501389;12.172222;DK
+38121;Grindsted;grindsted;55.7583217;8.9249494;DK
+38177;Billund Airport;billund-airport;55.728449;9.112366;DK
+38178;Billund Legoland;billund-legoland;55.728449;9.112366;DK
+38220;Lindved;lindved;55.782644;9.575891;DK
+38283;Gladsaxe;gladsaxe;55.7427646;12.4747962;DK
+39251;Langeskov st;langeskov-st;55.344903;10.598596;DK
+39252;Viby Jylland st;viby-jylland-st;56.122344;10.16039;DK
+61604;Kastrup gr;kastrup-gr;55.57722;12.81611;DK
+61707;Lille Kregme;lille-kregme;55.94611;12.03444;DK
+61933;Ryomgård;ryomgard;56.38;10.50056;DK
+61949;Rönne;ronne;55.11806;14.70389;DK
+67325;Höje Taastrup;hoje-taastrup;55.64889;12.26889;DK
+67328;Kolding;kolding;55.49111;9.48194;DK
+68081;Goedstrup St;goedstrup-st;56.16106;8.890187;DK
+68082;Goedstrup St. (togbus);goedstrup-st-togbus;56.158822;8.892336;DK

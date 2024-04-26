@@ -1,0 +1,76 @@
+id;name;uic;lat;lon;country
+19092;Jesenice;jesenice;46.4363500000;14.0533040000;SI
+19093;Lesce Bled;lesce-bled;46.3604270000;14.1576320000;SI
+19094;Ljubljana;ljubljana;46.0586860000;14.5129400000;SI
+19095;Zidani Most;zidani-most;46.0852670000;15.1707080000;SI
+19096;Maribor;maribor;46.5620640000;15.6580130000;SI
+19097;Pivka;pivka;45.6757100000;14.1911440000;SI
+19098;Koper;koper;45.5391990000;13.7393640000;SI
+19099;Kranj;kranj;46.2390100000;14.3481680000;SI
+19100;Dobova;dobova;45.8988040000;15.6545520000;SI
+22624;Ljubljana Avtobusna Postaja;ljubljana-avtobusna-postaja;46.05777;14.50960;SI
+22732;Dobova;dobova;;;SI
+22733;Jesenice;jesenice;;;SI
+26842;Ptuj Avtobusna Postaja;ptuj-avtobusna-postaja;46.421194;15.876302;SI
+28632;Pragersko;pragersko;46.394874;15.662714;SI
+28633;Murska Sobota;murska-sobota;46.659588;16.171962;SI
+28634;Postojna;postojna;45.772928;14.221276;SI
+28636;Celje;celje;46.228564;15.268259;SI
+28637;Divaca;divaca;45.681301;13.965002;SI
+28638;Metlika;metlika;45.642568;15.322948;SI
+28639;Sezana;sezana;45.703936;13.863173;SI
+28696;Grobelno;grobelno;46.213545;15.440109;SI
+32232;Portorož;portoroz;45.5142898;13.5908455;SI
+34095;Bled;bled;46.3657032;14.107356;SI
+34219;Presečno;presecno;46.201013;16.346491;SI
+34266;Bistriţa;bistrita-postaja;46.7590309;20.029018450000002;SI
+34268;Brežice;brezice;45.8998629;15.59911304999995;SI
+34271;Kranjska Gora;kranjska-gora;46.4844118;13.7818386;SI
+34273;Piran;piran;45.5249;13.5672;SI
+34279;Novo Mesto;novo-mesto;45.8020954;15.1607908;SI
+34281;Ljubljana Airport;ljubljana-airport;46.2308784250067;14.4558995962143;SI
+35225;Nova Gorica;nova-gorica;45.9551312;13.6479279;SI
+35288;Kostel;kostel;46.1840943;15.7258971;SI
+35301;Secovlje Portorož Airport;secovlje-portoroz-airport;45.4744043;13.6167124;SI
+35320;Maribor Airport;maribor-airport;46.4781954;15.6820207000001;SI
+35523;Ilirska Bistrica;ilirska-bistrica;45.56642;14.24183;SI
+35527;Sempeter pri Gorici;sempeter-pri-gorici;45.92156;13.63867;SI
+35558;Poljane;poljane;45.3151432;14.2435973;SI
+35973;Vodice Slovenia;vodice-slovenia;46.1860381;14.4876101;SI
+38211;Izola;izola;45.5374048;13.6600802;SI
+38323;Čatež ob Savi;catez-ob-savi;45.891867;15.603269;SI
+38383;Prebold;prebold;46.2308;15.1184;SI
+38384;Trbovlje;trbovlje;46.1867;15.057;SI
+39024;Bohinjska Bistrica;bohinjska-bistrica;46.274364;13.959204;SI
+39025;Sevnica;sevnica;46.009461;15.301024;SI
+39026;Most na Soci;most-na-soci;46.146016;13.759159;SI
+39027;Ormoz;ormoz;46.402784;16.156779;SI
+39028;Krsko;krsko;45.956227;15.493286;SI
+39029;Lasko;lasko;46.155248;15.231753;SI
+39030;Rimske Toplice;rimske-toplice;46.123831;15.202907;SI
+39031;Hrpelje-Kozina;hrpelje-kozina;45.604048;13.935203;SI
+39032;Skofja Loka;skofja-loka;46.174728;14.334216;SI
+39033;Dravograd;dravograd;46.586955;15.02626;SI
+39034;Rogaska Slatina;rogaska-slatina;46.231836;15.638335;SI
+39035;Velenje;velenje;46.363735;15.10328;SI
+39036;Lendava;lendava;46.556706;16.446133;SI
+39037;Hrastnik;hrastnik;46.122572;15.093967;SI
+39038;Litija;litija;46.058335;14.825072;SI
+39039;Poljcane;poljcane;46.313566;15.576795;SI
+39040;Hodos;hodos;46.820477;16.332536;SI
+66429;Rakek;rakek;45.815202;14.312948;SI
+66431;Logatec;logatec;45.917700;14.235594;SI
+66432;Borovnica;borovnica;45.921261;14.367895;SI
+66815;Brezovica;brezovica;46.021389;14.426389;SI
+66816;Gornje Lezece;gornje-lezece;45.666389;14.071944;SI
+66818;Ljubljana Dolgi Most;ljubljana-dolgi-most;46.037778;14.464722;SI
+66819;Notranje Gorice;notranje-gorice;45.987500;14.402500;SI
+66820;Planina;planina;45.861667;14.274722;SI
+66821;Povir;povir;45.699444;13.930556;SI
+66822;Preserje;preserje;45.965556;14.396389;SI
+66823;Prestranek;prestranek;45.728611;14.185278;SI
+67318;Sentilj;sentilj;46.674223;15.657975;SI
+68092;Ljutomer;ljutomer;46.528687;16.188853;SI
+68126;Prevalje;prevalje;46.549686;14.922587;SI
+68129;Ravne na Koroskem;ravne-na-koroskem;46.547034;14.962733;SI
+68151;Zagorje;zagorje-si;46.1209;14.991148;SI

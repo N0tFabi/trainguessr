@@ -1,0 +1,534 @@
+id;name;uic;lat;lon;country
+10482;Rzepin;rzepin;52.350139;14.815171;PL
+10483;Poznań;poznan;52.401996;16.910866;PL
+10484;Kutno;kutno;52.227437;19.348436;PL
+10491;Warszawa;warszawa;52.232855;20.9211119;PL
+10492;Warszawa-Wschodnia;warszawa-wschodnia;52.251544;21.052332;PL
+10493;Warszawa-Centralna;warszawa-centralna;52.228864;21.003233;PL
+17518;Gdańsk Główny;gdansk-glowny;54.355523;18.643807;PL
+17519;Łódź Kaliska;lodz-kaliska;51.757416;19.430884;PL
+17584;Kraków Główny;krakow-glowny;50.0671920000;19.9474230000;PL
+17585;Kraków Główny (Bus);krakow-glowny-bus;50.0679020000;19.9495800000;PL
+19068;Bydgoszcz Główna;bydgoszcz-glowna;53.1351110000;17.9916400000;PL
+19069;Gdynia Główna;gdynia-glowna;54.5208430000;18.5295540000;PL
+19070;Gniezno;gniezno;52.5264340000;17.6017860000;PL
+19071;Inowrocław;inowroclaw;52.8014050000;18.2391840000;PL
+19072;Katowice;katowice;50.2575110000;19.0171650000;PL
+19073;Konin;konin;52.2313990000;18.2533330000;PL
+19074;Kutno;kutno;52.2269580000;19.3486150000;PL
+19075;Legnica;legnica;51.2138470000;16.1689240000;PL
+19076;Sopot;sopot;54.4401650000;18.5623200000;PL
+19077;Szczecin Główny;szczecin-glowny;53.4187840000;14.5503170000;PL
+19078;Tczew;tczew;54.0973170000;18.7901510000;PL
+19079;Warszawa Zachodnia;warszawa-zachodnia;52.2199740000;20.9652440000;PL
+19080;Wrocław Główny;wroclaw-glowny;51.0980750000;17.0370840000;PL
+19081;Zbąszynek;zbaszynek;52.2425090000;15.8180930000;PL
+19082;Rzepin;rzepin;52.3502180000;14.8150760000;PL
+19083;Kostrzyn;kostrzyn;52.5915970000;14.6446950000;PL
+19084;Żary;zary;51.6347490000;15.1369620000;PL
+19085;Krzewina Zgorzelecka;krzewina-zgorzelecka;51.0153560000;14.9393610000;PL
+19086;Świebodzin;swiebodzin;52.2451430000;15.5395350000;PL
+19087;Warszawa Zachodnia WKD;warszawa-zachodnia-wkd;52.2196590000;20.9653970000;PL
+19088;Warszawa Zachodnia (peron 8);warszawa-zachodnia-peron-8;52.2213220000;20.9613160000;PL
+19089;Katowice Dworzec autobusowy Piotra Skargi 8;katowice-dworzec-autobusowy-piotra-skargi-8;50.2626800000;19.0171830000;PL
+19090;Wrocław Główny (Dworzec autobusowy Sucha 1-11);wroclaw-glowny-dworzec-autobusowy-sucha-1-11;51.0965560000;17.0339470000;PL
+19091;Świnoujście Centrum;swinoujscie-centrum;53.9129930000;14.2360000000;PL
+22587;Kołobrzeg;kolobrzeg;54.182310;15.569649;PL
+22690;Warszawa-Centralna;warszawa-centralna;52.228744;21.003318;PL
+22730;Kostrzyn;kostrzyn;52.39336;17.224689;PL
+23010;Chojnice;chojnice;53.688658;17.576796;PL
+23011;Krzyż;krzyz;52.877501;16.019364;PL
+23012;Opole Główne;opole-glowne;50.661456;17.926319;PL
+28487;Rzeszów;rzeszow;50.04311;22.006797;PL
+28488;Czechowice Dziedzice;czechowice-dziedzice;49.915103;19.004652;PL
+28489;Trzebiatów;trzebiatow;54.058645;15.276735;PL
+28490;Zebrzydowice;zebrzydowice;49.87049;18.623698;PL
+28491;Wałbrzych Główny;walbrzych-glowny;50.743909;16.278601;PL
+28492;Świnoujście;swinoujscie;53.903725;14.264199;PL
+28493;Aleksandrów Kujawski;aleksandrow-kujawski;52.875476;18.696664;PL
+28494;Biała Podlaska;biala-podlaska;52.020404;23.130566;PL
+28495;Białogard;bialogard;54.009717;15.976914;PL
+28496;Białystok;bialystok;53.134239;23.136723;PL
+28497;Bolesławiec;boleslawiec;51.266155;15.568921;PL
+28498;Brzeg;brzeg;50.852975;17.471182;PL
+28499;Bytom;bytom;50.343107;18.915704;PL
+28500;Chełm;chelm;51.141196;23.494036;PL
+28501;Chorzów Miasto;chorzow-miasto;50.298727;18.949647;PL
+28502;Ciechocinek;ciechocinek;52.879179;18.7891;PL
+28503;Częstochowa Osobowa;czestochowa-osobowa;50.808649;19.121323;PL
+28504;Dębica;debica;50.054418;21.405563;PL
+28505;Duszniki Zdrój;duszniki-zdroj;50.408162;16.385564;PL
+28506;Elbląg;elblag;54.15091;19.416655;PL
+28507;Ełk;elk;53.825096;22.362177;PL
+28508;Głogów;glogow;51.668953;16.079715;PL
+28509;Gliwice;gliwice;50.301109;18.677157;PL
+28510;Gorzów Wielkopolski;gorzow-wielkopolski;52.727756;15.229227;PL
+28511;Hel;hel;54.611041;18.800893;PL
+28512;Iława Główna;ilawa-glowna;53.582253;19.573849;PL
+28513;Jarocin;jarocin;51.969121;17.494275;PL
+28514;Jastarnia;jastarnia;54.70114;18.677624;PL
+28515;Jaworzyna Śląska;jaworzyna-slaska;50.912394;16.428928;PL
+28516;Jelenia Góra;jelenia-gora;50.902568;15.75533;PL
+28517;Jurata;jurata;54.684861;18.713204;PL
+28518;Kalisz;kalisz;51.742817;18.071913;PL
+28519;Kamieniec Ząbkowicki;kamieniec-zabkowicki;50.536366;16.900376;PL
+28520;Karpacz;karpacz;50.782622;15.762056;PL
+28521;Katowice;katowice;;;PL
+28522;Kędzierzyn Koźle;kedzierzyn-kozle;50.344356;18.204765;PL
+28523;Kępno;kepno;51.29164;18.001024;PL
+28524;Kielce;kielce;50.874207;20.618117;PL
+28525;Kłodzko Główne;klodzko-glowne;50.450941;16.656705;PL
+28526;Koluszki;koluszki;51.744606;19.818994;PL
+28527;Koszalin;koszalin;54.191254;16.169931;PL
+28529;Krynica;krynica;49.410476;20.957361;PL
+28530;Kudowa Zdrój;kudowa-zdroj;50.427417;16.246447;PL
+28531;Kunowice;kunowice;52.341661;14.638816;PL
+28532;Kuźnica Białostocka;kuznica-bialostocka;53.511373;23.64163;PL
+28533;Lądek Zdrój;ladek-zdroj;50.341879;16.859864;PL
+28534;Leszno;leszno;51.846409;16.565573;PL
+28535;Łódź Chojny;lodz-chojny;51.726248;19.484457;PL
+28536;Łódź Fabryczna;lodz-fabryczna;51.769151;19.469028;PL
+28537;Lubań Śląski;luban-slaski;51.111217;15.293195;PL
+28538;Lubliniec;lubliniec;50.673209;18.690038;PL
+28539;Lubin Górniczy;lubin-gorniczy;51.394039;16.192803;PL
+28540;Małkinia;malkinia;52.693795;22.033522;PL
+28541;Małaszewicze;malaszewicze;52.026508;23.529957;PL
+28542;Malbork;malbork;54.035795;19.04282;PL
+28543;Marciszów;marciszow;50.851402;16.007469;PL
+28544;Muszyna;muszyna;49.346284;20.893573;PL
+28545;Nowy Sącz;nowy-sacz;49.606674;20.702463;PL
+28546;Nowa Sól;nowa-sol;51.799683;15.70811;PL
+28547;Nysa;nysa;50.477792;17.341827;PL
+28548;Oława;olawa;50.930938;17.297187;PL
+28549;Oleśnica;olesnica;51.200372;17.38698;PL
+28550;Olsztyn Główny;olsztyn-glowny;53.78584;20.497401;PL
+28551;Ostrowiec Świętokrzyski;ostrowiec-swietokrzyski;50.933896;21.376707;PL
+28552;Oświęcim;oswiecim;50.041501;19.199727;PL
+28553;Piła Główna;pila-glowna;53.143148;16.744539;PL
+28554;Piotrków Trybunalski;piotrkow-trybunalski;51.40992;19.684623;PL
+28555;Poznań Starołęka;poznan-staroleka;52.366165;16.934553;PL
+28556;Połczyn Zdrój;polczyn-zdroj;53.045938;22.981561;PL
+28557;Polanica Zdrój;polanica-zdroj;50.396916;16.510891;PL
+28558;Prudnik;prudnik;50.329191;17.577111;PL
+28559;Przemyśl Główny;przemysl-glowny;49.783663;22.776364;PL
+28560;Lublin;lublin;51.231241;22.568398;PL
+28561;Racibórz;raciborz;50.090348;18.226393;PL
+28562;Radom;radom;51.390952;21.155564;PL
+28563;Racławice Śląskie;raclawice-slaskie;50.312031;17.761201;PL
+28564;Radomsko;radomsko;51.074505;19.437572;PL
+28565;Rybnik;rybnik;50.089135;18.54764;PL
+28566;Sanok;sanok;49.553216;22.210834;PL
+28567;Szczecin Gumieńce;szczecin-gumience;53.556481;15.529656;PL
+28568;Siedlce;siedlce;52.162218;22.271925;PL
+28569;Sieradz;sieradz;51.597659;18.714984;PL
+28570;Skarżysko Kamienna;skarzysko-kamienna;51.115891;20.881725;PL
+28571;Słubice;slubice;52.335818;14.594661;PL
+28572;Słupsk;slupsk;54.467367;17.016544;PL
+28573;Sosnowiec Główny;sosnowiec-glowny;50.278906;19.126411;PL
+28574;Strzelin;strzelin;50.784702;17.060294;PL
+28575;Suwałki;suwalki;54.106153;22.945262;PL
+28576;Szklarska Poręba Górna;szklarska-poreba-gorna;50.832596;15.518716;PL
+28577;Tarnowskie Góry;tarnowskie-gory;50.446977;18.865121;PL
+28578;Tarnów;tarnow;50.0054;20.974179;PL
+28579;Toruń Główny;torun-glowny;53.000102;18.614601;PL
+28580;Trzebinia;trzebinia;50.153938;19.453214;PL
+28581;Turoszów;turoszow;50.9426102;14.9092154;PL
+28582;Ustka;ustka;54.578743;16.861102;PL
+28583;Wałbrzych;walbrzych;50.783564;16.284682;PL
+28584;Wadowice;wadowice;49.884792;19.501657;PL
+28585;Warszawa Gdańska;warszawa-gdanska;52.259184;20.993713;PL
+28586;Wałbrzych Miasto;walbrzych-miasto;50.78445;16.28404;PL
+28587;Węgliniec;wegliniec;51.290102;15.223088;PL
+28588;Władysławowo;wladyslawowo;54.794098;18.401763;PL
+28589;Włocławek;wloclawek;52.652481;19.059189;PL
+28590;Wrocław Nadodrze;wroclaw-nadodrze;51.125887;17.032356;PL
+28591;Wysoka Kamieńska;wysoka-kamienska;53.824944;14.832578;PL
+28592;Zabrze;zabrze;50.30528;18.786942;PL
+28593;Żagań;zagan;51.604248;15.315623;PL
+28594;Zakopane;zakopane;49.300448;19.963387;PL
+28595;Zamość;zamosc;50.713552;23.239209;PL
+28596;Zawiercie;zawiercie;50.481019;19.422992;PL
+28597;Zgorzelec;zgorzelec;51.140027;15.003544;PL
+28598;Zielona Góra;zielona-gora;51.947439;15.513709;PL
+29017;Łódź;lodz;51.7592485;19.4559833;PL
+29323;Wrocław;wroclaw;51.109444;17.038389;PL
+29324;Rabka-Zdrój;rabka-zdroj;49.611764;19.954229;PL
+29325;Kraków;krakow;50.068338;19.945266;PL
+29326;Chorzów;chorzow;50.299277;18.952944;PL
+32225;Myślenice;myslenice;49.83347;19.93965;PL
+32374;Andrychów;andrychow;49.8548934;19.3412842;PL
+32375;Annopol;annopol;50.8853797;21.8569157;PL
+32376;Augustów;augustow;53.8434431;22.9796023;PL
+32377;Baranów Sandomierski;baranow-sandomierski;50.49912;21.54204;PL
+32378;Biecz;biecz;49.73596;21.26301;PL
+32379;Bielsko-Biała;bielsko-biala;49.82245;19.04686;PL
+32380;Biskupiec;biskupiec;53.86467;20.95692;PL
+32381;Bochnia;bochnia;49.96905;20.43028;PL
+32382;Brzesko;brzesko;49.96911;20.60606;PL
+32383;Busko-Zdroj;busko-zdroj;50.479408;20.71818;PL
+32384;Chrzanow;chrzanow;50.1345643;19.4001765;PL
+32385;Ciechanow;ciechanow;52.8814838;20.6197948;PL
+32386;Czersk;czersk;53.79589;17.97647;PL
+32387;Czluchow;czluchow;53.6671796;17.359013;PL
+32388;Dzierzoniow;dzierzoniow;50.7308605;16.6567892;PL
+32389;Gizycko;gizycko;54.036405;21.7667341;PL
+32390;Głogówek;glogowek;50.35349;17.86435;PL
+32391;Gorlice;gorlice;49.65563;21.16035;PL
+32392;Gorzów Śląski;gorzow-slaski;51.02871;18.42304;PL
+32393;Grodków;grodkow;50.69625;17.38516;PL
+32394;Grudziadz;grudziadz;53.4837486;18.753565;PL
+32395;Grybów;grybow;49.62406;20.94789;PL
+32396;Hrubieszów;hrubieszow;50.80502;23.89251;PL
+32397;Izbicko;izbicko;50.57163;18.15585;PL
+32398;Janów Lubelski;janow-lubelski;50.70695;22.41039;PL
+32399;Jaroslaw;jaroslaw;50.01612;22.67775;PL
+32400;Jaslo;jaslo;49.7445663;21.4722875;PL
+32401;Jastrowie;jastrowie;53.42048;16.81756;PL
+32402;Jastrzębie;jastrzebie;53.2152803;19.5205355;PL
+32403;Jawor;jawor;51.05132;16.19347;PL
+32404;Jedrzejow;jedrzejow;50.639337;20.3038771;PL
+32405;Ketrzyn;ketrzyn;54.07657;21.37504;PL
+32406;Kęty;kety;49.8807299;19.2228003;PL
+32407;Kluczbork;kluczbork;50.97281;18.21816;PL
+32408;Kolbuszowa;kolbuszowa;50.2441;21.7761;PL
+32409;Koło;kolo;52.20024;18.63865;PL
+32410;Krapkowice;krapkowice;50.47515;17.96539;PL
+32411;Kraśnik;krasnik;50.9236;22.22706;PL
+32412;Krasnystaw;krasnystaw;50.98464;23.1742;PL
+32413;Krosno;krosno;49.68866;21.77058;PL
+32414;Lancut;lancut;50.064678;22.239401;PL
+32415;Lebork;lebork;54.544642;17.7532511;PL
+32416;Leżajsk;lezajsk;50.26187;22.41924;PL
+32417;Limanowa;limanowa;49.70594;20.42204;PL
+32418;Lubaczow;lubaczow;50.15609;23.123489;PL
+32419;Lukow;lukow;51.927158;22.3830241;PL
+32420;Mielec;mielec;50.28709;21.4239;PL
+32421;Mragowo;mragowo;53.8641596;21.3048734;PL
+32422;Mszana Dolna;mszana-dolna;49.67432;20.07992;PL
+32423;Nisko;nisko;50.52001;22.13955;PL
+32424;Nowa Sarzyna;nowa-sarzyna;50.32086;22.34456;PL
+32425;Nowe Miasto Lubawskie;nowe-miasto-lubawskie;53.42079;19.59515;PL
+32426;Nowogard;nowogard;53.67437;15.1163;PL
+32427;Olesno;olesno;50.87698;18.42094;PL
+32428;Olsztyn;olsztyn;50.75185;19.26737;PL
+32429;Ostroda;ostroda;53.6963007;19.9647952;PL
+32430;Ostroleka;ostroleka;53.0876544;21.5592554;PL
+32431;Ożarów;ozarow;50.88758;21.66654;PL
+32432;Ozimek;ozimek;50.67944;18.2137;PL
+32433;Paczków;paczkow;50.46395;17.00658;PL
+32434;Pilzno;pilzno;49.97883;21.29228;PL
+32435;Pisz;pisz;53.62744;21.81253;PL
+32436;Płock;plock;52.54682;19.70638;PL
+32437;Polkowice;polkowice;51.50391;16.07261;PL
+32438;Polska Cerekiew;polska-cerekiew;50.2277372;18.1267352;PL
+32439;Praszka;praszka;51.05375;18.45317;PL
+32440;Przeworsk;przeworsk;50.05912;22.49408;PL
+32441;Przywory;przywory;50.5737479;17.9871321;PL
+32442;Pszczyna;pszczyna;49.98037;18.95382;PL
+32443;Pszów;pszow;50.03994;18.39472;PL
+32444;Puławy;pulawy;51.41655;21.96939;PL
+32445;Pyskowice;pyskowice;51.17805;15.9448;PL
+32446;Rydułtowy;rydultowy;50.05857;18.41703;PL
+32447;Rymanów;rymanow;49.57649;21.86811;PL
+32448;Sandomierz;sandomierz;50.68265;21.74898;PL
+32449;Skoczów;skoczow;49.8031512;18.790762;PL
+32450;Stalowa Wola;stalowa-wola;50.58286;22.05334;PL
+32451;Starachowice;starachowice;51.0374;21.07126;PL
+32452;Strzelce Opolskie;strzelce-opolskie;50.5107;18.30056;PL
+32453;Sucha Beskidzka;sucha-beskidzka;49.74188;19.59429;PL
+32454;Świdnica;swidnica;50.84378;16.48859;PL
+32455;Świeca;swieca;51.5454583;17.7046513;PL
+32456;Syców;sycow;51.30814;17.71979;PL
+32457;Szczecinek;szczecinek;53.70791;16.69937;PL
+32458;Szczekociny;szczekociny;50.62669;19.825;PL
+32459;Szczytno;szczytno;53.56259;20.98747;PL
+32460;Szprotawa;szprotawa;51.56563;15.53664;PL
+32461;Tarnobrzeg;tarnobrzeg;50.57304;21.67937;PL
+32462;Tomaszów Lubelski;tomaszow-lubelski;50.44767;23.41616;PL
+32463;Toszek;toszek;50.45442;18.52209;PL
+32464;Tychy;tychy;50.119469;18.98443;PL
+32465;Ustroń;ustron;49.719657;18.8120576;PL
+32466;Walcz;walcz;53.2734739;16.4752847;PL
+32467;Wieluń;wielun;51.22097;18.56964;PL
+32468;Wodzislaw Slaski;wodzislaw-slaski;50.003137;18.4719102;PL
+32469;Września;wrzesnia;52.32382;17.56654;PL
+32470;Wschowa;wschowa;51.80705;16.31663;PL
+32471;Ząbkowice Śląskie;zabkowice-slaskie;50.5893617;16.8132419;PL
+32472;Zduńska Wola;zdunska-wola;51.59915;18.93974;PL
+32473;Złoty Stok;zloty-stok;50.44472;16.87586;PL
+32474;Żnin;znin;52.84958;17.71992;PL
+32475;Żory;zory;50.04523;18.70062;PL
+32476;Żywiec;zywiec;49.6912999;19.1823983;PL
+32600;Cieszyn;cieszyn;49.749908;18.6608;PL
+32601;Jastrzębie Zdrój;jastrzebie-zdroj;49.95542;18.57479;PL
+32602;Kedzierzyn;kedzierzyn;52.49234;17.679319;PL
+32603;Olszyna;olszyna;51.06681;15.37221;PL
+32604;Strzegom;strzegom;50.96264;16.35006;PL
+33328;Krakow Airport (John Paul II);krakow-airport-john-paul-ii;50.071778;19.800947;PL
+33347;Warszawa Modlin;warszawa-modlin;52.44587785229154;20.65070807933807;PL
+33348;Warszawa Chopin;warszawa-chopin;52.169192;20.973514;PL
+33360;Nowy Targ;nowy-targ;49.473678;20.015719;PL
+33362;Wejherowo;wejherowo;54.607161;18.2237963;PL
+33372;Mlawa;mlawa;53.1122632;20.3837208;PL
+34602;Piła;pila;54.441581;18.5600956;PL
+34609;Ustronie Morskie;ustronie-morskie;54.2019837;15.7499382;PL
+34621;Bełchatów;belchatow;51.3687535;19.3564248;PL
+34628;Przysucha;przysucha;51.3578773;20.6317957;PL
+34630;Wieruszów;wieruszow;51.29486;18.1547499;PL
+34631;Wrocław Airport;wroclaw-airport;51.1041654;16.8809331;PL
+34632;Wysowa Zdrój;wysowa-zdroj;49.4354709;21.1779985;PL
+34768;Dabki;dabki;54.380639;16.319694;PL
+34769;Darlowo;darlowo;54.417278;16.405056;PL
+34770;Dziwnów;dziwnow;54.02775;14.76448;PL
+34771;Dziwnówek;dziwnowek;54.0335256;14.8105295;PL
+34773;Jaroslawiec;jaroslawiec;54.5403402;16.5453544;PL
+34774;Lazy;lazy;54.306889;16.195083;PL
+34775;Lukecin;lukecin;54.042917;14.873639;PL
+34777;Miedzywodzie;miedzywodzie;54.0045814;14.6968647;PL
+34778;Miedzyzdroje;miedzyzdroje;53.9283144;14.4504845;PL
+34779;Mielno;mielno;54.25998;16.0622067;PL
+34780;Mrzezyno;mrzezyno;54.145;15.303667;PL
+34781;Niechorze;niechorze;54.0948275;15.0766112;PL
+34782;Pobierowo;pobierowo;54.0556669;14.9329165;PL
+34783;Pogorzelica;pogorzelica;54.1024767;15.115082;PL
+34784;Pustkowo;pustkowo;54.0683463;14.9701961;PL
+34785;Rewal;rewal;54.080414;15.0195267;PL
+34789;Trzesacz;trzesacz;54.076167;14.99075;PL
+34790;Wiselka;wiselka;53.965639;14.571722;PL
+35094;Mysłowice;myslowice;50.2376467;19.141488;PL
+35095;Skawina;skawina;49.9769349;19.8220396;PL
+35098;Kwidzyn;kwidzyn;53.7310119;18.9330024999999;PL
+35103;Gmina Świecie;gmina-swiecie;53.40677775;18.4128018;PL
+35112;Rumia;rumia;54.5721963;18.3857336999999;PL
+35115;Krosno Odrzańskie;krosno-odrzanskie;52.047403;15.098522;PL
+35126;Grodzisk Wielkopolski;grodzisk-wielkopolski;52.218427;16.364081;PL
+35145;Szczecin Airport;szczecin-airport;53.610785;14.911664;PL
+35150;Nowy Dwór Gdański;nowy-dwor-gdanski;54.214969;19.1123709999999;PL
+35152;Kartuzy;kartuzy;54.3343781;18.1947721;PL
+35159;Sławno;slawno;54.356169;16.671392;PL
+35160;Nowe Marzy;nowe-marzy;53.4585026;18.6130534;PL
+35169;Lesko;lesko;49.4752844;22.3254091;PL
+35173;Łomża;lomza;53.1738747;22.0676719000001;PL
+35185;Karlino;karlino;54.03925535;15.87990065;PL
+35194;Kościerzyna;koscierzyna;54.1168194;17.9643814;PL
+35209;Bytów;bytow;54.1713467;17.4875904000001;PL
+35223;Wolsztyn;wolsztyn;52.112271;16.108392;PL
+35229;Gdańsk Airport;gdansk-airport;54.3808366;18.4684331999999;PL
+35233;Starogard Gdański;starogard-gdanski;53.9790605;18.5341577;PL
+35238;Sulechow;sulechow;52.083635;15.627306;PL
+35248;Osielsko;osielsko;53.1874763;18.0719095;PL
+35249;Żukowo;zukowo;54.342301;18.3585262;PL
+35251;Recz;recz;53.2616579;15.543118;PL
+35299;Goleniów;goleniow;53.567163;14.8239783;PL
+35327;Małdyty;maldyty;53.9211128;19.7375549;PL
+35366;Dobrodzień;dobrodzien;50.7268298;18.4431475;PL
+35371;Katowice Airport;katowice-airport;50.4694999;19.074015;PL
+35384;Biłgoraj;bilgoraj;50.5313466;22.7197737;PL
+35385;Milicz;milicz;51.5232132;17.2723745000001;PL
+35386;Opoczno;opoczno;51.3733616;20.2719776;PL
+35387;Nowy Dwór Mazowiecki;nowy-dwor-mazowiecki;52.440952;20.633327;PL
+35389;Ropczyce;ropczyce;50.053238;21.605138;PL
+35392;Wyszków;wyszkow;52.6021828;21.4475891;PL
+35393;Stargard Szczeciński;stargard-szczecinski;53.3390479;15.0279791;PL
+35613;Grajewo;grajewo;53.6468415;22.452026500000002;PL
+35678;Krynica Morska;krynica-morska;54.3799913;19.4441406;PL
+35679;Kąty Rybackie;katy-rybackie;54.3392911;19.2297163;PL
+35682;Sarbinowo;sarbinowo;54.2489618;15.9560304;PL
+35723;Stegna;stegna;54.3263367;19.1123088;PL
+35724;Szczawno Zdrój;szczawno-zdroj;50.810462;16.2478969;PL
+35725;Sztutowo;sztutowo;54.3260845;19.1790706;PL
+35730;Zgierz;zgierz;51.8550576;19.4060704;PL
+35776;Blachownia;blachownia;50.78505;18.96224;PL
+35783;Herby;herby;50.7478709;18.8783173;PL
+35787;Iłowa;ilowa;51.5000229;15.1996268;PL
+35794;Kłodzko;klodzko;50.4345636;16.6613941;PL
+35811;Szklarska Poręba;szklarska-poreba;50.8274316;15.5261477;PL
+35825;Lubartów;lubartow;51.462505;22.6081629;PL
+35827;Glucholazy;glucholazy;50.3168376;17.3887110000001;PL
+35828;Czarna Białostocka;czarna-bialostocka;53.2984744;23.28509;PL
+35834;Opatów;opatow;50.802971;21.4232625;PL
+35836;Jordanów;jordanow;49.6484449;19.8300176;PL
+35843;Rzeszów Airport;rzeszow-airport;50.1118375;22.031845;PL
+35851;Miedzyrzec Podlaski;miedzyrzec-podlaski;52.215559150000004;19.19112115;PL
+35852;Mikołów;mikolow;50.1722303;18.9005242000001;PL
+35857;Swieradow-Zdroj;swieradow-zdroj;50.919233;15.298365;PL
+35862;Zawadzkie;zawadzkie;50.6089939;18.474933;PL
+35872;Glinojeck;glinojeck;52.821067;20.26088;PL
+35879;Lwowek Slaski;lwowek-slaski;51.10964;15.593314;PL
+35897;Brodnica;brodnica;53.267842200000004;19.414479999999998;PL
+35898;Krotoszyn;krotoszyn;51.701758;17.428851;PL
+35904;Gora;gora;51.670861;16.535639;PL
+35907;Poznan Airport;poznan-airport;52.413397;16.826535;PL
+35913;Bialobrzegi;bialobrzegi;51.650487;20.956;PL
+35919;Kozlow;kozlow;50.3119172;18.5518374000001;PL
+35922;Zambrów;zambrow;52.9787552;22.2472509;PL
+35932;Ostrow Wielkopolski;ostrow-wielkopolski;51.6517677;17.8026600000001;PL
+35955;Himmelwitz;himmelwitz;50.5452389;18.3764673000001;PL
+35960;Lublin Airport;lublin-airport;51.2229167;22.7035405;PL
+35962;Otmet;otmet;50.490736;17.970729;PL
+35963;Ostrzeszów;ostrzeszow;51.4262958;17.9340349;PL
+35969;Grzybowo;grzybowo;54.1566561;15.4813263999999;PL
+35978;Człopa;czlopa;53.0906774;16.121923;PL
+35979;Grojec;grojec;51.865871;20.870358;PL
+35982;Dźwirzyno;dzwirzyno;54.159729;15.407195;PL
+36023;Zator;zator;50.0022845;19.4287204;PL
+37663;Naklo nad Notecia;naklo-nad-notecia;53.14243;17.60151;PL
+37676;Bukowina Tatrzańska;bukowina-tatrzanska;49.357941;20.123777;PL
+37677;Bialka Tatrzanska;bialka-tatrzanska;49.389203;20.105069;PL
+37747;Hrebenne;hrebenne;50.27773;23.58532;PL
+38099;Chełmno;chelmno;53.34842;18.4249899;PL
+38100;Świebodzin (Dąbrowa);swiebodzin-dabrowa;50.2573;20.90132;PL
+38101;Zgorzelec (Rychtal);zgorzelec-rychtal;51.14915;17.88188;PL
+38109;Bircza;bircza;49.6923166;22.4858847;PL
+38112;Chłapowo;chlapowo;54.80342;18.37338;PL
+38113;Cisna;cisna;49.2112335;22.3285103;PL
+38116;Czaplinek;czaplinek;53.55802;16.233519;PL
+38117;Czarna Górna;czarna-gorna;49.3241114;22.668617;PL
+38118;Czorsztyn;czorsztyn;49.4374074;20.3270231;PL
+38120;Gołdap;goldap;54.3069111;22.3034477;PL
+38127;Jastrzębia Góra;jastrzebia-gora;54.83117;18.31288;PL
+38128;Karwia;karwia;54.83083;18.20996;PL
+38129;Kluszkowce;kluszkowce;49.4540988;20.3099192;PL
+38131;Krościenko;kroscienko;49.4368364;20.4329165;PL
+38132;Krościenko nad Dunajcem;kroscienko-nad-dunajcem;49.4368364;20.4329165;PL
+38142;Lutowiska;lutowiska;49.2513639;22.6952648;PL
+38144;Nidzica;nidzica;53.360814;20.4274873;PL
+38147;Olecko;olecko;54.0337279;22.5069432;PL
+38149;Rozewie;rozewie;54.81974;18.3471;PL
+38155;Strzelce Krajeńskie;strzelce-krajenskie;52.87728;15.52966;PL
+38156;Szczawnica;szczawnica;49.4230451;20.4829529;PL
+38158;Ustrzyki Dolne;ustrzyki-dolne;49.4303242;22.5942366;PL
+38159;Ustrzyki Górne;ustrzyki-gorne;49.1079977;22.6505256;PL
+38163;Wetlina;wetlina;49.1433611;22.4847705;PL
+38164;Wyszogród;wyszogrod;52.391799;20.1900369;PL
+38167;Łeba;leba;54.760117;17.5563117;PL
+38168;Łowicz;lowicz;52.1067916;19.9453743;PL
+38199;Chocholow;chocholow;49.367594;19.8175501;PL
+38215;Koscielisko;koscielisko;49.2902935;19.8895826;PL
+38216;Krasiczyn;krasiczyn;49.7762204;22.6525426;PL
+38229;Nowa Wies;nowa-wies;50.6411215;17.7948189;PL
+38230;Osno Lubuskie;osno-lubuskie;52.4530993;14.8755999;PL
+38237;Polanczyk;polanczyk;49.3696768;22.4212003;PL
+38248;Solina;solina;49.3993322;22.4677303;PL
+38256;Sztum;sztum;53.9208518;19.0295929;PL
+38266;Wieliczka;wieliczka;49.9870619;20.0647971;PL
+38267;Zagorz;zagorz;49.5143;22.26707;PL
+38293;Medyka;medyka;49.8049161;22.9345026;PL
+38308;Szczecin Lotnisko Goleniów;szczecin-lotnisko-goleniow;53.5858774;14.902781;PL
+38315;Świecie;swiecie;53.4093843;18.4473863;PL
+38428;Bobolice;bobolice;53.954442;16.587704;PL
+38429;Chodziez;chodziez;52.993817;16.91072;PL
+38430;Jaworzno;jaworzno;50.2463215;19.2974195;PL
+38431;Kolczyglowy;kolczyglowy;54.240751;17.224315;PL
+38432;Krzeszowice;krzeszowice;50.1312085;19.6322983;PL
+38433;Oborniki;oborniki;52.645153;16.815092;PL
+38434;Szczyrk;szczyrk;49.717138;19.029285;PL
+38437;Wisla;wisla;49.66076;18.854383;PL
+38578;Plonsk;plonsk;52.6184;20.38159;PL
+38579;Tomaszow Mazowiecki;tomaszow-mazowiecki;51.546485000000004;20.03216;PL
+38580;Turek;turek;52.02137;18.50359;PL
+38584;Błonie;blonie;52.1991;20.62393;PL
+38585;Marysinek;marysinek;52.20443;20.5141;PL
+38586;Glowno;glowno;51.95618;19.70168;PL
+38587;Sepolno Krajenskie;sepolno-krajenskie;53.45272;17.53259;PL
+38588;Sochaczew;sochaczew;52.22938;20.23651;PL
+38589;Kielcza;kielcza;50.56346;18.56333;PL
+38590;Kowale Oleckie;kowale-oleckie;54.16288;22.41652;PL
+38591;Krupski Młyn;krupski-mlyn;50.56913;18.61646;PL
+38592;Narol;narol;50.34882;23.32687;PL
+38593;Okmiany;okmiany;51.27373;15.78924;PL
+38594;Podgaje;podgaje;53.47432;16.8802;PL
+38595;Staszow;staszow;50.56393;21.16658;PL
+38596;Stawiski;stawiski;53.38039;22.1557;PL
+38597;Szczuczyn;szczuczyn;53.56045;22.28831;PL
+38598;Trzebnica;trzebnica;51.3094;17.0641;PL
+38599;Tworóg;tworog;50.52935;18.71653;PL
+38645;Polichno;polichno-pl;51.45924032;19.78064239;PL
+38646;Proszenie;proszenie;51.461548;19.78127;PL
+38666;Jdrzychowice;jdrzychowice;51.17667951;15.03189631;PL
+38673;Glubczyce;glubczyce;50.19592;17.82289;PL
+38674;Emilianow;emilianow;52.4474;21.26161;PL
+38737;Brzeg Dolny;brzeg-dolny;51.266191;16.726767;PL
+38738;Terespol;terespol;52.074142;23.601223;PL
+38739;Choszczno;choszczno;53.165279;15.403789;PL
+38740;Czerwiensk;czerwiensk;52.015091;15.412464;PL
+38741;Dzialdowo;dzialdowo;53.237993;20.168;PL
+38742;Gryfino;gryfino;53.254209;14.49302;PL
+38743;Korsze;korsze;54.172188;21.138161;PL
+38744;Lobez;lobez;53.636799;15.627863;PL
+38745;Laskowice Pomorskie;laskowice-pomorskie;53.4913;18.456337;PL
+38746;Strzelce Krajenskie Wschod;strzelce-krajenskie-wschod;52.834701;15.585425;PL
+38747;Swidwin;swidwin;53.781301;15.772688;PL
+38748;Trzcianka;trzcianka;53.034091;16.466287;PL
+38749;Wolow;wolow;51.333017;16.633756;PL
+38750;Ploty;ploty;53.805086;15.263404;PL
+38751;Scinawa;scinawa;51.409659;16.421359;PL
+38752;Rudna Gwizdanow;rudna-gwizdanow;51.531589;16.280327;PL
+38753;Krakow Plaszow;krakow-plaszow;50.035091;19.974894;PL
+38754;Tuplice;tuplice;51.671407;14.837235;PL
+38755;Kamien Pomorski;kamien-pomorski;53.966155;14.774086;PL
+38756;Dabrowa Gornicza;dabrowa-gornicza;50.330171;19.185452;PL
+38757;Witnica;witnica;52.66743;14.896231;PL
+38758;Skierniewice;skierniewice;51.967188;20.149752;PL
+38759;Dabroszyn;dabroszyn;52.617782;14.707988;PL
+38760;Kamien Maly;kamien-maly;52.641972;14.780962;PL
+38761;Nowiny Wielkie;nowiny-wielkie;52.672679;15.002951;PL
+38762;Morag;morag;53.918881;19.922145;PL
+38763;Paslek;paslek;54.059211;19.655156;PL
+38764;Bieniow;bieniow;51.716281;15.17869;PL
+38765;Brzeszcze Jawiszowi;brzeszcze-jawiszowi;49.972607;19.128613;PL
+38766;Buchalow;buchalow;51.91666;15.362358;PL
+38767;Budachow;budachow;52.153283;15.081535;PL
+38768;Bytnica;bytnica;52.131187;15.148082;PL
+38769;Chalupki;chalupki;49.925477;18.311557;PL
+38770;Chojna;chojna;52.963399;14.44393;PL
+38771;Chojnow;chojnow;51.277661;15.937047;PL
+38772;Dobiegniew;dobiegniew;52.968424;15.746907;PL
+38773;Drawsko Pomorskie;drawsko-pomorskie;53.523463;15.824943;PL
+38774;Gadkow Wielki;gadkow-wielki;52.246213;14.963497;PL
+38775;Jagodzin;jagodzin;51.355921;15.169944;PL
+38776;Jerzmanice Lubuskie;jerzmanice-lubuskie;52.306531;14.867519;PL
+38777;Kalisz Pomorski;kalisz-pomorski;53.277698;15.880873;PL
+38778;Kuznia Raciborska;kuznia-raciborska;50.20052;18.298486;PL
+38779;Lubanice;lubanice;51.692253;15.120853;PL
+38780;Lodz Widzew;lodz-widzew;51.763088;19.544463;PL
+38781;Miedzyrzec Podl;miedzyrzec-podl;51.976348;22.785371;PL
+38782;Miekinia;miekinia;51.188371;16.737914;PL
+38783;Malczyce;malczyce;51.215555;16.485515;PL
+38784;Nowe Drezdenko;nowe-drezdenko;52.853866;15.833878;PL
+38785;Nowy Tomysl;nowy-tomysl;52.304086;16.13294;PL
+38786;Okraglica;okraglica;51.437013;15.181414;PL
+38787;Olkusz;olkusz;50.274025;19.573058;PL
+38788;Opalenica;opalenica;52.309722;16.400342;PL
+38789;Pliszka;pliszka;52.204629;15.016444;PL
+38790;Przylep;przylep;51.97757;15.438658;PL
+38791;Ruszow;ruszow;51.400975;15.17691;PL
+38792;Stary Wegliniec;stary-wegliniec;51.307407;15.195185;PL
+38793;Toporow;toporow;52.260362;15.261535;PL
+38794;Torzym;torzym;52.312796;15.058154;PL
+38795;Tuplice Debinka;tuplice-debinka;51.665771;14.911764;PL
+38796;Wielen Polnocny;wielen-polnocny;52.907127;16.179127;PL
+38797;Zbaszyn;zbaszyn;52.259499;15.894978;PL
+38798;Zlocieniec;zlocieniec;53.527931;16.01857;PL
+38799;Wloszczowa Polnoc;wloszczowa-polnoc;50.858108;19.947;PL
+38800;SZCZECIN;szczecin;53.458795;14.583146;PL
+38801;GDYNIA;gdynia;54.541528;18.473551;PL
+67692;Babięta;babieta;52.1697896190941;20.9730398654937;PL
+67694;Balice;balice;50.0721594506897;19.8039641976356;PL
+67696;Biały Bór;bialy-bor;53.9016734759913;16.8390086047546;PL
+67708;Nieżychowice;niezychowice;53.6810583222365;17.5390318036079;PL
+67710;Nowe Miasteczko;nowe-miasteczko;51.6928227688321;15.7341152214291;PL
+67712;Olsztynek;olsztynek;53.5838407604326;20.2781042696336;PL
+67713;Orzysz;orzysz;53.81024242;21.9469889;PL
+67715;Prusice;prusice;51.3637493387593;16.9716402532549;PL
+67718;Reda;reda;54.6050245550073;18.3427404410947;PL
+67724;Straszków;straszkow;52.1840839897226;18.61499148298;PL
+67808;Jędrzychowice;jedrzychowice;51.17711;15.03196;PL
+67926;Szczecin Dabie;szczecin-dabie;53.391223;14.66946;PL
+67944;Poznan Gl;poznan-gl;52.401996;16.910866;PL
+68089;Lasow;lasow;51.225164;15.035114;PL
+68091;Lipinki Luzyckie;lipinki-luzyckie;51.649087;15.009288;PL
+68096;Malomice;malomice;51.549576;15.447117;PL
+68105;Nowa Ruda;nowa-ruda;50.577312;16.497192;PL
+68112;Piensk;piensk;51.24557;15.047403;PL
+68135;Sieniawa Zarska;sieniawa-zarska;51.636457;15.060743;PL

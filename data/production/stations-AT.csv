@@ -1,0 +1,1032 @@
+id;name;uic;lat;lon;country;evalid
+1551;Nickelsdorf;nickelsdorf;47,942608;17,086704;AT;8100499
+1832;Regelsbrunn;regelsbrunn;48,107;16,780207;AT;8101430
+1499;Wiener Neustadt Hbf;wiener-neustadt-hbf;47,81162;16,233835;AT;8100516
+1661;Neudorf;neudorf;48,008698;16,937668;AT;8100388
+1278;Nenzing;nenzing;47,19111;9,709551;AT;8100068
+1247;Riedenburg;riedenburg;47,493465;9,721236;AT;8100473
+1201;Lahrndorf;lahrndorf;47,994892;14,374526;AT;8101118
+687;Pruggern;pruggern;47,422997;13,873959;AT;8101386
+642;Gramatneusiedl;gramatneusiedl;48,035824;16,489504;AT;8100369
+626;Gloggnitz;gloggnitz;47,677685;15,947182;AT;8100026
+600;Lauffen;lauffen;47,67427;13,616345;AT;8101120
+1418;Mining;mining;48,27119;13,173646;AT;8100478
+580;Göpfritz;gopfritz;48,729786;15,394353;AT;8100200
+561;Dornach;dornach;48,191795;14,820229;AT;8100727
+528;Flughafen Wien;flughafen-wien;48,12107;16,56238;AT;8100353
+573;Obersdorf Haltestelle;obersdorf-haltestelle;48,362534;16,51671;AT;8101317
+444;Fieberbrunn;fieberbrunn;47,491165;12,5289;AT;8100053
+5078010;Paternion-Feistritz Haltestelle;paternion-feistritz-haltestelle;46,706944;13,674456;AT;8100086
+398;Wien Floridsdorf;wien-floridsdorf;48,256874;16,400415;AT;8100236
+397;St.Veit a.d.Triesting;st.veit-a.d.triesting;47,93346;16,149836;AT;8101623
+373;Enzersdorf bei Staatz;enzersdorf-bei-staatz;48,673046;16,510777;AT;8100775
+336;Eggenburg;eggenburg;48,63778;15,814873;AT;8100201
+324;Etsdorf-Straß;etsdorf-strass;48,45309;15,730214;AT;8100746
+1643;Ottnang-Wolfsegg;ottnang-wolfsegg;48,092125;13,664921;AT;8101327
+215;Bruck-Fusch;bruck-fusch;47,28461;12,828393;AT;8100047
+1248;Lenzing;lenzing;47,983047;13,613664;AT;8101141
+214;Breitenschützing;breitenschutzing;48,07869;13,800841;AT;8100695
+1149;Langen am Arlberg;langen-am-arlberg;47,13165;10,120993;AT;8100065
+1066;Korneuburg;korneuburg;48,342945;16,328901;AT;8100293
+1024;Kefermarkt;kefermarkt;48,436935;14,538052;AT;8100536
+1008;Knittelfeld;knittelfeld;47,21526;14,837614;AT;8100072
+997;Kalsdorf;kalsdorf;46,964413;15,470002;AT;8101019
+1405;St.Pantaleon;st.pantaleon;48,22783;14,528696;AT;8101579
+942;Imst-Pitztal;imst-pitztal;47,219013;10,76208;AT;8100062
+883;Holzleithen;holzleithen;48,113556;13,606661;AT;8100276
+854;Rainfeld-Klein Zell;rainfeld-klein-zell;48,05061;15,707244;AT;8101421
+778;Hainburg a.d.Donau Ungartor;hainburg-a.d.donau-ungartor;48,148438;16,947992;AT;8100959
+735;Platt;platt;48,674553;15,966485;AT;8101367
+708;Grünbach Schule;grunbach-schule;47,801373;15,981448;AT;8101837
+699;Kaindorf a.d.Sulm;kaindorf-a.d.sulm;46,80189;15,542506;AT;8101918
+886;Hatlerdorf;hatlerdorf;47,397213;9,724824;AT;8100921
+2580;Zurndorf;zurndorf;47,96813;17,023825;AT;8101829
+2497;Wolkersdorf;wolkersdorf;48,37899;16,512386;AT;8101793
+2357;Pöckau;pockau;46,552017;13,745024;AT;8101375
+2329;Völs;vols;47,255672;11,321688;AT;8101728
+2324;Hirschbach;hirschbach;48,749554;15,126299;AT;8100953
+2297;Lustenau;lustenau;47,45014;9,667136;AT;8100123
+2281;Puchenau;puchenau;48,311607;14,23802;AT;8101402
+2257;Kreisbach;kreisbach;48,100468;15,607884;AT;8101077
+2240;Gopperding;gopperding;48,44084;13,458267;AT;8100864
+2203;Trieben;trieben;47,489513;14,488517;AT;8100128
+2160;Schwaz;schwaz;47,349777;11,701548;AT;8100103
+1993;Gießenbach;giessenbach;47,37521;11,23709;AT;8100549
+1991;Seefeld in Tirol;seefeld-in-tirol;47,328777;11,189435;AT;8100113
+1943;Salzburg Hbf;salzburg-hbf;47,81394;13,046286;AT;8100002
+1939;Bad Sauerbrunn;bad-sauerbrunn;47,774036;16,324768;AT;8100481
+1933;Schützen am Gebirge;schutzen-am-gebirge;47,84826;16,619604;AT;8100422
+1880;Gerling OÖ;gerling-oo;48,397293;14,077079;AT;8100878
+1780;Purgstall;purgstall;48,05942;15,131212;AT;8101391
+1778;Donnerskirchen;donnerskirchen;47,888443;16,660421;AT;8100219
+1770;Flughafen Graz Feldkirchen;flughafen-graz-feldkirchen;46,99827;15,449273;AT;8100601
+1719;Pressbaum;pressbaum;48,181305;16,077705;AT;8101381
+1625;Oberweiden;oberweiden;48,306267;16,833675;AT;8101329
+1240764;Mauer-Öhling;mauer-ohling;48,09523;14,80162;AT;8101228
+1936;Schwanenstadt;schwanenstadt;48,054264;13,768362;AT;8100016
+1475;Munderfing;munderfing;48,07392;13,179436;AT;8100489
+1444;Moosbierbaum-Heiligeneich;moosbierbaum-heiligeneich;48,30588;15,901127;AT;8100376
+2466;Willendorf;willendorf;47,789215;16,06039;AT;8101769
+1419;Hagenau im Innkreis;hagenau-im-innkreis;48,265106;13,114099;AT;8100914
+1387;Atzenbrugg;atzenbrugg;48,29748;15,917481;AT;8100637
+1385;Mandling;mandling;47,404144;13,568252;AT;8101202
+1514;Neufelden;neufelden;48,48366;14,005094;AT;8100430
+1604;Irschen;irschen;46,74039;13,014087;AT;8101005
+666;Bad Goisern;bad-goisern;47,6397;13,613067;AT;8100160
+1364;Mauerkirchen;mauerkirchen;48,19222;13,128846;AT;8100410
+1202;Dürnbach;durnbach;47,97839;14,353816;AT;8100733
+1119;Greifenstein-Altenberg;greifenstein-altenberg;48,344814;16,239733;AT;8100257
+2260;Rietz;rietz;47,29209;11,024912;AT;8101457
+1105;Tauplitz;tauplitz;47,551613;14,010385;AT;8100166
+1098;Klagenfurt Hbf;klagenfurt-hbf;46,61577;14,313758;AT;8100085
+862;Ober Radlberg;ober-radlberg;48,240627;15,670533;AT;8101319
+2004;Petersbaumgarten;petersbaumgarten;47,633522;16,13243;AT;8101347
+1090;Kirchstetten;kirchstetten;48,190292;15,82102;AT;8101048
+1032;Kindberg;kindberg;47,50116;15,448359;AT;8100030
+1059;Kaiserebersdorf;kaiserebersdorf;48,145317;16,464361;AT;8100374
+805;Wien Hadersdorf;wien-hadersdorf;48,210434;16,221807;AT;8100922
+654;Götzendorf;gotzendorf;48,025726;16,58587;AT;8100254
+558;Johnsbach im Nationalpark;johnsbach-im-nationalpark;47,582405;14,59586;AT;8101014
+445;Grieswirt;grieswirt;47,50907;12,4686575;AT;8100907
+433;Friesach;friesach;46,95333;14,410845;AT;8100076
+170;Bierbaum;bierbaum;47,097958;16,074295;AT;8100178
+382;Petzenkirchen;petzenkirchen;48,143585;15,15713;AT;8101414
+835;Himberg;himberg;48,08255;16,444809;AT;8100950
+291;Dölsach;dolsach;46,81474;12,833565;AT;8100143
+254;Kottingbrunn;kottingbrunn;47,950592;16,226906;AT;8101033
+252;Brunn-Maria Enzersdorf;brunn-maria-enzersdorf;48,105247;16,288092;AT;8100698
+148;Pfaffstätten;pfaffstatten;48,01763;16,258286;AT;8101352
+1544;Rabensburg;rabensburg;48,652058;16,894615;AT;8101416
+2365;Bad Schallerbach-Wallern;bad-schallerbach-wallern;48,228706;13,922229;AT;8100021
+1082;Krumpendorf;krumpendorf;46,62645;14,221875;AT;8100079
+5517158;Heinfels;heinfels;46,745895;12,444437;AT;8105982
+1816;Rosenburg;rosenburg;48,628483;15,643733;AT;8100411
+1972;Sebersdorf;sebersdorf;47,188934;15,999007;AT;8100179
+2550;Zellerndorf;zellerndorf;48,695457;15,968066;AT;8100363
+1501642;Salzburg Liefering;salzburg-liefering;47,824173;13,000736;AT;8102063
+390;Eberschwang;eberschwang;48,151817;13,536876;AT;8100740
+1402929;Puch Urstein;puch-urstein;47,72444;13,088102;AT;8102054
+499;Achenlohe;achenlohe;48,04592;13,197771;AT;8100602
+1240762;Parndorf Ort;parndorf-ort;47,9919;16,852324;AT;8100515
+2570;Flaurling;flaurling;47,288864;11,143432;AT;8100795
+2511;Wien Westbahnhof;wien-westbahnhof;48,196823;16,336864;AT;8100003
+2493;Wolfsthal;wolfsthal;48,13556;17,006023;AT;8100360
+2372;Waldegg;waldegg;47,86889;16,058506;AT;8101745
+2290;Purkersdorf Zentrum;purkersdorf-zentrum;48,20614;16,175795;AT;8101404
+1649;Ötztal;otztal;47,23859;10,8592415;AT;8100061
+2284;Ulmerfeld-Hausmening;ulmerfeld-hausmening;48,074913;14,815691;AT;8101695
+2233;Pottschach;pottschach;47,696835;16,0056;AT;8101390
+2193;Taxenbach-Rauris;taxenbach-rauris;47,292847;12,947898;AT;8100046
+618;Glanegg;glanegg;46,717335;14,211143;AT;8100850
+2137;Gniebing;gniebing;46,96182;15,85318;AT;8100857
+2134;Studenzen-Fladnitz;studenzen-fladnitz;46,998768;15,774934;AT;8100196
+2131;Spittal-Millstättersee;spittal-millstattersee;46,795692;13,487572;AT;8100092
+2088;Lendorf;lendorf;46,82765;13,417766;AT;8101126
+564;Wiesmühle;wiesmuhle;48,021736;14,043674;AT;8101778
+1968;Lichendorf;lichendorf;46,713913;15,698243;AT;8101148
+1908;Redl-Zipf;redl-zipf;48,02625;13,515051;AT;8101428
+1882;Roppen;roppen;47,215794;10,817391;AT;8101448
+1879;Lacken;lacken;48,385918;14,091398;AT;8101110
+1872;Ferndorf;ferndorf;46,732666;13,628921;AT;8100781
+2275;Traxenbichl;traxenbichl;47,8772;13,938385;AT;8101684
+1846;Ramingdorf-Haidershofen;ramingdorf-haidershofen;48,06784;14,459581;AT;8101419
+1836;Werfen;werfen;47,472805;13,19523;AT;8100539
+1819;Ried im Innkreis;ried-im-innkreis;48,200535;13,487717;AT;8100405
+1805;Bad Radkersburg;bad-radkersburg;46,699593;15,993338;AT;8100677
+1797;Wien Penzing;wien-penzing;48,192642;16,304434;AT;8100450
+1791;Wettmannstätten;wettmannstatten;46,837692;15,382137;AT;8101809
+1779;Schützen Haltestelle;schutzen-haltestelle;47,851364;16,63024;AT;8101617
+1714;St.Pölten-Kaiserwald;st.polten-kaiserwald;48,199223;15,613787;AT;8101374
+1698;Peggau-Deutschfeistritz;peggau-deutschfeistritz;47,207054;15,343324;AT;8100034
+1676;Groß Sierning;gross-sierning;48,187977;15,457147;AT;8100890
+1524;Neumarkt in Steiermark;neumarkt-in-steiermark;47,073483;14,414958;AT;8100075
+2529;Ybbs a.d.Donau;ybbs-a.d.donau;48,15918;15,099955;AT;8100007
+1495;Neubau-Kreuzstetten;neubau-kreuzstetten;48,49735;16,500744;AT;8101261
+1485;Mürzzuschlag;murzzuschlag;47,607903;15,676991;AT;8100029
+2126;Silberwald;silberwald;48,32834;16,67851;AT;8100591
+2102;Statzendorf;statzendorf;48,309113;15,632632;AT;8100311
+2054;St.Peter-Seitenstetten;st.peter-seitenstetten;48,054714;14,64621;AT;8101597
+2010;Breiteneich bei Horn;breiteneich-bei-horn;48,672207;15,6882715;AT;8100682
+1996;Breitensee NÖ;breitensee-no;48,254852;16,878992;AT;8100693
+1984;Semmering;semmering;47,63963;15,830901;AT;8100028
+1973;Bad Waltersdorf;bad-waltersdorf;47,17019;16,013754;AT;8100455
+1946;Steinbachbrücke;steinbachbrucke;47,932346;13,993076;AT;8101612
+1852;Zell a.d.Pram;zell-a.d.pram;48,31746;13,623851;AT;8101819
+1773;Puchberg am Schneeberg;puchberg-am-schneeberg;47,790543;15,910823;AT;8101403
+1742;Küb;kub;47,681877;15,876564;AT;8101097
+1706;Dreistetten;dreistetten;47,87242;16,11052;AT;8100731
+1669;St.Pölten Hbf;st.polten-hbf;48,208275;15,62468;AT;8100008
+1630;Wopfing;wopfing;47,873642;16,076717;AT;8101797
+1608;Stein a.d.Enns;stein-a.d.enns;47,43748;13,941978;AT;8101494
+1534;Wien Nußdorf;wien-nussdorf;48,260002;16,367811;AT;8101290
+1529;Kimpling;kimpling;48,26656;13,669317;AT;8101045
+1175;Lend;lend;47,297424;13,055686;AT;8100045
+1133;Launsdorf-Hochosterwitz;launsdorf-hochosterwitz;46,76886;14,455483;AT;8100077
+1046;Kirchberg in Tirol;kirchberg-in-tirol;47,448925;12,309171;AT;8100057
+1015;Kematen-Piberbach;kematen-piberbach;48,113064;14,203261;AT;8101036
+1007;Kirchberg am Wagram;kirchberg-am-wagram;48,427536;15,894145;AT;8100288
+985;Schaftenau;schaftenau;47,558838;12,125396;AT;8100483
+139;Bichlbach-Berwang;bichlbach-berwang;47,42139;10,793283;AT;8100114
+981;Oberndorf in Tirol;oberndorf-in-tirol;47,496906;12,390491;AT;8101792
+922;Salzburg Kasern;salzburg-kasern;47,839275;13,0651865;AT;8101558
+1243;Liezen;liezen;47,56253;14,241929;AT;8100131
+853;Rohrbach a.d.Gölsen;rohrbach-a.d.golsen;48,047585;15,743191;AT;8101439
+839;Hilm-Kematen;hilm-kematen;48,022537;14,761757;AT;8100949
+780;Halbenrain;halbenrain;46,72382;15,948888;AT;8100916
+779;Handelskai;handelskai;48,242153;16,385971;AT;8101947
+753;Pinsdorf;pinsdorf;47,93324;13,766094;AT;8101361
+747;Gratwein-Gratkorn;gratwein-gratkorn;47,12939;15,322749;AT;8100370
+829;Hötzelsdorf-Geras;hotzelsdorf-geras;48,74222;15,670405;AT;8100273
+710;Pfennigbach;pfennigbach;47,795727;15,923946;AT;8101349
+706;Grünbach am Schneeberg;grunbach-am-schneeberg;47,797546;15,997854;AT;8100882
+457;Tisis;tisis;47,22744;9,57562;AT;8101685
+418;Fehring;fehring;46,949455;16,013208;AT;8100176
+394;Enzesfeld-Lindabrunn;enzesfeld-lindabrunn;47,92136;16,187307;AT;8100757
+315;Wiener Neustadt Civitas Nova;wiener-neustadt-civitas-nova;47,833317;16,254374;AT;8101789
+384;Dorf a.d.Enns;dorf-a.d.enns;48,09135;14,473092;AT;8100716
+302;Jedenspeigen;jedenspeigen;48,4958;16,878847;AT;8101012
+301;Dürnkrut;durnkrut;48,47109;16,861057;AT;8100724
+272;Dellach im Drautal;dellach-im-drautal;46,73572;13,07554;AT;8100145
+713;Mannswörth;mannsworth;48,136333;16,508255;AT;8101871
+98;Obertraun-Koppenbrüllerhöhle;obertraun-koppenbrullerhohle;47,564518;13,72044;AT;8101311
+176;Mittlern;mittlern;46,5988;14,71494;AT;8100418
+117;Nüziders;nuziders;47,171474;9,792705;AT;8101289
+1857;Rankweil;rankweil;47,271935;9,637606;AT;8100119
+109;Zeiselmauer-Königstetten;zeiselmauer-konigstetten;48,32662;16,175074;AT;8101825
+199;Bischofshofen;bischofshofen;47,41982;13,2198305;AT;8100042
+55;Amstetten;amstetten;48,121284;14,878882;AT;8100012
+34;Aurachkirchen;aurachkirchen;47,96816;13,745367;AT;8100639
+5270173;Ledenitzen;ledenitzen;46,56286;13,965997;AT;8102149
+1647;Walding;walding;48,348354;14,1537485;AT;8101747
+5275915;Oberland Haltestelle;oberland-haltestelle;47,90199;14,7441;AT;8101313
+4747985;Wien Mitte - CAT;wien-mitte---cat;48,207207;16,385536;AT;8198449
+1161;Leobersdorf;leobersdorf;47,93966;16,230621;AT;8101163
+4384321;Tullnerfeld;tullnerfeld;48,295143;15,996537;AT;8102059
+506;Fels;fels;48,42901;15,822856;AT;8100568
+1376891;Salzburg Sam;salzburg-sam;47,819496;13,0631695;AT;8102055
+2209;Ternberg;ternberg;47,94889;14,354885;AT;8100322
+1265698;Wöllersdorf Marchgraben;wollersdorf-marchgraben;47,865276;16,164263;AT;8102058
+1265643;Aschbach Haltestelle;aschbach-haltestelle;48,06958;14,756172;AT;8100600
+1251757;Vienna Biocenter-St.Marx;vienna-biocenter-st.marx;48,188457;16,39864;AT;8101818
+1685;Petronell-Carnuntum;petronell-carnuntum;48,10582;16,867672;AT;8100520
+2568;Inzing;inzing;47,27779;11,199065;AT;8101007
+689;Greifenburg-Weißensee;greifenburg-weissensee;46,741135;13,191008;AT;8100146
+2496;Wolfsberg Reding;wolfsberg-reding;46,825615;14,845765;AT;8101383
+2491;Wolfurt;wolfurt;47,45696;9,741362;AT;8100389
+2468;Windischgarsten;windischgarsten;47,715355;14,32689;AT;8100517
+2377;Nußbach;nussbach;47,971645;14,123395;AT;8101292
+2358;Wörgl Hbf;worgl-hbf;47,491478;12,060549;AT;8100099
+1402934;Hallein Burgfried;hallein-burgfried;47,675728;13,114642;AT;8102049
+2325;Viechtwang;viechtwang;47,91552;13,971309;AT;8101716
+2484;Wilhelmsburg a.d.Traisen;wilhelmsburg-a.d.traisen;48,111374;15,608423;AT;8101768
+2315;Villach Westbf;villach-westbf;46,609203;13,840596;AT;8100148
+2108;Steinach in Tirol;steinach-in-tirol;47,089275;11,469821;AT;8100107
+2287;Kröllendorf;krollendorf;48,04307;14,788911;AT;8101081
+746;Geinberg;geinberg;48,266327;13,291437;AT;8100830
+359;Bad Erlach;bad-erlach;47,73143;16,211346;AT;8100192
+2220;Trumau;trumau;47,99251;16,332157;AT;8101682
+93;Wolfshütte;wolfshutte;48,053047;13,681402;AT;8101794
+2197;Gries im Pinzgau;gries-im-pinzgau;47,28803;12,890593;AT;8100892
+2150;St.Valentin;st.valentin;48,179047;14,520935;AT;8100009
+1129;Lambach Markt;lambach-markt;48,094383;13,869963;AT;8101223
+1270;Loipersbach-Schattendorf;loipersbach-schattendorf;47,700756;16,491816;AT;8100398
+930;Patsch;patsch;47,192577;11,417685;AT;8101337
+890;Hopfgarten;hopfgarten;47,45558;12,148908;AT;8100059
+716;Garsten;garsten;48,023743;14,408469;AT;8100248
+711;Schwechat;schwechat;48,14348;16,481632;AT;8100259
+700;Großraming;grossraming;47,882103;14,551561;AT;8100876
+655;Sarasdorf;sarasdorf;48,02321;16,677359;AT;8101467
+870;Oftering;oftering;48,227615;14,151154;AT;8101308
+518;Volders-Baumkirchen;volders-baumkirchen;47,296146;11,564123;AT;8100337
+493;Schrambach;schrambach;48,002037;15,575357;AT;8101586
+431;Furth-Göttweig;furth-gottweig;48,37319;15,6157675;AT;8100244
+404;Feldbach;feldbach;46,95855;15,888555;AT;8100175
+383;Ernsthofen;ernsthofen;48,12659;14,479982;AT;8100747
+309;Ebreichsdorf;ebreichsdorf;47,96416;16,41933;AT;8100226
+163;Böheimkirchen;boheimkirchen;48,2;15,75389;AT;8100661
+149;Baden;baden;48,00431;16,243092;AT;8100025
+127;Bad Mitterndorf;bad-mitterndorf;47,5505;13,943815;AT;8100165
+28;Puch bei Hallein;puch-bei-hallein;47,71283;13,09073;AT;8101406
+12;Admont;admont;47,573353;14,468402;AT;8100161
+5738657;Köttmannsdorf Lambichl;kottmannsdorf-lambichl;46,579567;14,282904;AT;8103840
+5267955;Schalchen-Mattighofen;schalchen-mattighofen;48,095238;13,163638;AT;8102068
+4609057;Hengsberg;hengsberg;46,864197;15,458731;AT;8102051
+4872534;Innsbruck Messe;innsbruck-messe;47,27325;11,407682;AT;8105987
+1251761;Geiselbergstraße;geiselbergstrasse;48,17571;16,40719;AT;8101555
+2578;Lanzendorf-Rannersdorf;lanzendorf-rannersdorf;48,1132;16,447393;AT;8101173
+2531;Neumarkt a.d.Y-Karlsbach;neumarkt-a.d.y-karlsbach;48,14197;15,049751;AT;8101293
+2528;Urschendorf;urschendorf;47,797497;16,09027;AT;8101711
+2501;Pottendorf-Landegg;pottendorf-landegg;47,90526;16,396023;AT;8100525
+2499;Wampersdorf;wampersdorf;47,931065;16,41708;AT;8100342
+2431;Westendorf;westendorf;47,441185;12,223196;AT;8100058
+2401;Wels Hbf;wels-hbf;48,166138;14,02759;AT;8100014
+2343;Diensthubersiedlung;diensthubersiedlung;47,96805;14,022015;AT;8101833
+2326;Vöcklabruck;vocklabruck;48,010063;13,663842;AT;8100507
+2318;Wiesenfeld-Schwarzenbach;wiesenfeld-schwarzenbach;48,051216;15,648699;AT;8101804
+2298;Hard-Fussach;hard-fussach;47,47989;9,68983;AT;8100267
+2232;Ternitz;ternitz;47,71299;16,032234;AT;8101661
+2228;Timelkam;timelkam;48,007984;13,595836;AT;8101670
+2130;Mötz;motz;47,275852;10,961153;AT;8101237
+2121;Stiefern;stiefern;48,53488;15,691415;AT;8101500
+2105;Steinhaus bei Wels;steinhaus-bei-wels;48,11934;14,017944;AT;8101521
+2096;Wien Hirschstetten;wien-hirschstetten;48,232784;16,469519;AT;8100918
+2066;Spital am Pyhrn;spital-am-pyhrn;47,67312;14,347602;AT;8100306
+2055;St.Johann-Weistrach;st.johann-weistrach;48,075466;14,612746;AT;8101530
+2015;Sillian;sillian;46,745556;12,425095;AT;8100142
+2009;Sigmundsherberg;sigmundsherberg;48,685528;15,745499;AT;8100493
+1994;Scheifling;scheifling;47,147842;14,419224;AT;8101538
+1985;Steinhaus;steinhaus;47,620926;15,784217;AT;8101520
+1948;Schönberg am Kamp;schonberg-am-kamp;48,515663;15,6966305;AT;8100487
+1932;Annenheim;annenheim;46,65877;13,898724;AT;8100213
+1919;Leogang-Steinberge;leogang-steinberge;47,445007;12,768486;AT;8101146
+1910;Ehrenhausen;ehrenhausen;46,727684;15,585473;AT;8100763
+1891;Pflach;pflach;47,51407;10,7180395;AT;8100556
+1888;Sonntagberg;sonntagberg;47,991974;14,738287;AT;8101573
+1825;Bad Ried;bad-ried;48,21211;13,477553;AT;8100678
+1603;Oberdrauburg;oberdrauburg;46,74628;12,9740505;AT;8100144
+1584;Wien Praterstern;wien-praterstern;48,220993;16,391817;AT;8100349
+1559;Ollersbach;ollersbach;48,19146;15,847414;AT;8101312
+1528;Neumarkt-Kallham;neumarkt-kallham;48,271427;13,724541;AT;8100023
+1439;St.Martin im Innkreis;st.martin-im-innkreis;48,288906;13,433577;AT;8100437
+1408;Furth;furth;48,131947;13,13984;AT;8100814
+1379;Gumpoldskirchen;gumpoldskirchen;48,041256;16,285269;AT;8100867
+1409;Uttendorf-Helpfau;uttendorf-helpfau;48,160793;13,133486;AT;8100333
+1342;St.Marein-St.Lorenzen;st.marein-st.lorenzen;47,473255;15,373254;AT;8101243
+1341;Maria Lanzendorf;maria-lanzendorf;48,102486;16,419584;AT;8101224
+1990;Gleißenfeld;gleissenfeld;47,67761;16,129124;AT;8100851
+1311;Mallnitz-Obervellach;mallnitz-obervellach;46,98168;13,17619;AT;8100093
+1280;Lungitz;lungitz;48,288586;14,478402;AT;8101185
+1251;Siebenmühlen-Rosenau;siebenmuhlen-rosenau;47,95974;13,605846;AT;8101478
+662;Gosdorf;gosdorf;46,72452;15,7976885;AT;8100886
+629;Schlöglmühl;schloglmuhl;47,682476;15,914634;AT;8100587
+498;Teichstätt;teichstatt;48,019848;13,212967;AT;8101658
+754;Hall in Tirol;hall-in-tirol;47,27702;11,501823;AT;8100105
+510;Frättingsdorf;frattingsdorf;48,642323;16,513868;AT;8100808
+1596;Hallstatt;hallstatt;47,568104;13,662105;AT;8100926
+1240760;Sollenau;sollenau;47,898502;16,24539;AT;8101567
+1569;Jois;jois;47,956673;16,791176;AT;8100280
+1518;Neudörfl;neudorfl;47,793808;16,300255;AT;8100494
+572;Seyring;seyring;48,330578;16,501757;AT;8101498
+1516;Iglmühle;iglmuhle;48,520664;14,036533;AT;8100999
+1297;Linz Oed;linz-oed;48,26475;14,276542;AT;8101193
+1607;Öblarn;oblarn;47,46072;13,987607;AT;8100133
+286;Haselstauden;haselstauden;47,432552;9,749116;AT;8100981
+2079;Schönwies;schonwies;47,197254;10,660805;AT;8101629
+2472;Groß Weikersdorf;gross-weikersdorf;48,46893;15,976192;AT;8100906
+938;Allerheiligenhöfe;allerheiligenhofe;47,26912;11,353435;AT;8100548
+2527;Winzendorf;winzendorf;47,81112;16,111612;AT;8101781
+2463;Schauboden;schauboden;48,078854;15,1369505;AT;8101480
+919;Hüttau Terminal;huttau-terminal;47,41556;13,3204565;AT;8100993
+25;Salzburg Aigen;salzburg-aigen;47,788563;13,078765;AT;8101470
+467;Theresienfeld;theresienfeld;47,860744;16,24406;AT;8101664
+341;Eichberg;eichberg;47,672195;15,911047;AT;8100736
+429;Fentsch-St. Lorenzen;fentsch-st.-lorenzen;47,25177;14,893099;AT;8100783
+402;Fischamend;fischamend;48,11653;16,615131;AT;8100235
+396;Hirtenberg;hirtenberg;47,928967;16,176514;AT;8100983
+374;Kottingneusiedl;kottingneusiedl;48,703365;16,46516;AT;8101065
+340;Ehrwald-Zugspitzbahn;ehrwald-zugspitzbahn;47,410122;10,913672;AT;8100089
+1456;Maria Rain;maria-rain;46,56307;14,284078;AT;8100470
+851;Hetzmannsdorf-Wullersdorf;hetzmannsdorf-wullersdorf;48,61664;16,091732;AT;8100936
+1160;Steinkogl;steinkogl;47,787006;13,740865;AT;8101534
+1442;Mogersdorf;mogersdorf;46,945545;16,229292;AT;8101231
+1413;Micheldorf;micheldorf;47,883144;14,126381;AT;8100412
+1940;Mattersburg Nord;mattersburg-nord;47,741215;16,402893;AT;8102015
+1433;Melk;melk;48,22456;15,33163;AT;8100005
+1227;Traisen Markt;traisen-markt;48,039673;15,611505;AT;8101645
+940;Bad Ischl;bad-ischl;47,712246;13,627444;AT;8100157
+625;Takern-St.Margarethen;takern-st.margarethen;47,04589;15,757719;AT;8100318
+1890;Reutte in Tirol;reutte-in-tirol;47,492947;10,721709;AT;8100115
+968;Jennersdorf;jennersdorf;46,935013;16,1397;AT;8101010
+934;Wien Blumental;wien-blumental;48,139515;16,369514;AT;8101003
+154;Bregenz;bregenz;47,502956;9,739563;AT;8100090
+2199;Tattendorf;tattendorf;47,95564;16,306063;AT;8101647
+96;Mühlheim;muhlheim;48,26971;13,221047;AT;8101248
+2085;Scharnstein-Mühldorf;scharnstein-muhldorf;47,9004;13,958564;AT;8100420
+307;Eben im Pongau;eben-im-pongau;47,406494;13,396695;AT;8100140
+1683;Pernitz-Muggendorf;pernitz-muggendorf;47,895897;15,958189;AT;8101369
+249;Wolfsbergkogel;wolfsbergkogel;47,649628;15,82709;AT;8101795
+2169;Schwarzach-St.Veit;schwarzach-st.veit;47,31857;13,154359;AT;8100044
+1999;St.Georgen a.d.Gusen;st.georgen-a.d.gusen;48,265175;14,440642;AT;8101501
+218;Münster-Wiesing;munster-wiesing;47,40336;11,819731;AT;8100488
+177;Blindenmarkt;blindenmarkt;48,1251;14,981262;AT;8100669
+128;Bad Mitterndorf-Heilbrunn;bad-mitterndorf-heilbrunn;47,551132;13,925318;AT;8100672
+1318;Marchegg;marchegg;48,24922;16,918734;AT;8100466
+1293;Linz Hbf;linz-hbf;48,28981;14,291519;AT;8100013
+1274;Lauterach;lauterach;47,477303;9,7244;AT;8100302
+1235;Gobelsburg;gobelsburg;48,46234;15,701704;AT;8100859
+1234;Langenlois;langenlois;48,477013;15,686313;AT;8100299
+1786;Dürnberg;durnberg;48,331585;14,192051;AT;8100734
+745;Gurten;gurten;48,24307;13,335229;AT;8100263
+1844;Pürgg;purgg;47,528633;14,064599;AT;8100582
+904;Gersthof;gersthof;48,230724;16,329103;AT;8100249
+1496;Paasdorf;paasdorf;48,546818;16,535233;AT;8101336
+808;Purkersdorf Sanatorium;purkersdorf-sanatorium;48,2063;16,200539;AT;8101342
+1489;Langenwang;langenwang;47,568012;15,613629;AT;8101190
+961;Jenbach;jenbach;47,38847;11,778396;AT;8100102
+4749447;Lienz-Peggetz;lienz-peggetz;46,827293;12,792301;AT;8102042
+869;Hörsching;horsching;48,245758;14,186403;AT;8100974
+91;Attnang-Puchheim;attnang-puchheim;48,012684;13,720813;AT;8100017
+88;Linz Ebelsberg;linz-ebelsberg;48,251987;14,346881;AT;8101127
+456;Gisingen;gisingen;47,255554;9,597988;AT;8100842
+69;Dietrichshofen;dietrichshofen;48,369427;13,421708;AT;8100732
+1766;Pitten;pitten;47,71715;16,179518;AT;8100191
+1145;Laßnitzthal;lassnitzthal;47,088333;15,657153;AT;8101161
+1131;Laa a.d.Thaya;laa-a.d.thaya;48,724144;16,402542;AT;8101180
+549;Weikendorf-Dörfles;weikendorf-dorfles;48,349266;16,758448;AT;8101748
+656;Wilfleinsdorf;wilfleinsdorf;48,022034;16,718498;AT;8101771
+2262;Tulln an der Donau;tulln-an-der-donau;48,32761;16,06433;AT;8100203
+2340;Voitsdorf;voitsdorf;48,012268;14,046977;AT;8101723
+599;Goisern Jodschwefelbad;goisern-jodschwefelbad;47,65857;13,608708;AT;8100863
+1811;Raasdorf;raasdorf;48,23905;16,581726;AT;8101415
+4407597;Wien Stadlau;wien-stadlau;48,218025;16,447443;AT;8104229
+430;Furth-Palt;furth-palt;48,384502;15,6061325;AT;8100813
+5743597;St.Pölten Bildungscampus;st.polten-bildungscampus;48,19029;15,614993;AT;8106003
+1099;Klagenfurt Lend;klagenfurt-lend;46,62163;14,283536;AT;8101093
+1018;Markt Sachsenburg;markt-sachsenburg;46,825603;13,348319;AT;8101241
+2291;Unter Tullnerbach;unter-tullnerbach;48,19164;16,128036;AT;8101713
+1950;Siebenbrunn-Leopoldsdorf;siebenbrunn-leopoldsdorf;48,24567;16,704817;AT;8101477
+1016;Kleblach-Lind;kleblach-lind;46,770535;13,341295;AT;8101055
+1386;Michelhausen;michelhausen;48,296524;15,93438;AT;8101217
+2459;Wieselburg a.d.Erlauf;wieselburg-a.d.erlauf;48,132195;15,142547;AT;8100355
+1520;Kleinzell;kleinzell;48,458412;14,0320835;AT;8101106
+2446;Wien Spittelau;wien-spittelau;48,235924;16,358145;AT;8101937
+2458;Lebring;lebring;46,855595;15,5321455;AT;8101137
+4609072;Hart bei Graz;hart-bei-graz;47,042133;15,507676;AT;8102050
+99;Ausschlag-Zöbern;ausschlag-zobern;47,53308;16,083271;AT;8100642
+2452;Waidhofen a.d.Ybbs;waidhofen-a.d.ybbs;47,968616;14,764356;AT;8100445
+327;Untereggendorf;untereggendorf;47,861233;16,321096;AT;8100331
+855;Horn;horn;48,665794;15,674115;AT;8100277
+2288;Unzmarkt;unzmarkt;47,20102;14,442284;AT;8100074
+775;Hainburg a.d.Donau Kulturfabrik;hainburg-a.d.donau-kulturfabrik;48,145123;16,932514;AT;8100958
+2182;Steyregg;steyregg;48,284454;14,362191;AT;8101614
+774;Haslach;haslach;48,553345;14,031628;AT;8100976
+748;Judendorf-Straßengel;judendorf-strassengel;47,118412;15,34405;AT;8101011
+1876;Rohrbach-Berg;rohrbach-berg;48,581886;13,987194;AT;8100474
+2359;Rattenberg-Kramsach;rattenberg-kramsach;47,439247;11,89605;AT;8100465
+1103;Kittsee;kittsee;48,081726;17,071703;AT;8100373
+4943254;Straßwalchen West;strasswalchen-west;47,97688;13,245465;AT;8102062
+2252;Getzersdorf;getzersdorf;48,32426;15,715394;AT;8100834
+2498;Ulrichskirchen;ulrichskirchen;48,402496;16,488182;AT;8101697
+1121;Kitzbühel Hahnenkamm;kitzbuhel-hahnenkamm;47,443474;12,389655;AT;8101044
+2461;Mühling;muhling;48,110943;15,135501;AT;8101225
+960;Bisamberg;bisamberg;48,316402;16,347244;AT;8100689
+2442;Kastenreith;kastenreith;47,850845;14,637981;AT;8101079
+2316;Villach Warmbad;villach-warmbad;46,588524;13,828619;AT;8100382
+2253;Herzogenburg Stadt;herzogenburg-stadt;48,28452;15,70059;AT;8100996
+1275;Ludesch;ludesch;47,180298;9,771224;AT;8100066
+1718;Tullnerbach-Preßbaum;tullnerbach-pressbaum;48,1861;16,093334;AT;8101650
+724;Pressegger See;pressegger-see;46,631653;13,436827;AT;8100529
+986;Langkampfen;langkampfen;47,546047;12,109626;AT;8100300
+100;St.Andrä-Wördern;st.andra-wordern;48,333862;16,20898;AT;8100432
+680;Breitenwaida;breitenwaida;48,514946;16,074877;AT;8100710
+657;Trautmannsdorf a.d.L.;trautmannsdorf-a.d.l.;48,024185;16,643412;AT;8101653
+725;Vellach-Khünburg;vellach-khunburg;46,631283;13,408589;AT;8101720
+554;Gars-Thunau;gars-thunau;48,59767;15,655145;AT;8100247
+896;Hausruck;hausruck;48,12962;13,571613;AT;8100980
+497;Lengau;lengau;48,008114;13,220188;AT;8102009
+1322;Mariahof-St.Lambrecht;mariahof-st.lambrecht;47,10629;14,372793;AT;8101244
+2183;Pulgarn;pulgarn;48,278294;14,393774;AT;8101405
+2153;Herzograd;herzograd;48,161396;14,50357;AT;8100995
+2556;Zeltweg;zeltweg;47,189674;14,747938;AT;8100518
+145;Bernhardsthal;bernhardsthal;48,688393;16,878878;AT;8100457
+794;Pfaffenschwendt;pfaffenschwendt;47,46851;12,580133;AT;8101351
+2399;St. Martin bei Traun;st.-martin-bei-traun;48,236404;14,264582;AT;8101560
+2396;Wien Haidestraße;wien-haidestrasse;48,17879;16,426216;AT;8100920
+2347;Glandorf;glandorf;46,749863;14,381133;AT;8100849
+2282;Unterhart;unterhart;48,089127;14,042596;AT;8101700
+2469;Wittmannsdorf;wittmannsdorf;47,92025;16,219824;AT;8101788
+1378;Guntramsdorf-Thallern;guntramsdorf-thallern;48,05218;16,297758;AT;8100846
+1975;Bad Blumau;bad-blumau;47,123413;16,056568;AT;8100663
+560;Grein-Bad Kreuzen;grein-bad-kreuzen;48,22079;14,851174;AT;8100826
+481;Fürnitz;furnitz;46,563217;13,813434;AT;8100368
+441;Brunn an der Schneebergbahn;brunn-an-der-schneebergbahn;47,825623;16,15737;AT;8100706
+826;Bad Hofgastein;bad-hofgastein;47,19537;13,100497;AT;8100097
+440;Bad Fischau-Brunn;bad-fischau-brunn;47,826736;16,173086;AT;8100653
+1348;Wien Hetzendorf;wien-hetzendorf;48,166946;16,315737;AT;8100935
+375;Staatz;staatz;48,699722;16,492947;AT;8101600
+363;Ebensee;ebensee;47,804413;13,771603;AT;8100155
+1759;Pottenstein a.d.Triesting;pottenstein-a.d.triesting;47,961277;16,08957;AT;8101401
+2649;Liebenfels Haltestelle;liebenfels-haltestelle;46,7361;14,292668;AT;8100305
+2123;Stadl-Paura;stadl-paura;48,084408;13,883351;AT;8100308
+2072;Spital am Semmering;spital-am-semmering;47,61689;15,7491455;AT;8101596
+2023;Selzthal;selzthal;47,55086;14,31378;AT;8100150
+2019;Haiming;haiming;47,252674;10,889398;AT;8100956
+2254;Traisen;traisen;48,0569;15,612386;AT;8101643
+2236;Taufkirchen a.d.Pram;taufkirchen-a.d.pram;48,406845;13,5225935;AT;8100320
+2211;Thalheim-Pöls;thalheim-pols;47,196224;14,589622;AT;8101678
+2139;Straßwalchen;strasswalchen;47,972378;13,263789;AT;8100019
+2136;Rohr;rohr;46,976204;15,812629;AT;8101454
+1441;Hart im Innkreis;hart-im-innkreis;48,316006;13,415245;AT;8100948
+768;Haiding;haiding;48,209244;13,975275;AT;8100265
+405;Lödersdorf;lodersdorf;46,954628;15,946284;AT;8101164
+804;Wien Hütteldorf;wien-hutteldorf;48,197475;16,261131;AT;8100447
+1250;Lenzing Ort;lenzing-ort;47,971687;13,606664;AT;8101135
+1730;Graz Liebenau-Murpark;graz-liebenau-murpark;47,039814;15,463244;AT;8103487
+13;Andorf;andorf;48,369404;13,565719;AT;8100211
+314;Obereggendorf;obereggendorf;47,850227;16,297955;AT;8100439
+305;Eisenstadt;eisenstadt;47,839638;16,529953;AT;8100231
+303;Sierndorf a.d.March;sierndorf-a.d.march;48,511566;16,891272;AT;8101524
+781;Hartberg;hartberg;47,281334;15,985105;AT;8100180
+2018;Silz;silz;47,270123;10,936625;AT;8100586
+502;Frohnleiten;frohnleiten;47,26633;15,327136;AT;8100033
+1949;Zöbing;zobing;48,490658;15,693869;AT;8101826
+571;Kapellerfeld;kapellerfeld;48,31701;16,495167;AT;8101020
+2089;St.Stefan-Vorderberg;st.stefan-vorderberg;46,600395;13,533024;AT;8101598
+686;Gröbming;grobming;47,426876;13,900705;AT;8100135
+2012;Sierndorf;sierndorf;48,428875;16,175068;AT;8101522
+2002;Scheiblingkirchen-Warth;scheiblingkirchen-warth;47,662193;16,13097;AT;8101546
+2110;St.Jodok;st.jodok;47,063293;11,499358;AT;8101529
+1964;Schauersberg;schauersberg;48,135937;14,008674;AT;8101852
+2426;Wernstein;wernstein;48,50648;13,457616;AT;8100544
+1784;Saffen;saffen;48,02181;15,152298;AT;8101463
+2173;Schwertberg;schwertberg;48,26869;14,579597;AT;8101601
+1048252;Piesting Harzwerk;piesting-harzwerk;47,8765;16,13642;AT;8101974
+2448;Helmahof;helmahof;48,31041;16,597475;AT;8100928
+2512;Innsbruck Westbf;innsbruck-westbf;47,25554;11,391831;AT;8100109
+224;Breitenbrunn;breitenbrunn;47,94111;16,746288;AT;8100397
+688;Aich-Assach;aich-assach;47,420242;13,821479;AT;8100597
+175;St.Michael ob Bleiburg;st.michael-ob-bleiburg;46,582382;14,750738;AT;8101471
+992;Kalwang;kalwang;47,423435;14,744336;AT;8100126
+1818;Kamegg;kamegg;48,610252;15,657431;AT;8101024
+1817;Stallegg;stallegg;48,615963;15,643662;AT;8101870
+1809;Radstadt;radstadt;47,384304;13,4681;AT;8100138
+1769;Graz Puntigam;graz-puntigam;47,031147;15,429147;AT;8101398
+1864;Stadt Rottenmann;stadt-rottenmann;47,527863;14,363736;AT;8100309
+1749;Pregarten;pregarten;48,355972;14,522638;AT;8100528
+1895;Villach St.Ruprecht;villach-st.ruprecht;46,641037;13,87634;AT;8101592
+1265694;Salzburg Gnigl;salzburg-gnigl;47,81201;13,066285;AT;8100559
+1801;Retz;retz;48,75364;15,957208;AT;8100469
+1834;Reichraming;reichraming;47,891415;14,472767;AT;8101431
+1691;Weissenstein-Kellerberg;weissenstein-kellerberg;46,67955;13,719743;AT;8101783
+2317;St.Veit a.d.Gölsen;st.veit-a.d.golsen;48,045128;15,671808;AT;8101622
+111;Langenlebarn;langenlebarn;48,32753;16,121826;AT;8101159
+585;Golling-Abtenau;golling-abtenau;47,600773;13,164072;AT;8100041
+2485;St.Georgen am Steinfelde;st.georgen-am-steinfelde;48,13839;15,614591;AT;8101510
+2456;Wildon;wildon;46,88416;15,521191;AT;8101774
+70;Suben;suben;48,40261;13,433108;AT;8100315
+601;Grieskirchen-Gallspach;grieskirchen-gallspach;48,231064;13,839007;AT;8100022
+308;Niedernfritz-St.Martin;niedernfritz-st.martin;47,4213;13,3449;AT;8101287
+2036;St.Martin-Sittich;st.martin-sittich;46,73221;14,152643;AT;8100502
+1626;Ober Piesting;ober-piesting;47,874485;16,097095;AT;8101316
+562;Grafendorf;grafendorf;47,346714;16,003548;AT;8100182
+1708;Roßleithen;rossleithen;47,72431;14,309059;AT;8101450
+1705;Piesting;piesting;47,874744;16,124489;AT;8101394
+1636;Ortmann;ortmann;47,89355;15,978928;AT;8101320
+1586;Wien Handelskai;wien-handelskai;48,242134;16,385626;AT;8101934
+1585;Wien Traisengasse;wien-traisengasse;48,234795;16,38336;AT;8101641
+1577;Wallersee;wallersee;47,919403;13,159345;AT;8101803
+1568;Neusiedl am See;neusiedl-am-see;47,955727;16,823544;AT;8100434
+1555;St.Nikola-Struden;st.nikola-struden;48,233517;14,909218;AT;8100503
+388;Bleiburg Stadt;bleiburg-stadt;46,590157;14,794147;AT;8100668
+1469;Münchendorf;munchendorf;48,03238;16,386206;AT;8100423
+2393;Wien Hauptbahnhof;wien-hauptbahnhof;48,18469;16,379192;AT;8103000
+2323;Vitis;vitis;48,752846;15,172347;AT;8100335
+2554;Ziersdorf;ziersdorf;48,528316;15,921299;AT;8101822
+2301;Pusarnitz;pusarnitz;46,835056;13,40475;AT;8101373
+2289;Unter Purkersdorf;unter-purkersdorf;48,207726;16,190632;AT;8101709
+2280;Linz Urfahr;linz-urfahr;48,31198;14,279606;AT;8100396
+2214;Berndorf Fabrik;berndorf-fabrik;47,94018;16,133865;AT;8100650
+333;St.Egyden;st.egyden;47,761177;16,14707;AT;8101489
+1675;Markersdorf a.d.Pielach;markersdorf-a.d.pielach;48,196186;15,496001;AT;8101203
+1618;Ossiach-Bodensdorf;ossiach-bodensdorf;46,682426;13,974034;AT;8100037
+551;Tallesbrunn;tallesbrunn;48,364082;16,787077;AT;8101644
+1611;Oepping;oepping;48,59996;13,960349;AT;8101306
+1609;Oed;oed;47,878666;16,026243;AT;8100579
+1732;Töschling;toschling;46,633163;14,110779;AT;8101676
+1455;Marz-Rohrbach;marz-rohrbach;47,717655;16,428732;AT;8100472
+2504;Werndorf;werndorf;46,916977;15,476901;AT;8100593
+1073;Leobendorf-Burg Kreuzenstein;leobendorf-burg-kreuzenstein;48,364662;16,301813;AT;8101124
+877;Hochzirl;hochzirl;47,28102;11,249312;AT;8100111
+1332;Maria Saal;maria-saal;46,682667;14,3391695;AT;8101239
+1321;Niederöblarn;niederoblarn;47,481598;14,014212;AT;8101273
+2245;Treibach-Althofen;treibach-althofen;46,86858;14,465529;AT;8100096
+87;Linz-Pichling;linz-pichling;48,242874;14,379211;AT;8101358
+2202;Pinggau Markt;pinggau-markt;47,440575;16,061104;AT;8100186
+2112;Gries;gries;47,042;11,485618;AT;8100258
+1776;Pürbach-Schrems;purbach-schrems;48,763615;15,084784;AT;8100531
+2095;Wien Erzherzog Karl-Straße;wien-erzherzog-karl-strasse;48,23043;16,453316;AT;8100756
+2087;Möllbrücke-Sachsenburg;mollbrucke-sachsenburg;46,830727;13,36815;AT;8100419
+676;Altach;altach;47,35189;9,660898;AT;8100630
+2208;Teesdorf;teesdorf;47,942413;16,289549;AT;8101656
+1501;Wiener Neustadt Anemonensee;wiener-neustadt-anemonensee;47,811886;16,209927;AT;8102017
+2086;Kothmühle;kothmuhle;47,886543;13,940505;AT;8101071
+1388;Matrei;matrei;47,12717;11,452846;AT;8100106
+1025;Lasberg-St.Oswald;lasberg-st.oswald;48,46085;14,52169;AT;8101178
+2352;St.Veit a.d.Glan-West;st.veit-a.d.glan-west;46,762657;14,362391;AT;8101624
+1039;Kirchdorf a.d.Krems;kirchdorf-a.d.krems;47,906567;14,116097;AT;8100170
+2433097;Salzburg Mülln-Altstadt;salzburg-mulln-altstadt;47,80842;13,033671;AT;8102052
+1575;Steindorf bei Straßwalchen;steindorf-bei-strasswalchen;47,966732;13,239145;AT;8100020
+1543;Hohenau;hohenau;48,598255;16,900854;AT;8100130
+995;Kainisch;kainisch;47,569904;13,842627;AT;8101025
+1620;Wien Ottakring;wien-ottakring;48,211662;16,311138;AT;8100512
+821;Rohrendorf;rohrendorf;48,423283;15,65725;AT;8101453
+2386;Wald am Schoberpaß;wald-am-schoberpass;47,450794;14,670311;AT;8100127
+1205;Wien Liesing;wien-liesing;48,135124;16,284285;AT;8101150
+1976;Seekirchen am Wallersee;seekirchen-am-wallersee;47,899418;13,130075;AT;8100426
+956;Wien Jedlersdorf;wien-jedlersdorf;48,2744;16,39547;AT;8101013
+2050;Steindorf am Ossiachersee;steindorf-am-ossiachersee;46,698223;14,01418;AT;8100038
+2014;Schönborn-Mallebarn;schonborn-mallebarn;48,4686;16,159071;AT;8101548
+486;Freistadt;freistadt;48,495247;14,481324;AT;8100239
+2216;Thörl-Maglern;thorl-maglern;46,540253;13,648239;AT;8101675
+2000;St.Georgen a.d.Gusen Ort;st.georgen-a.d.gusen-ort;48,270466;14,450673;AT;8101502
+1989;Seebenstein;seebenstein;47,703396;16,142847;AT;8100190
+1941;Wiesen-Sigleß;wiesen-sigless;47,753265;16,369968;AT;8100356
+401;Frastanz;frastanz;47,21998;9,63939;AT;8100069
+1566016;Ladendorf;ladendorf;48,535606;16,509277;AT;8101111
+1391;Raaba;raaba;47,030132;15,495777;AT;8100193
+547;Gänserndorf;ganserndorf;48,340225;16,732414;AT;8100245
+2210;Trattenbach;trattenbach;47,930252;14,354749;AT;8101686
+1680;Pettenbach;pettenbach;47,962128;14,011334;AT;8100521
+188;Bruck a.d.Mur;bruck-a.d.mur;47,413742;15,279575;AT;8100032
+2221;Ober Waltersdorf;ober-waltersdorf;47,974747;16,32809;AT;8101328
+1277;Schlins-Beschling;schlins-beschling;47,194984;9,69004;AT;8101543
+1064;Kammer-Schörfling;kammer-schorfling;47,94855;13,596198;AT;8100283
+1060;Krummnußbaum;krummnussbaum;48,20799;15,158757;AT;8101083
+1031;Kleinreifling;kleinreifling;47,824085;14,641997;AT;8100156
+1527;Nöstlbach-St.Marien;nostlbach-st.marien;48,164104;14,246652;AT;8101283
+973;St.Johann im Pongau;st.johann-im-pongau;47,348377;13,194882;AT;8100043
+946;Imsterberg;imsterberg;47,21127;10,706293;AT;8101000
+937;Innsbruck Hötting;innsbruck-hotting;47,261497;11,373673;AT;8100110
+1470;Mureck;mureck;46,71135;15,771027;AT;8100491
+929;Unterberg-Stefansbrücke;unterberg-stefansbrucke;47,214035;11,391985;AT;8101712
+1106;Schiflugschanze Kulm;schiflugschanze-kulm;47,55206;13,995384;AT;8101945
+927;Innsbruck Hbf;innsbruck-hbf;47,263416;11,401053;AT;8100108
+1860;Klaus in Vorarlberg;klaus-in-vorarlberg;47,308777;9,624329;AT;8101100
+1837;Pfarrwerfen;pfarrwerfen;47,461494;13,199678;AT;8101353
+1745;Pram-Haag;pram-haag;48,231777;13,617211;AT;8100526
+2042;Niederkreuzstetten;niederkreuzstetten;48,477795;16,47973;AT;8101272
+318;Oberhofen-Zell am Moos;oberhofen-zell-am-moos;47,95897;13,301713;AT;8101332
+1725;Pöchlarn;pochlarn;48,208164;15,216352;AT;8100006
+1476;Mitterdorf-Veitsch;mitterdorf-veitsch;47,536743;15,513321;AT;8101221
+1869;Rothenthurn;rothenthurn;46,759483;13,582347;AT;8101447
+2449;Strasshof Haltestelle;strasshof-haltestelle;48,318462;16,633842;AT;8101595
+1228;Limberg-Maissau;limberg-maissau;48,59242;15,861429;AT;8101154
+1226;Marktl;marktl;48,021526;15,600068;AT;8100576
+37;Wankham;wankham;47,998024;13,730215;AT;8101736
+1223;Lilienfeld;lilienfeld;48,01373;15,593075;AT;8101153
+920;Hallwang-Elixhausen;hallwang-elixhausen;47,85797;13,091815;AT;8100929
+857;Wien Hernals;wien-hernals;48,223076;16,314459;AT;8100271
+1558;Neulengbach;neulengbach;48,19976;15,891884;AT;8101279
+1893;Musau;musau;47,531643;10,672639;AT;8100555
+756;Rum;rum;47,278027;11,4555025;AT;8100477
+736;Grünau im Almtal;grunau-im-almtal;47,853672;13,951606;AT;8100261
+1084;Kremsmünster;kremsmunster;48,053005;14,140196;AT;8100169
+709;Grünbach Kohlenwerk;grunbach-kohlenwerk;47,79851;15,972508;AT;8100847
+1716;Altenhof;altenhof;48,54418;15,685887;AT;8101863
+1699;Stübing;stubing;47,177452;15,322238;AT;8100590
+2162;Pill-Vomperbach;pill-vomperbach;47,324505;11,677765;AT;8100524
+1336;Klagenfurt Annabichl;klagenfurt-annabichl;46,649876;14,315199;AT;8101090
+1118;Höflein a.d.Donau;hoflein-a.d.donau;48,350063;16,272219;AT;8100961
+27;Elsbethen;elsbethen;47,76092;13,080355;AT;8100772
+1048281;Pernitz Raimundviertel;pernitz-raimundviertel;47,891758;15,945694;AT;8101975
+1337;Klagenfurt Ostbf;klagenfurt-ostbf;46,62168;14,321976;AT;8101094
+1065;Wörgl Kundl;worgl-kundl;47,475983;11,982031;AT;8100100
+2412;Weizelsdorf;weizelsdorf;46,53948;14,243428;AT;8100347
+2259;Telfs-Pfaffenhofen;telfs-pfaffenhofen;47,300667;11,07868;AT;8100060
+1049;Brixen im Thale;brixen-im-thale;47,44922;12,260588;AT;8100366
+1044;Kirchbichl;kirchbichl;47,51857;12,092778;AT;8100290
+1644;Bergern;bergern;48,100792;13,631525;AT;8100681
+1021;Unterkritzendorf;unterkritzendorf;48,324036;16,309332;AT;8101702
+1019;Klosterneuburg-Weidling;klosterneuburg-weidling;48,297646;16,334545;AT;8101101
+1810;Altenmarkt im Pongau;altenmarkt-im-pongau;47,382183;13,4292755;AT;8100139
+2334;Viehofen;viehofen;48,230995;15,653259;AT;8101717
+972;St.Johann i.d.Haide;st.johann-i.d.haide;47,280563;16,035336;AT;8100181
+1849;Steyr Münichholz;steyr-munichholz;48,048065;14,449511;AT;8101609
+287;Schwarzach in Vorarlberg;schwarzach-in-vorarlberg;47,446213;9,754374;AT;8101634
+1731;Pörtschach am Wörthersee;portschach-am-worthersee;46,6362;14,146308;AT;8100080
+1045853;Rothengrub;rothengrub;47,78921;16,051044;AT;8101973
+1762;Pottenbrunn;pottenbrunn;48,223648;15,701783;AT;8101396
+1619;St.Urban am Ossiachersee;st.urban-am-ossiachersee;46,67493;13,960192;AT;8100506
+1905;Eichgraben-Altlengbach;eichgraben-altlengbach;48,173527;15,981619;AT;8100749
+1593;Obertraun-Dachsteinhöhlen;obertraun-dachsteinhohlen;47,557552;13,683686;AT;8100163
+248;Breitenstein;breitenstein;47,659912;15,8202915;AT;8100692
+1576;Köstendorf Weng;kostendorf-weng;47,93619;13,174894;AT;8100594
+2034;Summerau;summerau;48,557297;14,448832;AT;8100316
+1448;Trasdorf;trasdorf;48,315228;15,879853;AT;8101651
+2432;Windau;windau;47,438946;12,184489;AT;8101776
+217;Brixlegg;brixlegg;47,43477;11,879966;AT;8100101
+914;Neulengbach Stadt;neulengbach-stadt;48,19631;15,906338;AT;8101280
+555;Buchberg;buchberg;48,57605;15,658831;AT;8100700
+399;Wien Siemensstraße;wien-siemensstrasse;48,270927;16,420742;AT;8100796
+426;Feldkirchen in Kärnten;feldkirchen-in-karnten;46,721397;14,098801;AT;8100039
+512;Fürstenfeld;furstenfeld;47,04222;16,083843;AT;8100177
+1351;Wien Quartier Belvedere;wien-quartier-belvedere;48,188038;16,381948;AT;8101473
+71;St.Anton am Arlberg;st.anton-am-arlberg;47,127384;10,267322;AT;8100064
+603;Obertrattnach-M Hofk;obertrattnach-m-hofk;48,24598;13,766854;AT;8101325
+1777;Purbach am Neusiedlersee;purbach-am-neusiedlersee;47,90643;16,698841;AT;8100532
+1197;Lähn;lahn;47,419697;10,83332;AT;8100553
+856;Hennersdorf;hennersdorf;48,112484;16,358265;AT;8100925
+1531;Kumpfmühl;kumpfmuhl;48,269173;13,620424;AT;8101063
+285;Dornbirn;dornbirn;47,417664;9,738876;AT;8100122
+1748;Peterskirchen;peterskirchen;48,233837;13,548963;AT;8101399
+155;Bregenz Hafen;bregenz-hafen;47,506462;9,748777;AT;8101950
+462;Felixdorf;felixdorf;47,886967;16,248125;AT;8100780
+448;Feldkirch;feldkirch;47,24136;9,60475;AT;8100197
+959;Langenzersdorf;langenzersdorf;48,30693;16,355406;AT;8101191
+427;Tiffen;tiffen;46,70131;14,059938;AT;8101669
+392;Oberbrunn;oberbrunn;48,17099;13,513269;AT;8101295
+370;Enns;enns;48,2212;14,466801;AT;8100011
+365;Traunkirchen Ort;traunkirchen-ort;47,842693;13,787146;AT;8101674
+292;Nikolsdorf;nikolsdorf;46,779144;12,895138;AT;8101274
+652;Graz Ostbf-Messe;graz-ostbf-messe;47,05322;15,448479;AT;8100371
+2201;Tauchen-Schaueregg;tauchen-schaueregg;47,48277;16,05488;AT;8100187
+2569;Hatting;hatting;47,281307;11,170258;AT;8100986
+1466;Mautern;mautern;47,39679;14,835887;AT;8100125
+400;Wien Brünner Straße;wien-brunner-strasse;48,267635;16,403744;AT;8100691
+1998;Wien Grillgasse;wien-grillgasse;48,1672;16,40697;AT;8101556
+1859;Sulz-Röthis;sulz-rothis;47,294296;9,634578;AT;8101585
+1074;Spillern;spillern;48,375847;16,25652;AT;8101578
+253;Bad Vöslau;bad-voslau;47,96931;16,223974;AT;8100708
+858;Herzogenburg;herzogenburg;48,276608;15,6965275;AT;8100272
+360;Brunn a.d.Pitten;brunn-a.d.pitten;47,72256;16,188486;AT;8100705
+353;Wien Praterkai;wien-praterkai;48,19968;16,4413;AT;8101539
+1217;Lienz;lienz;46,828484;12,771511;AT;8100141
+2218;Traiskirchen Aspangbahn;traiskirchen-aspangbahn;48,017975;16,303438;AT;8101640
+296;Arnoldstein;arnoldstein;46,551517;13,707967;AT;8100056
+665;Purkla;purkla;46,73156;15,903452;AT;8101408
+1304;St.Michael;st.michael;47,346622;15,009186;AT;8100071
+273;Berg im Drautal;berg-im-drautal;46,742355;13,127802;AT;8100657
+2444;Wien Franz-Josefs-Bf;wien-franz-josefs-bf;48,226543;16,361174;AT;8100446
+1692;Puch;puch;46,66303;13,7597475;AT;8101877
+832;Hieflau;hieflau;47,607742;14,736417;AT;8100158
+235;Böckstein;bockstein;47,080482;13,130576;AT;8100094
+1894;Ulrichsbrücke-Füssen;ulrichsbrucke-fussen;47,543118;10,664372;AT;8100558
+140;Heiterwang-Plansee;heiterwang-plansee;47,44228;10,748489;AT;8100550
+1372;Hörersdorf;horersdorf;48,619923;16,516901;AT;8100970
+1206;"Perchtoldsdorf ";"perchtoldsdorf-";48,122726;16,285553;AT;8101346
+902;Wien Oberdöbling;wien-oberdobling;48,244164;16,344084;AT;8100441
+2227;Thal;thal;46,784103;12,670821;AT;8100324
+2480;Wels Lokalbahn;wels-lokalbahn;48,15652;14,017381;AT;8101754
+1517;Neunkirchen N.Ö.;neunkirchen-n.o.;47,73156;16,084948;AT;8101277
+1613;Schlägl;schlagl;48,636604;13,975401;AT;8101516
+173;Bleiburg;bleiburg;46,574123;14,786531;AT;8100393
+1290;Laxenburg-Biedermannsdorf;laxenburg-biedermannsdorf;48,077477;16,356628;AT;8101122
+1416;Küpfern Haltestelle;kupfern-haltestelle;47,858536;14,61056;AT;8101099
+1401;Mauthausen;mauthausen;48,24277;14,532747;AT;8100413
+299;Drösing;drosing;48,54081;16,89584;AT;8100221
+1599;Gaflenz;gaflenz;47,893776;14,723646;AT;8100154
+1193;Leibnitz;leibnitz;46,780785;15,547072;AT;8100035
+142;Reutte in Tirol Schulzentrum;reutte-in-tirol-schulzentrum;47,489754;10,724925;AT;8101912
+116;Bludenz;bludenz;47,155;9,8145;AT;8100067
+2356;Neuhaus a.d.Gail;neuhaus-a.d.gail;46,554955;13,778418;AT;8101267
+1222;Tauchendorf-Haidensee;tauchendorf-haidensee;46,728302;14,236686;AT;8101652
+278;Deutschkreutz;deutschkreutz;47,603893;16,620161;AT;8100719
+1741;Payerbach-Reichenau;payerbach-reichenau;47,69604;15,863349;AT;8100027
+742;Gunskirchen;gunskirchen;48,132668;13,946178;AT;8100845
+2415;Weißenbach-St.Gallen;weissenbach-st.gallen;47,714474;14,635469;AT;8101806
+2409;Weissenbach-Neuhaus;weissenbach-neuhaus;47,984314;16,045895;AT;8101755
+588;Tenneck;tenneck;47,49462;13,178909;AT;8101660
+1665;Paudorf;paudorf;48,352024;15,61555;AT;8101338
+740;Guntramsdorf-Kaiserau Haltestelle;guntramsdorf-kaiserau-haltestelle;48,043865;16,324745;AT;8100372
+2398;Linz Wegscheid;linz-wegscheid;48,249672;14,275552;AT;8101195
+1370;Mistelbach;mistelbach;48,565624;16,563606;AT;8101245
+1130;Neukirchen bei Lambach;neukirchen-bei-lambach;48,09509;13,832224;AT;8101278
+1963;Weitlanbrunn;weitlanbrunn;46,742508;12,395566;AT;8101784
+1349;Wien Matzleinsdorfer Platz;wien-matzleinsdorfer-platz;48,17997;16,357107;AT;8101227
+542;Feldkirchen-Seiersberg;feldkirchen-seiersberg;47,012505;15,440541;AT;8103174
+878;Leithen;leithen;47,290848;11,221783;AT;8100554
+1530;Wendling;wendling;48,246105;13,650017;AT;8101785
+5517155;Abfaltersbach;abfaltersbach;46,75813;12,529545;AT;8100204
+1281;Katsdorf;katsdorf;48,31234;14,491217;AT;8101029
+901;Wien Heiligenstadt;wien-heiligenstadt;48,24909;16,365467;AT;8100269
+2226;Traunkirchen;traunkirchen;47,855267;13,777104;AT;8100153
+4773541;Wien Aspern Nord;wien-aspern-nord;48,23477;16,503906;AT;8102888
+97;Bad Aussee;bad-aussee;47,59906;13,776525;AT;8100164
+2100;Steinfeld im Drautal;steinfeld-im-drautal;46,75263;13,259747;AT;8100149
+545;Gaisbach-Wartberg;gaisbach-wartberg;48,330223;14,505918;AT;8100246
+26;Salzburg Süd;salzburg-sud;47,77011;13,078498;AT;8101917
+17;Absdorf-Hippersdorf;absdorf-hippersdorf;48,401993;15,985761;AT;8100202
+8;Mittewald a.d.Drau;mittewald-a.d.drau;46,769623;12,595168;AT;8100417
+1617;Hollabrunn;hollabrunn;48,562935;16,072226;AT;8100274
+2447;Deutsch Wagram;deutsch-wagram;48,303146;16,564568;AT;8100721
+1557;Neuhofen a.d.Krems;neuhofen-a.d.krems;48,135906;14,238547;AT;8101255
+1889;Böhlerwerk a.d.Ybbs;bohlerwerk-a.d.ybbs;47,98306;14,754061;AT;8100713
+2345;St.Veit a.d.Glan;st.veit-a.d.glan;46,770508;14,367177;AT;8100078
+1702;Pöham;poham;47,43077;13,253674;AT;8101376
+1450;Sitzenberg-Reidling;sitzenberg-reidling;48,332226;15,818637;AT;8101587
+1343;Kapfenberg Fachhochschule;kapfenberg-fachhochschule;47,454758;15,329323;AT;8101032
+2077;Schlierbach;schlierbach;47,937775;14,111652;AT;8101540
+1969;Wien Strebersdorf;wien-strebersdorf;48,285553;16,381693;AT;8101588
+887;Dornbirn-Schoren;dornbirn-schoren;47,412933;9,726251;AT;8100728
+1400441;Oberhofen im Inntal;oberhofen-im-inntal;47,30202;11,09505;AT;8102053
+2269;Tulln Stadt;tulln-stadt;48,328358;16,053785;AT;8101692
+1324;Marchtrenk;marchtrenk;48,201057;14,09957;AT;8101204
+2310;Velden am Wörthersee;velden-am-worthersee;46,620113;14,044935;AT;8100081
+570;Gerasdorf;gerasdorf;48,294247;16,484188;AT;8100869
+2327;Oberthalheim-Timelkam;oberthalheim-timelkam;48,001907;13,623878;AT;8101324
+2337;Gödersdorf;godersdorf;46,568462;13,846897;AT;8100861
+75;Aspang;aspang;47,562447;16,099655;AT;8100188
+507;Wagram-Grafenegg;wagram-grafenegg;48,434067;15,776978;AT;8101764
+1578;Neumarkt am Wallersee;neumarkt-am-wallersee;47,95581;13,225934;AT;8100134
+2142;Ober Olberndorf;ober-olberndorf;48,41368;16,17413;AT;8101315
+2492;Wöllersdorf;wollersdorf;47,861477;16,178028;AT;8101796
+2099;Steyr;steyr;48,038197;14,423095;AT;8100010
+482;Föderlach;foderlach;46,602085;13,959185;AT;8100797
+1078;Kraubath;kraubath;47,30617;14,945537;AT;8101076
+5865935;Rohrbach-Vorau;rohrbach-vorau;47,38886;15,9858265;AT;8100183
+1479;Mixnitz-Bärenschützklamm;mixnitz-barenschutzklamm;47,331173;15,360722;AT;8101210
+2338;Finkenstein;finkenstein;46,568825;13,867722;AT;8100788
+2333;Vöcklamarkt;vocklamarkt;47,99799;13,489421;AT;8100508
+59;Greinsfurth;greinsfurth;48,10791;14,838521;AT;8100836
+2053;Hatzendorf;hatzendorf;46,97927;16,003448;AT;8100268
+2968384;Wien Wolf in der Au;wien-wolf-in-der-au;48,204624;16,236526;AT;8102057
+1319;Maria Ellend;maria-ellend;48,10995;16,688873;AT;8100537
+1952;Untersiebenbrunn;untersiebenbrunn;48,248016;16,74902;AT;8101701
+723;Görtschach-Förolach;gortschach-forolach;46,622574;13,471229;AT;8100862
+2968346;Unterretzbach;unterretzbach;48,765038;16,008009;AT;8102056
+121;Bad Gastein;bad-gastein;47,11181;13,131986;AT;8100095
+579;Grein Stadt;grein-stadt;48,229984;14,8557005;AT;8100858
+1545;Niklasdorf;niklasdorf;47,394108;15,156235;AT;8101275
+541;Graz Hbf;graz-hbf;47,07277;15,4162855;AT;8100173
+1352;Wien Rennweg;wien-rennweg;48,19574;16,385963;AT;8101433
+2040;Schleinbach;schleinbach;48,422012;16,489965;AT;8101535
+1252109;Waldegg-Dürnbach;waldegg-durnbach;47,86758;16,051746;AT;8101988
+2544;Gerling im Pinzgau;gerling-im-pinzgau;47,390285;12,827417;AT;8100879
+64;St.Andrä im Lavanttal;st.andra-im-lavanttal;46,762825;14,84177;AT;8100496
+2107;Oberhart;oberhart;48,104;14,039182;AT;8101299
+1873;Markt Paternion;markt-paternion;46,725304;13,6424265;AT;8101238
+24;Aigen-Schlägl;aigen-schlagl;48,64236;13,975272;AT;8100208
+1637;Pernitz Wipfelhofstraße;pernitz-wipfelhofstrasse;47,895725;15,968353;AT;8101858
+1454;Mattersburg;mattersburg;47,735752;16,409027;AT;8100408
+2543;Zell am See;zell-am-see;47,320663;12,796885;AT;8100048
+557;Gstatterboden im Nationalpark;gstatterboden-im-nationalpark;47,591328;14,633669;AT;8100159
+412;Friedberg;friedberg;47,434803;16,054043;AT;8100185
+2251;Traismauer;traismauer;48,34784;15,746321;AT;8100325
+2246;Kappel am Krappfeld;kappel-am-krappfeld;46,837826;14,475455;AT;8101075
+11;Achau;achau;48,082806;16,376186;AT;8100205
+1826;Aurolzmünster;aurolzmunster;48,248783;13,458058;AT;8100638
+2397;Wörschach Schwefelbad;worschach-schwefelbad;47,545536;14,139802;AT;8100425
+1261;Losenstein;losenstein;47,923985;14,431081;AT;8100463
+5705364;St. Paul im Lavanttal;st.-paul-im-lavanttal;46,722015;14,856137;AT;8100501
+2144;Hausleiten;hausleiten;48,391296;16,106752;AT;8100990
+1298;Pasching;pasching;48,257458;14,209324;AT;8101389
+2306;Villach Hbf;villach-hbf;46,618618;13,848443;AT;8100147
+990;Kapfenberg;kapfenberg;47,44512;15,292038;AT;8100031
+5402526;Villach Landskron;villach-landskron;46,629856;13,8756895;AT;8105979
+726;Gattendorf;gattendorf;48,010548;16,98062;AT;8100332
+2342;Wilfling;wilfling;47,980606;14,029081;AT;8101857
+514;Übersbach;ubersbach;47,02687;16,053713;AT;8101694
+442;Bad Fischau;bad-fischau;47,83147;16,171665;AT;8100655
+2453;Stadt Waidhofen a.d.Ybbs;stadt-waidhofen-a.d.ybbs;47,958363;14,767739;AT;8101635
+4872531;Hall-Thaur;hall-thaur;47,277103;11,474141;AT;8102105
+143;Bad Deutsch Altenburg;bad-deutsch-altenburg;48,13316;16,910831;AT;8100538
+2051;Söchau;sochau;47,028923;16,013079;AT;8100429
+5402655;Leoben Lerchenfeld;leoben-lerchenfeld;47,385452;15,115314;AT;8106002
+2215;Berndorf Stadt;berndorf-stadt;47,944626;16,108795;AT;8100652
+2385;Wartberg im Mürztal;wartberg-im-murztal;47,52735;15,484174;AT;8100383
+2212;St.Georgen ob Judenburg;st.georgen-ob-judenburg;47,212147;14,4992075;AT;8101504
+1366;St.Georgen a.d.Mattig;st.georgen-a.d.mattig;48,216415;13,098743;AT;8101506
+483;Villach Seebach;villach-seebach;46,621082;13,873308;AT;8101496
+1196;Lermoos;lermoos;47,40541;10,87882;AT;8100552
+1621;Wien Breitensee;wien-breitensee;48,197372;16,306904;AT;8100395
+1927;Sattledt;sattledt;48,074184;14,057946;AT;8100416
+1170;Lochau-Hörbranz;lochau-horbranz;47,529175;9,742781;AT;8100124
+16;Stillfried;stillfried;48,411476;16,846518;AT;8101536
+2140;Stockerau;stockerau;48,382393;16,213081;AT;8100534
+2229;Neukirchen-Gampern;neukirchen-gampern;48,020313;13,549217;AT;8101260
+820;Hadersdorf am Kamp;hadersdorf-am-kamp;48,446587;15,714688;AT;8100264
+2433;Hopfgarten Berglift;hopfgarten-berglift;47,44678;12,1588125;AT;8100939
+793;Hochfilzen;hochfilzen;47,467484;12,626548;AT;8100052
+1050;Kolbnitz;kolbnitz;46,878128;13,322182;AT;8100091
+1120;Kitzbühel;kitzbuhel;47,454254;12,391009;AT;8100055
+1397220;Asten-Fisching;asten-fisching;48,22723;14,427732;AT;8102046
+1842;Stainach-Irdning;stainach-irdning;47,529224;14,107292;AT;8100132
+2420;Weitersfeld a.d.Mur;weitersfeld-a.d.mur;46,714664;15,721436;AT;8101752
+364;Ebensee Landungsplatz;ebensee-landungsplatz;47,81243;13,774878;AT;8100766
+683;Grafenstein;grafenstein;46,61903;14,459415;AT;8100256
+474;Frankenmarkt;frankenmarkt;47,98312;13,432651;AT;8100018
+496;"Friedburg ";"friedburg-";47,997066;13,23419;AT;8100241
+2161;Terfens-Weer;terfens-weer;47,3159;11,6343;AT;8100323
+1955;Scheibbs;scheibbs;48,00553;15,1641865;AT;8100485
+475;Pöndorf;pondorf;47,98655;13,356017;AT;8101377
+630;Gmünd N.Ö.;gmund-n.o.;48,764214;14,983813;AT;8100129
+2041;Hautzendorf;hautzendorf;48,450787;16,492813;AT;8100984
+2104;Steeg-Gosau;steeg-gosau;47,61637;13,631854;AT;8100162
+1127;Lambach;lambach;48,093964;13,888288;AT;8100015
+1112;Lanzenkirchen;lanzenkirchen;47,750557;16,242178;AT;8101104
+971;Judenburg;judenburg;47,174984;14,66264;AT;8100073
+4741048;Wien Simmering;wien-simmering;48,169594;16,418804;AT;8101553
+436;Micheldorf-Hirt;micheldorf-hirt;46,914867;14,43138;AT;8100573
+1813;Glinzendorf;glinzendorf;48,242203;16,64115;AT;8100852
+1113;Kritzendorf;kritzendorf;48,335934;16,299084;AT;8101084
+66;Antiesenhofen;antiesenhofen;48,347347;13,402091;AT;8100215
+2129;Stams;stams;47,28196;10,979924;AT;8100589
+1610;Miesenbach-Waidmannsfeld;miesenbach-waidmannsfeld;47,87755;16,005537;AT;8101218
+2103;Herzogenburg-Wielandsthal;herzogenburg-wielandsthal;48,285282;15,690337;AT;8100997
+2076;Salzburg Parsch;salzburg-parsch;47,79907;13,073118;AT;8101481
+95;Obernberg-Altheim;obernberg-altheim;48,270218;13,259254;AT;8100442
+2070;St.Pölten-Porschestraße;st.polten-porschestrasse;48,18265;15,61698;AT;8101845
+1977;Eugendorf;eugendorf;47,873005;13,116338;AT;8100774
+1061;Säusenstein;sausenstein;48,193844;15,1135435;AT;8101468
+1076;Krems a.d.Donau;krems-a.d.donau;48,408894;15,605132;AT;8100295
+80;Arbing;arbing;48,22702;14,70101;AT;8100622
+419;Hohenbrugg a.d.Raab;hohenbrugg-a.d.raab;46,944305;16,059994;AT;8100945
+2043;Steyrling;steyrling;47,801777;14,163717;AT;8101638
+1597;Obersee;obersee;47,59154;13,665825;AT;8101322
+2190;Traun;traun;48,225452;14,2537155;AT;8101690
+5;Krenstetten-Biberbach;krenstetten-biberbach;48,05514;14,699915;AT;8101085
+1033;Allerheiligen-Mürzhofen;allerheiligen-murzhofen;47,481983;15,402896;AT;8100613
+1981;Kammern;kammern;47,389835;14,90332;AT;8101061
+81;Perg Schulzentrum;perg-schulzentrum;48,24247;14,640663;AT;8102016
+620;Gleisdorf;gleisdorf;47,09963;15,708342;AT;8100195
+4384071;Salzburg Aiglhof;salzburg-aiglhof;47,80792;13,026934;AT;8102048
+2247;Passering;passering;46,80683;14,469651;AT;8101393
+275;Dorfgastein;dorfgastein;47,238697;13,102993;AT;8100098
+806;Wien Speising;wien-speising;48,173603;16,28362;AT;8101853
+5091977;Klagenfurt West;klagenfurt-west;46,62295;14,266705;AT;8103644
+2045;Scharnitz;scharnitz;47,391872;11,266864;AT;8100088
+5091980;Klagenfurt Süd;klagenfurt-sud;46,61112;14,302177;AT;8103842
+1724;Pernegg;pernegg;47,359344;15,343082;AT;8101370
+1204;Linz Franckstraße;linz-franckstrasse;48,28623;14,322167;AT;8100807
+1967;Schwarza;schwarza;46,718018;15,669375;AT;8101636
+2013;Höbersdorf;hobersdorf;48,448586;16,173145;AT;8100962
+1650;Perg;perg;48,247715;14,627059;AT;8100580
+2192;Ansfelden;ansfelden;48,208584;14,2611;AT;8100626
+1918;Saalfelden;saalfelden;47,426746;12,829798;AT;8100049
+978;St.Johann in Tirol;st.johann-in-tirol;47,5196;12,430792;AT;8100054
+389;Eisenstadt Schule;eisenstadt-schule;47,84387;16,536674;AT;8100773
+321;Edlitz-Grimmenstein;edlitz-grimmenstein;47,61697;16,12794;AT;8100189
+1013;Spielberg (Bedarfshalt);spielberg-(bedarfshalt);47,19958;14,795371;AT;8101155
+553;Gaishorn;gaishorn;47,489067;14,546531;AT;8100819
+1180;Landeck-Zams;landeck-zams;47,14811;10,578222;AT;8100063
+2566531;Graz Don Bosco;graz-don-bosco;47,057594;15,419155;AT;8103490
+546;Schloß Haus;schloss-haus;48,341526;14,505501;AT;8100585
+1877;Rottenegg;rottenegg;48,36013;14,137582;AT;8100476
+2016;Tassenbach;tassenbach;46,746853;12,4660425;AT;8101646
+1995;Schönfeld-Lassee;schonfeld-lassee;48,251114;16,807295;AT;8101545
+2462;Mühling-Plaika;muhling-plaika;48,103172;15,1326475;AT;8101841
+1931;Sattendorf;sattendorf;46,66289;13,9162245;AT;8100036
+1851;Riedau;riedau;48,30405;13,626643;AT;8100407
+1920;Leogang;leogang;47,443428;12,74043;AT;8100051
+563;Großendorf;grossendorf;48,03867;14,055645;AT;8100570
+1904;Rekawinkel;rekawinkel;48,1798;16,03173;AT;8101432
+1886;Rosenau;rosenau;48,010227;14,741008;AT;8101449
+1885;Rohr-Bad Hall;rohr-bad-hall;48,070347;14,192801;AT;8100167
+2548;Kledering;kledering;48,13362;16,438879;AT;8101051
+903;Wien Krottenbachstraße;wien-krottenbachstrasse;48,240055;16,340815;AT;8100297
+306;Wulkaprodersdorf Haltestelle;wulkaprodersdorf-haltestelle;47,799217;16,496664;AT;8101810
+939;Kranebitten;kranebitten;47,26961;11,328741;AT;8100551
+962;Stans;stans;47,365383;11,7262;AT;8100310
+799;Hermagor;hermagor;46,62655;13,375847;AT;8100270
+843;Bad Vigaun;bad-vigaun;47,663944;13,124039;AT;8101718
+1570;Winden;winden;47,94709;16,759321;AT;8100357
+376;Altmünster am Traunsee;altmunster-am-traunsee;47,891304;13,758221;AT;8100152
+1093;Klamm-Schottwien;klamm-schottwien;47,665245;15,87426;AT;8101050
+2494;Wolfsberg;wolfsberg;46,842117;14,838498;AT;8100359
+1264;Loosdorf;loosdorf;48,19495;15,40458;AT;8101169
+1266;Wien Leopoldau;wien-leopoldau;48,27755;16,449385;AT;8101170
+41;Allentsteig;allentsteig;48,71598;15,32976;AT;8100210
+1377;Mödling;modling;48,085743;16,295794;AT;8101230
+325;Ebenfurth;ebenfurth;47,87768;16,362003;AT;8100225
+1831;Reith;reith;47,30082;11,200718;AT;8100112
+1783;Sölling;solling;48,039177;15,140127;AT;8101851
+1827;Neuratting;neuratting;48,227234;13,373633;AT;8101288
+1394;Mühldorf-Möllbrücke;muhldorf-mollbrucke;46,851467;13,366944;AT;8100087
+884;Hohenems;hohenems;47,364796;9,68115;AT;8100121
+1122;Schwarzsee;schwarzsee;47,453526;12,37032;AT;8101593
+1787;Achleitnersiedlung;achleitnersiedlung;48,321594;14,20555;AT;8101955
+403;Faak am See;faak-am-see;46,56437;13,912993;AT;8100084
+984;Kufstein;kufstein;47,583378;12,165597;AT;8100001
+1134;St.Georgen am Längsee;st.georgen-am-langsee;46,761826;14,422926;AT;8101505
+807;Wien Weidlingau;wien-weidlingau;48,2105;16,212397;AT;8101760
+784;Haus;haus;47,41701;13,800222;AT;8100136
+1565;Emmersdorf;emmersdorf;46,59532;13,572451;AT;8100745
+850;Haslau an der Donau;haslau-an-der-donau;48,10969;16,710072;AT;8100982
+263;Wien Zentralfriedhof;wien-zentralfriedhof;48,1543;16,425983;AT;8101820
+2366;Schlüßlberg;schlusslberg;48,223885;13,868289;AT;8100584
+201;Mitterberghütten;mitterberghutten;47,395344;13,222396;AT;8101219
+1371;Siebenhirten;siebenhirten;48,611446;16,53109;AT;8101523
+2179;Schwarzenau;schwarzenau;48,74613;15,26709;AT;8100199
+1262120;Bichlbach-Almkopfbahn;bichlbach-almkopfbahn;47,42766;10,776338;AT;8101972
+110;Muckendorf-Wipfing;muckendorf-wipfing;48,32835;16,149105;AT;8101247
+5231615;Vils Stadt;vils-stadt;47,54964;10,632075;AT;8102260
+2441;Weyer;weyer;47,86161;14,66694;AT;8100511
+727;Pama;pama;48,04182;17,041168;AT;8100543
+842;Hallein;hallein;47,685123;13,099575;AT;8100040
+1965;Schärding;scharding;48,463764;13,442475;AT;8100024
+1674;Prinzersdorf;prinzersdorf;48,202965;15,525604;AT;8101387
+492;Lilienfeld Krankenhaus;lilienfeld-krankenhaus;48,009007;15,578516;AT;8101605
+2330;Kematen in Tirol;kematen-in-tirol;47,261032;11,277272;AT;8101038
+1183;Leoben Hbf;leoben-hbf;47,386616;15,089688;AT;8100070
+734;Guntersdorf;guntersdorf;48,642204;16,054092;AT;8100894
+926;Wien Mitte;wien-mitte;48,205574;16,38435;AT;8100449
+2567;Zirl;zirl;47,26606;11,22942;AT;8100451
+1083;Pritschitz;pritschitz;46,628178;14,17009;AT;8101395
+741;Möllersdorf Aspangbahn;mollersdorf-aspangbahn;48,029472;16,312899;AT;8101229
+1176;Eschenau;eschenau;47,306583;13,007958;AT;8100770
+619;Mautbrücken;mautbrucken;46,72122;14,189235;AT;8101205
+2312;Lind-Rosegg;lind-rosegg;46,605988;14,000348;AT;8101157
+130;Baumgartenberg;baumgartenberg;48,208767;14,747274;AT;8100656
+1500;Katzelsdorf;katzelsdorf;47,792816;16,26722;AT;8100284
+1253979;St.Pölten Traisenpark;st.polten-traisenpark;48,22048;15,641237;AT;8101990
+2482;Wels Messe;wels-messe;48,15252;14,019554;AT;8101946
+92;Lehen-Altensam;lehen-altensam;48,035564;13,700835;AT;8101119
+1715;Plank am Kamp;plank-am-kamp;48,557888;15,673238;AT;8101363
+1660;Parndorf;parndorf;47,986893;16,871973;AT;8101335
+763;Stadt Haag;stadt-haag;48,115673;14,565934;AT;8101514
+1652;Aisthofen;aisthofen;48,257442;14,590189;AT;8100609
+1646;Ottensheim;ottensheim;48,33779;14,176936;AT;8100513
+4773103;Wien Hauptbahnhof (Bstg. 1-2);wien-hauptbahnhof-(bstg.-1-2);48,186176;16,375599;AT;8101590
+1833;Wildungsmauer;wildungsmauer;48,108;16,802067;AT;8101787
+777;Hainburg a.d.Donau Personenbf;hainburg-a.d.donau-personenbf;48,148914;16,939722;AT;8100266
+1020;Klosterneuburg-Kierling;klosterneuburg-kierling;48,309853;16,326252;AT;8100460
+1410;Wien Meidling;wien-meidling;48,1749;16,33619;AT;8100514
+2545;Maishofen-Saalbach;maishofen-saalbach;47,358635;12,810225;AT;8100050
+2467;Unter Höflein;unter-hoflein;47,790607;16,033295;AT;8101696
+722;Gutenstein;gutenstein;47,876854;15,910831;AT;8100571
+216;Wörgl Süd-Bruckhäusl;worgl-sud-bruckhausl;47,487286;12,107912;AT;8101571
+172;Bruck a.d.Leitha;bruck-a.d.leitha;48,019012;16,780931;AT;8100198
+822;Gedersdorf;gedersdorf;48,43265;15,691804;AT;8100828
+231;Braunau am Inn;braunau-am-inn;48,259068;13,048639;AT;8100365
+1867;Rosenbach;rosenbach;46,531303;14,035471;AT;8100083
+1720;Dürrwien;durrwien;48,178516;16,062012;AT;8100735
+455;Altenstadt;altenstadt;47,256332;9,615334;AT;8100635
+443;Feuerwerksanstalt;feuerwerksanstalt;47,848927;16,189287;AT;8100784
+2145;Wien Süßenbrunn;wien-sussenbrunn;48,285492;16,485176;AT;8101619
+112;Saxen;saxen;48,20525;14,790751;AT;8101469
+947;Irnfritz;irnfritz;48,7485;15,539619;AT;8100399
+379;Erlauf;erlauf;48,18398;15,182053;AT;8100764
+1142;Laßnitzhöhe;lassnitzhohe;47,078957;15,588417;AT;8100194
+468;Wiener Neustadt Nord;wiener-neustadt-nord;47,834633;16,238731;AT;8101791
+752;Gmunden;gmunden;47,925385;13,782994;AT;8100151
+1296;Leonding;leonding;48,274033;14,253869;AT;8101165
+1519;Neuhaus-Niederwaldkirchen;neuhaus-niederwaldkirchen;48,44192;14,051557;AT;8101282
+2082;St.Stefan im Lavanttal;st.stefan-im-lavanttal;46,80706;14,846169;AT;8100440
+1526;Nettingsdorf;nettingsdorf;48,189648;14,25849;AT;8101265
+912;Maria Anzbach;maria-anzbach;48,187977;15,93466;AT;8101197
+2143;Gaisruck;gaisruck;48,394024;16,065454;AT;8100823
+1014;Krieglach;krieglach;47,54731;15,560285;AT;8101080
+1402938;Kuchl Garnei;kuchl-garnei;47,651745;13,128244;AT;8102047
+2375;Wartberg a.d.Krems;wartberg-a.d.krems;47,98737;14,121781;AT;8101742
+1747;Oberalm;oberalm;47,700737;13,093097;AT;8102006
+79;Ardning;ardning;47,59062;14,358919;AT;8100623
+1970;Schladming;schladming;47,39372;13,677926;AT;8100137
+415;Dechantskirchen;dechantskirchen;47,41871;16,022156;AT;8100722
+1449;Gemeinlebarn;gemeinlebarn;48,336205;15,804182;AT;8100831
+679;Göllersdorf;gollersdorf;48,492588;16,126482;AT;8100827
+1966;Spielfeld-Straß;spielfeld-strass;46,709545;15,629014;AT;8100082
+1407;Mattighofen;mattighofen;48,1082;13,152582;AT;8100409
+2152;Ennsdorf;ennsdorf;48,216045;14,496999;AT;8100759
+674;Götzis;gotzis;47,33661;9,636647;AT;8100120
+899;Hinterstoder;hinterstoder;47,7746;14,179073;AT;8100172
+1785;Puchenau West;puchenau-west;48,312534;14,221841;AT;8101409
+1402942;Salzburg Taxham Europark;salzburg-taxham-europark;47,816143;13,010694;AT;8102045
+685;Klagenfurt Ebenthal;klagenfurt-ebenthal;46,61663;14,333878;AT;8101091
+863;Unter Radlberg;unter-radlberg;48,25538;15,686993;AT;8101706
+1768;Sautern-Schiltern;sautern-schiltern;47,707264;16,155579;AT;8101611
+517;Fritzens-Wattens;fritzens-wattens;47,30215;11,588867;AT;8100104
+1945177;Mistelbach Stadt;mistelbach-stadt;48,5702;16,568813;AT;8102007
+15;Angern;angern;48,38434;16,825861;AT;8100619
+1704;Pichl;pichl;47,388737;13,617113;AT;8101356
+454;Feldkirch-Amberg;feldkirch-amberg;47,255695;9,621677;AT;8100791
+115;Wien Atzgersdorf;wien-atzgersdorf;48,147095;16,288603;AT;8100634
+852;Hainfeld;hainfeld;48,039757;15,767883;AT;8100957
+1111;Klaus;klaus;47,833008;14,155108;AT;8100171
+1564;Nötsch;notsch;46,58866;13,625749;AT;8101284
+844;Kuchl;kuchl;47,624935;13,142107;AT;8100546
+5012210;Wiederndorf-Aich;wiederndorf-aich;46,62305;14,796488;AT;8100611
+5012219;Kühnsdorf Klopeiner See;kuhnsdorf-klopeiner-see;46,624847;14,620844;AT;8100336
+1289;Lauterach Unterfeld;lauterach-unterfeld;47,48077;9,714734;AT;8105481
+1792;Bad Pirawarth;bad-pirawarth;48,44852;16,605745;AT;8101360
+1605;Obersdorf;obersdorf;48,362427;16,51813;AT;8101304
+705;Groß Schweinbarth;gross-schweinbarth;48,41807;16,640375;AT;8100884

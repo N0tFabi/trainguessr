@@ -1,0 +1,1711 @@
+id;name;uic;lat;lon;country
+6994;Salzburg;salzburg;47.7981346;13.0464806;AT
+10461;Innsbruck;innsbruck;47.2854337;11.3087505;AT
+10464;Innsbruck Hbf;innsbruck-hbf;47.2632770000;11.4010000000;AT
+10485;Wörgl;worgl;47.4918000000;12.0605840000;AT
+10486;Kufstein;kufstein;47.5830770000;12.1655510000;AT
+10487;Jenbach;jenbach;47.3884510000;11.7784570000;AT
+10523;Villach Hbf;villach-hbf;46.6186240000;13.8485380000;AT
+10524;Villach Westbahnhof;villach-westbahnhof;46.608095;13.840144;AT
+17458;Salzburg Hbf;salzburg-hbf;47.813046443088425;13.045819401741028;AT
+17491;Feldkirch;feldkirch;47.2414060000;9.6037600000;AT
+17497;Graz Hbf;graz-hbf;47.0678420000;15.4156640000;AT
+17498;Judenburg;judenburg;47.1737260000;14.6657480000;AT
+17499;Klagenfurt Hbf;klagenfurt-hbf;46.6158020000;14.3123910000;AT
+17500;Linz/Donau Hbf;linz-donau-hbf;48.291526;14.291122;AT
+17501;Steyr;steyr;48.0394050000;14.4249450000;AT
+17502;Wels Hbf;wels-hbf;48.1658740000;14.0265610000;AT
+17540;Amstetten NÖ;amstetten-no;48.1219080000;14.8774440000;AT
+17541;Bad Ischl;bad-ischl;47.7119550000;13.6270980000;AT
+17542;Bad Gastein;bad-gastein;47.1197730000;13.1455640000;AT
+17544;Bregenz;bregenz;47.5030010000;9.7396230000;AT
+17545;Dornbirn;dornbirn;47.4176930000;9.7388050000;AT
+17547;Gmunden;gmunden;47.9250350000;13.7825390000;AT
+17548;Hopfgarten im Brixental;hopfgarten-im-brixental;47.4553490000;12.1491810000;AT
+17549;Kitzbühel;kitzbuhel;47.4537760000;12.3913780000;AT
+17555;Leoben Hbf;leoben-hbf;47.3866000000;15.0896070000;AT
+17556;Liezen;liezen;47.5626620000;14.2417980000;AT
+17557;Linz;linz;48.2902490000;14.2915180000;AT
+17558;Lustenau;lustenau;47.4503330000;9.6671160000;AT
+17559;Saalfelden;saalfelden;47.4268440000;12.8294220000;AT
+17560;St. Pölten Hbf;st-polten-hbf;48.2076830000;15.6259120000;AT
+17561;Wien Westbahnhof;wien-westbahnhof;48.1975970000;16.3370670000;AT
+17582;St. Valentin;st-valentin;48.1791430000;14.5218480000;AT
+17599;Melk;melk;48.2240890000;15.3313000000;AT
+17600;Lambach;lambach;48.0940870000;13.8883420000;AT
+17601;Attnang-Puchheim;attnang-puchheim;48.0127970000;13.7207210000;AT
+17602;Steindorf bei Straßwalchen;steindorf-bei-strasswalchen;47.9667270000;13.2390250000;AT
+17603;Grieskirchen-Gallspach;grieskirchen-gallspach;48.2310460000;13.8389110000;AT
+17604;Neumarkt-Kallham;neumarkt-kallham;48.2715430000;13.7250440000;AT
+17605;Schärding;scharding;48.4632380000;13.4427200000;AT
+17606;Bruck/Mur;bruck-mur;47.4138280000;15.2794320000;AT
+17607;Hallein;hallein;47.6851670000;13.0994310000;AT
+17608;Golling-Abtenau;golling-abtenau;47.6005790000;13.1640820000;AT
+17609;St. Johann im Pongau;st-johann-im-pongau;47.3481080000;13.1948430000;AT
+17610;Schwarzach-St. Veit;schwarzach-st-veit;47.3185330000;13.1544630000;AT
+17611;Taxenbach-Rauris;taxenbach-rauris;47.2927520000;12.9471630000;AT
+17612;Bruck-Fusch;bruck-fusch;47.2846170000;12.8288110000;AT
+17613;Zell am See;zell-am-see;47.3205200000;12.7965670000;AT
+17614;Maishofen-Saalbach;maishofen-saalbach;47.3588410000;12.8103650000;AT
+17615;Leogang;leogang;47.4432770000;12.7416870000;AT
+17616;Hochfilzen;hochfilzen;47.4677090000;12.6265270000;AT
+17617;Fieberbrunn;fieberbrunn;47.4911350000;12.5289400000;AT
+17618;St. Johann in Tirol;st-johann-in-tirol;47.5196220000;12.4307780000;AT
+17619;Kirchberg in Tirol;kirchberg-in-tirol;47.4489220000;12.3091000000;AT
+17620;Westendorf in Tirol;westendorf-in-tirol;47.4411100000;12.2229020000;AT
+17621;Telfs-Pfaffenhofen;telfs-pfaffenhofen;47.3007080000;11.0788720000;AT
+17622;Ötztal;otztal;47.2384840000;10.8591130000;AT
+17623;Imst-Pitztal;imst-pitztal;47.2190770000;10.7616690000;AT
+17624;St. Anton am Arlberg;st-anton-am-arlberg;47.1275660000;10.2669930000;AT
+17625;Langen am Arlberg;langen-am-arlberg;47.1317190000;10.1203700000;AT
+17626;Bludenz;bludenz;47.1547230000;9.8145660000;AT
+17627;St. Michael in Obersteiermark;st-michael-in-obersteiermark;47.3466250000;15.0091890000;AT
+17628;St. Veit/Glan;st-veit-glan;46.7705870000;14.3671890000;AT
+17629;Krumpendorf/Wörthersee;krumpendorf-worthersee;46.6263370000;14.2215100000;AT
+17630;Pörtschach am Wörther See;portschach-am-worther-see;46.6361980000;14.1462340000;AT
+17631;Velden am Wörther See;velden-am-worther-see;46.6200530000;14.0448360000;AT
+17632;Faak am See;faak-am-see;46.5643740000;13.9130090000;AT
+17633;Scharnitz;scharnitz;47.3922630000;11.2669260000;AT
+17634;Ehrwald Zugspitzbahn;ehrwald-zugspitzbahn;47.4100790000;10.9140010000;AT
+17635;Mallnitz-Obervellach;mallnitz-obervellach;46.9816710000;13.1764240000;AT
+17636;Bad Hofgastein;bad-hofgastein;47.1957140000;13.1009410000;AT
+17637;Dorfgastein;dorfgastein;47.2386730000;13.1030630000;AT
+17638;Kundl;kundl;47.4759790000;11.9820630000;AT
+17639;Brixlegg;brixlegg;47.4347730000;11.8800170000;AT
+17640;Schwaz;schwaz;47.3501030000;11.7017970000;AT
+17641;Fritzens-Wattens;fritzens-wattens;47.3021640000;11.5888120000;AT
+17642;Hall in Tirol;hall-in-tirol;47.2770750000;11.5013560000;AT
+17643;Matrei am Brenner;matrei-am-brenner;47.1271260000;11.4528230000;AT
+17644;Steinach in Tirol;steinach-in-tirol;47.0892180000;11.4698310000;AT
+17645;Innsbruck Westbahnhof;innsbruck-westbahnhof;47.2555910000;11.3918670000;AT
+17646;Reith bei Seefeld;reith-bei-seefeld;47.3008510000;11.2006490000;AT
+17647;Seefeld in Tirol;seefeld-in-tirol;47.3287270000;11.1894840000;AT
+17648;Bichlbach-Berwang;bichlbach-berwang;47.4227360000;10.7945160000;AT
+17649;Vils in Tirol;vils-in-tirol;47.5489000000;10.6373310000;AT
+17650;Schruns;schruns;47.0795010000;9.9176000000;AT
+17651;Tschagguns;tschagguns;47.0791510000;9.9049080000;AT
+17652;Rankweil;rankweil;47.2733620000;9.6371640000;AT
+17653;Götzis;gotzis;47.3366110000;9.6366960000;AT
+17654;Hohenems;hohenems;47.3647110000;9.6810040000;AT
+17655;Gröbming;grobming;47.4269520000;13.9013590000;AT
+17656;Radstadt;radstadt;47.3844240000;13.4683930000;AT
+17657;Altenmarkt im Pongau;altenmarkt-im-pongau;47.3824740000;13.4284180000;AT
+17658;Eben im Pongau;eben-im-pongau;47.4070320000;13.3964350000;AT
+17659;Lienz in Osttirol;lienz-in-osttirol;46.8292860000;12.7711810000;AT
+17660;Sillian;sillian;46.7442390000;12.4296000000;AT
+17661;Oberdrauburg;oberdrauburg;46.7468370000;12.9736810000;AT
+17662;Greifenburg-Weißensee;greifenburg-weissensee;46.7428550000;13.1928560000;AT
+17663;Bad Goisern;bad-goisern;47.6400770000;13.6126340000;AT
+17664;Obertraun-Dachsteinhöhlen;obertraun-dachsteinhohlen;47.5577270000;13.6833080000;AT
+17665;Bad Aussee;bad-aussee;47.5990690000;13.7768310000;AT
+17666;Bad Mitterndorf;bad-mitterndorf;47.5503740000;13.9452260000;AT
+17667;Tauplitz;tauplitz;47.5516950000;14.0099940000;AT
+17668;Kirchdorf/Krems;kirchdorf-krems;47.9064820000;14.1162730000;AT
+17669;Hinterstoder;hinterstoder;47.7747000000;14.1790360000;AT
+17670;Bruck/Leitha;bruck-leitha;48.0190720000;16.7800820000;AT
+17671;Fügen-Hart im Zillertal;fugen-hart-im-zillertal;47.3447460000;11.8531670000;AT
+17672;Hermagor;hermagor;46.6260850000;13.3806860000;AT
+17673;Kaltenbach-Stumm im Zillertal;kaltenbach-stumm-im-zillertal;47.2923390000;11.8759630000;AT
+17674;Kirchbichl;kirchbichl;47.5195230000;12.0938890000;AT
+17675;Kötschach-Mauthen;kotschach-mauthen;46.6702040000;13.0085950000;AT
+17676;Krems an der Donau;krems-an-der-donau;48.4088260000;15.6040240000;AT
+17677;Langkampfen;langkampfen;47.5448730000;12.1081370000;AT
+17678;Stans bei Schwaz;stans-bei-schwaz;47.3660590000;11.7229850000;AT
+17679;Terfens-Weer;terfens-weer;47.3159170000;11.6343870000;AT
+17680;Uderns im Zillertal;uderns-im-zillertal;47.3263360000;11.8652390000;AT
+17681;Volders-Baumkirchen;volders-baumkirchen;47.2963660000;11.5644960000;AT
+17682;Wien Bahnhof Meidling (Eichenstraße);wien-bahnhof-meidling-eichenstrasse;48.1741450000;16.3313950000;AT
+17683;Bad Kreckelmoos;bad-kreckelmoos;47.4715120000;10.7378300000;AT
+17684;Braunau/Inn;braunau-inn;48.2591200000;13.0479860000;AT
+17685;Brixen im Thale;brixen-im-thale;47.4492270000;12.2605490000;AT
+17686;Graz Ostbahnhof-Messe;graz-ostbahnhof-messe;47.0533960000;15.4482950000;AT
+17687;Vandans;vandans;47.0987200000;9.8688340000;AT
+17688;Ramsau im Zillertal-Hippach;ramsau-im-zillertal-hippach;47.2051610000;11.8699140000;AT
+17689;Ried im Innkreis;ried-im-innkreis;48.2004470000;13.4882060000;AT
+17690;Seekirchen am Wallersee;seekirchen-am-wallersee;47.9038930000;13.1384170000;AT
+17691;Rattenberg-Kramsach;rattenberg-kramsach;47.4392220000;11.8960360000;AT
+17692;Rum (Innsbruck);rum-innsbruck;47.2780280000;11.4561670000;AT
+17693;Schaftenau;schaftenau;47.5592100000;12.1259170000;AT
+17694;Schlitters-Bruck am Ziller;schlitters-bruck-am-ziller;47.3778260000;11.8435930000;AT
+17695;Münster-Wiesing;munster-wiesing;47.4033200000;11.8194840000;AT
+17696;Vöcklabruck;vocklabruck;48.0100640000;13.6637020000;AT
+17697;Vöcklamarkt;vocklamarkt;47.9980370000;13.4895450000;AT
+17698;Windischgarsten;windischgarsten;47.7153260000;14.3269260000;AT
+17699;Pill-Vomperbach;pill-vomperbach;47.3241960000;11.6773560000;AT
+17700;Werfen;werfen;47.4725990000;13.1951840000;AT
+17701;Mayrhofen im Zillertal;mayrhofen-im-zillertal;47.1695280000;11.8623900000;AT
+17702;Wernstein;wernstein;48.5042010000;13.4555480000;AT
+17703;Zell am Ziller;zell-am-ziller;47.2313830000;11.8813660000;AT
+17704;Lermoos;lermoos;47.4067710000;10.8793740000;AT
+17705;Lähn;lahn;47.4208480000;10.8340420000;AT
+17706;Musau;musau;47.5326200000;10.6749330000;AT
+17707;Pflach;pflach;47.5137610000;10.7189260000;AT
+17708;Schönbichl in Tirol;schonbichl-in-tirol;47.5589320000;10.5966010000;AT
+17709;Ulrichsbrücke-Füssen;ulrichsbrucke-fussen;47.5460590000;10.6637410000;AT
+17710;Graz Köflacher Bahnhof;graz-koflacher-bahnhof;47.0678960000;15.4134790000;AT
+17711;Graz Webling;graz-webling;47.0324070000;15.4058560000;AT
+17712;Graz Wetzelsdorf;graz-wetzelsdorf;47.0506190000;15.4016670000;AT
+17713;Wien Schedifkaplatz (Lokalbahn);wien-schedifkaplatz-lokalbahn;48.1711960000;16.3317270000;AT
+17714;Reutte in Tirol Schulzentrum;reutte-in-tirol-schulzentrum;47.4900560000;10.7326970000;AT
+17715;Wien Dörfelstraße (Meidling Bahnhof);wien-dorfelstrasse-meidling-bahnhof;48.1752500000;16.3358270000;AT
+17716;Bichlbach Almkopfbahn;bichlbach-almkopfbahn;47.4281750000;10.7814820000;AT
+17717;Laimach Regionalmuseum;laimach-regionalmuseum;47.2216740000;11.8726010000;AT
+17718;Salzburg Taxham Europark;salzburg-taxham-europark;47.8163110000;13.0103840000;AT
+17719;Salzburg Aiglhof;salzburg-aiglhof;47.8078160000;13.0267440000;AT
+17720;Salzburg Mülln-Altstadt;salzburg-mulln-altstadt;47.8084000000;13.0341610000;AT
+17721;Salzburg Sam;salzburg-sam;47.8198080000;13.0628900000;AT
+17722;Wien Hütteldorf (U4);wien-hutteldorf-u4;48.1970220000;16.2609550000;AT
+17723;Wien Bahnhof Meidling (U6);wien-bahnhof-meidling-u6;48.1740190000;16.3302710000;AT
+17724;Landeck-Zams Bahnhof (Bussteige A-E);landeck-zams-bahnhof-bussteige-a-e;47.1486190000;10.5781640000;AT
+17725;Bischofshofen;bischofshofen;47.4173610000;13.2200840000;AT
+17726;Landeck-Zams;landeck-zams;47.1482420000;10.5783880000;AT
+17727;Spittal-Millstättersee;spittal-millstattersee;46.7957030000;13.4874150000;AT
+17728;Reutte in Tirol;reutte-in-tirol;47.4929870000;10.7215060000;AT
+17729;Stainach-Irdning;stainach-irdning;47.5291950000;14.1067530000;AT
+17730;Schladming;schladming;47.3938270000;13.6781480000;AT
+17731;Selzthal;selzthal;47.5503560000;14.3127680000;AT
+17732;Rohr-Bad Hall;rohr-bad-hall;48.0696270000;14.1908030000;AT
+17733;Wien Hütteldorf;wien-hutteldorf;48.1976510000;16.2605510000;AT
+17734;Wien Meidling;wien-meidling;48.1749990000;16.3361230000;AT
+17735;Heiterwang-Plansee;heiterwang-plansee;47.4425030000;10.7484550000;AT
+22609;Wien Westbahnhof (U6);wien-westbahnhof-u6;48.196806;16.339197;AT
+22644;Wien Hbf;wien-hbf;48.184923;16.375864;AT
+22697;Kufstein;kufstein;;;AT
+22705;Bregenz;bregenz;;;AT
+22917;Salzburg Hbf;salzburg-hbf;;;AT
+22992;Feldkirch;feldkirch;;;AT
+22996;Wien Westbf (Neubaug);wien-westbf-neubaug;;;AT
+22997;Wien Hbf (tief STR);wien-hbf-tief-str;;;AT
+23002;Wien Handelskai (1-2);wien-handelskai-1-2;;;AT
+23003;Wien Handelskai (U6);wien-handelskai-u6;;;AT
+23013;Wien Matzleinsdorfer Platz;wien-matzleinsdorfer-platz;48.179985;16.357146;AT
+23014;Wien Matzleinsdorfer Platz T;wien-matzleinsdorfer-platz-t;;;AT
+23019;Flughafen Wien;flughafen-wien;48.120833;16.563056;AT
+23420;Absdorf-Hippersdorf;absdorf-hippersdorf;;;AT
+23421;Admont;admont;;;AT
+23422;Altomünster-Traunsee;altomunster-traunsee;;;AT
+23423;Angertal;angertal;;;AT
+23424;Ardning;ardning;;;AT
+23425;Arnoldstein;arnoldstein;;;AT
+23426;Aschbach;aschbach;;;AT
+23427;Aspang;aspang;;;AT
+23428;Aurachkirchen;aurachkirchen;;;AT
+23429;Ausschlag-Zöbern;ausschlag-zobern;;;AT
+23430;Bad Blumau;bad-blumau;;;AT
+23431;Bad Gleichenberg;bad-gleichenberg;;;AT
+23432;Bad Hall;bad-hall;;;AT
+23433;Bad Neusiedl-See;bad-neusiedl-see;;;AT
+23434;Bad Radkersburg;bad-radkersburg;;;AT
+23435;Bad Vöslau;bad-voslau;;;AT
+23436;Bad Waltersdorf;bad-waltersdorf;;;AT
+23437;Baden bei Wien;baden-bei-wien;;;AT
+23438;Bierbaum;bierbaum;;;AT
+23439;Böckstein;bockstein;;;AT
+23440;Breitenschützing;breitenschutzing;;;AT
+23441;Breitenstein;breitenstein;;;AT
+23442;Dellach im Drautal;dellach-im-drautal;;;AT
+23443;Ebensee;ebensee;;;AT
+23444;Ebensee Landungsplatz;ebensee-landungsplatz;;;AT
+23445;Edlitz-Grimmenstein;edlitz-grimmenstein;;;AT
+23446;Eggenburg;eggenburg;;;AT
+23447;Enns;enns;;;AT
+23448;Erlach;erlach;;;AT
+23449;Fehring;fehring;;;AT
+23450;Feldbach;feldbach;;;AT
+23451;Feldkirchen in Kärnten;feldkirchen-in-karnten;;;AT
+23452;Felixdorf;felixdorf;;;AT
+23453;Föderlach;foderlach;;;AT
+23454;Frankenmarkt;frankenmarkt;;;AT
+23455;Frastanz;frastanz;;;AT
+23456;Fraünberg an der Enns;fraunberg-an-der-enns;;;AT
+23457;Freistadt;freistadt;;;AT
+23458;Friedberg;friedberg;;;AT
+23459;Friesach;friesach;46.953699;14.410285;AT
+23460;Frohnleiten;frohnleiten;;;AT
+23461;Fürstenfeld;furstenfeld;;;AT
+23462;Gänserndorf;ganserndorf;;;AT
+23463;Gaflenz;gaflenz;;;AT
+23464;Gleisdorf;gleisdorf;;;AT
+23465;Gloggnitz;gloggnitz;47.677694;15.945906;AT
+23466;Gnas;gnas;;;AT
+23467;Göpfritz;gopfritz;;;AT
+23468;Goisern Jodschwefelbad;goisern-jodschwefelbad;;;AT
+23469;Grafendorf bei Hartberg;grafendorf-bei-hartberg;;;AT
+23470;Gratwein-Gratkorn;gratwein-gratkorn;;;AT
+23471;Gstatterboden;gstatterboden;;;AT
+23472;Gummern;gummern;;;AT
+23473;Gunskirchen;gunskirchen;;;AT
+23474;Hallwang-Elixhausen;hallwang-elixhausen;;;AT
+23475;Hartberg;hartberg;;;AT
+23476;Haus;haus;;;AT
+23477;Hieflau;hieflau;;;AT
+23478;Hilm-Kematen;hilm-kematen;;;AT
+23479;Hochzirl;hochzirl;;;AT
+23480;Hörsching;horsching;;;AT
+23481;Hohenau;hohenau;;;AT
+23482;Hüttau;huttau;;;AT
+23483;Innsbruck-Hötting;innsbruck-hotting;47.261335;11.37379;AT
+23484;Jennersdorf;jennersdorf;;;AT
+23485;Judendf-Strassengel;judendf-strassengel;;;AT
+23486;Kainisch;kainisch;;;AT
+23487;Kalwang;kalwang;;;AT
+23488;Kapfenberg;kapfenberg;;;AT
+23489;Kindberg;kindberg;;;AT
+23490;Klamm-Schottwien;klamm-schottwien;;;AT
+23491;Klaus;klaus;;;AT
+23492;Kleblach-Lind;kleblach-lind;;;AT
+23493;Kleinreifling;kleinreifling;;;AT
+23494;Knittelfeld;knittelfeld;;;AT
+23495;Kolbnitz;kolbnitz;;;AT
+23496;Kremsmünster Markt;kremsmunster-markt;;;AT
+23497;Krieglach;krieglach;;;AT
+23498;Krummnuszbaum;krummnuszbaum;;;AT
+23499;Langwies;langwies;;;AT
+23500;Lassnitzhöhe;lassnitzhohe;;;AT
+23501;Leibnitz;leibnitz;;;AT
+23502;Lend;lend;;;AT
+23503;Leobersdorf;leobersdorf;;;AT
+23504;Liesing;liesing;48.134585;16.284232;AT
+23506;Linz Wegscheid;linz-wegscheid;48.247829;14.275238;AT
+23507;Lochau-Hörbranz;lochau-horbranz;;;AT
+23508;Ludesch;ludesch;;;AT
+23509;Mandling;mandling;;;AT
+23510;Marchtrenk;marchtrenk;;;AT
+23511;Mariazell;mariazell;;;AT
+23512;Mautern;mautern;;;AT
+23513;Messendorf;messendorf;;;AT
+23514;Micheldorf;micheldorf;;;AT
+23515;Mitterdorf-Veitsch;mitterdorf-veitsch;;;AT
+23516;Mitterweiszenbach;mitterweiszenbach;;;AT
+23517;Mödling;modling;;;AT
+23518;Möllbrücke-Sachsbg;mollbrucke-sachsbg;;;AT
+23519;Mühldorf-Möllbrücke;muhldorf-mollbrucke;;;AT
+23520;Mürzzuschlag;murzzuschlag;47.607611;15.677128;AT
+23521;Nenzing;nenzing;;;AT
+23522;Nettingsdorf;nettingsdorf;;;AT
+23523;Neumarkt am Wallersee;neumarkt-am-wallersee;47.954675;13.224806;AT
+23524;Öblarn;oblarn;;;AT
+23525;Ossiach-Bodensdorf;ossiach-bodensdorf;;;AT
+23526;Paternion-Feistritz;paternion-feistritz;;;AT
+23527;Payerbach-Reichenau;payerbach-reichenau;;;AT
+23528;Peggau-Deutschfeistr;peggau-deutschfeistr;;;AT
+23529;Pernegg;pernegg;;;AT
+23530;Pinggau-Friedberg;pinggau-friedberg;;;AT
+23531;Pitten;pitten;;;AT
+23532;Pöchlarn;pochlarn;;;AT
+23533;Pöham;poham;;;AT
+23534;Pregarten;pregarten;;;AT
+23535;Pusarnitz;pusarnitz;;;AT
+23536;Redl-Zipf;redl-zipf;;;AT
+23537;Rohrbach-Vorau;rohrbach-vorau;;;AT
+23538;Roppen;roppen;;;AT
+23539;Rosenau;rosenau;;;AT
+23540;Rosenbach;rosenbach;;;AT
+23541;Rothenthurn;rothenthurn;;;AT
+23542;Salzburg Aigen;salzburg-aigen;47.788858;13.079403;AT
+23543;Sattendorf;sattendorf;;;AT
+23544;Scheiblingkirchen-Warth;scheiblingkirchen-warth;;;AT
+23545;Schlierbach;schlierbach;;;AT
+23546;Schönwies;schonwies;;;AT
+23547;Schwanenstadt;schwanenstadt;;;AT
+23548;Schwarzenau;schwarzenau;;;AT
+23549;Sebersdorf;sebersdorf;;;AT
+23550;Seebenstein;seebenstein;;;AT
+23551;Semmering;semmering;;;AT
+23552;Sigmundsherberg;sigmundsherberg;;;AT
+23553;Silz;silz;;;AT
+23554;Söchau;sochau;;;AT
+23555;Spielfeld-Strasz;spielfeld-strasz;;;AT
+23556;Spital am Pyhrn;spital-am-pyhrn;47.674335;14.352572;AT
+23557;Spital am Semmering;spital-am-semmering;47.616283;15.756022;AT
+23558;St. Anton im Montafon;st-anton-im-montafon;;;AT
+23559;Stadt Rottenmann;stadt-rottenmann;;;AT
+23560;Stams;stams;;;AT
+23561;Steeg-Gosau;steeg-gosau;;;AT
+23562;Stein an der Enns;stein-an-der-enns;;;AT
+23563;Steindorf am Ossiachersee;steindorf-am-ossiachersee;;;AT
+23564;Steinfeld im Drautal;steinfeld-im-drautal;;;AT
+23565;Steinhaus;steinhaus;;;AT
+23566;Steyrling;steyrling;;;AT
+23567;Strasswalchen;strasswalchen;47.971943;13.264503;AT
+23568;Studenzen-Fladnitz;studenzen-fladnitz;;;AT
+23569;Summerau;summerau;;;AT
+23570;Tauchen-Schaüregg;tauchen-schauregg;;;AT
+23571;Ternitz;ternitz;;;AT
+23572;Timelkam;timelkam;;;AT
+23573;Traun;traun;;;AT
+23574;Traunkirchen;traunkirchen;;;AT
+23575;Treibach-Althofen;treibach-althofen;;;AT
+23576;Trieben;trieben;;;AT
+23577;Tulln;tulln;48.3314949;16.060737;AT
+23578;Ulmerfeld-Hausmening;ulmerfeld-hausmening;;;AT
+23579;Unzmarkt;unzmarkt;47.200795;14.442307;AT
+23580;Völs;vols;;;AT
+23581;Waidhofen an der Ybbs;waidhofen-an-der-ybbs;;;AT
+23582;Wald am Schoberpasz;wald-am-schoberpasz;;;AT
+23583;Wartberg an der Krems;wartberg-an-der-krems;;;AT
+23584;Wartberg im Mürztal;wartberg-im-murztal;;;AT
+23585;Weissenbach / St. Gallen;weissenbach-st-gallen;;;AT
+23586;Weissenstein-Kellerberg;weissenstein-kellerberg;;;AT
+23587;Weyer;weyer;;;AT
+23588;Wien Mitte;wien-mitte;48.206386;16.384833;AT
+23589;Wien Nord;wien-nord;48.218264;16.393546;AT
+23590;Wien Südbahnhof;wien-sudbahnhof;48.187494;16.382382;AT
+23591;Wiener Neustadt Hbf;wiener-neustadt-hbf;47.811636;16.234312;AT
+23592;Wörschach Schwefelb;worschach-schwefelb;;;AT
+23593;Ybbs an der Donau;ybbs-an-der-donau;;;AT
+23594;Zeltweg;zeltweg;;;AT
+23595;Zirl;zirl;;;AT
+23606;Wien Westbahnhof (Schleife Süd);wien-westbahnhof-schleife-sud;48.196496;16.339237;AT
+23609;Wien Rennweg;wien-rennweg;48.19581;16.385991;AT
+26818;Tullnerfeld;tullnerfeld;48.295057;15.996691;AT
+26862;Wien;wien;48.2082;16.3738;AT
+29008;Graz;graz;47.058946;15.428624;AT
+29030;Villach;villach;46.60856;13.85062;AT
+29145;Bad Schallerbach-Wallern;bad-schallerbach-wallern;48.228763;13.922241;AT
+29146;Gmünd NÖ;gmund-no;48.764232;14.98517;AT
+29147;Raaba;raaba;47.030159;15.49583;AT
+29148;Allentsteig;allentsteig;48.715933;15.329826;AT
+29149;Andorf;andorf;48.369849;13.565792;AT
+29150;Annenheim;annenheim;46.658599;13.901215;AT
+29151;Baumgarten;baumgarten;47.727893;16.517849;AT
+29152;Bürmoos;burmoos;47.981838;12.925121;AT
+29153;Draßburg;drassburg;47.747768;16.495079;AT
+29154;Drösing;drosing;48.539907;16.895693;AT
+29155;Ebenfurth;ebenfurth;47.877644;16.36194;AT
+29156;Eisenstadt;eisenstadt;47.839278;16.529409;AT
+29157;Wien Floridsdorf;wien-floridsdorf;48.256387;16.400018;AT
+29158;Frauenkirchen;frauenkirchen;47.840528;16.916188;AT
+29159;Gars-Thunau;gars-thunau;48.597357;15.655181;AT
+29160;Wien Gersthof;wien-gersthof;48.230857;16.329076;AT
+29161;Gols;gols;47.89173;16.905086;AT
+29162;Gries am Brenner;gries-am-brenner;47.041279;11.485265;AT
+29163;Grünau im Almtal;grunau-im-almtal;47.853679;13.951627;AT
+29164;Hard-Fussach;hard-fussach;47.479854;9.688133;AT
+29165;Wien Heiligenstadt;wien-heiligenstadt;48.249052;16.365698;AT
+29166;Wien Hernals;wien-hernals;48.223253;16.314846;AT
+29167;Hötzelsdorf-Geras;hotzelsdorf-geras;48.74247;15.670256;AT
+29168;Hollabrunn;hollabrunn;48.562793;16.072281;AT
+29169;Horn NÖ;horn-no;48.665836;15.673519;AT
+29170;Korneuburg;korneuburg;48.342935;16.328932;AT
+29171;Wien Krottenbachstraße;wien-krottenbachstrasse;48.240053;16.340618;AT
+29172;Lamprechtshausen;lamprechtshausen;47.990144;12.949752;AT
+29173;Strass im Zillertal;strass-im-zillertal;47.395292;11.818333;AT
+29174;Taufkirchen an der Pram;taufkirchen-an-der-pram;48.406857;13.522571;AT
+29175;Vitis;vitis;48.753158;15.17362;AT
+29176;Völkermarkt-Kühnsdorf;volkermarkt-kuhnsdorf;46.622085;14.629935;AT
+29177;Wallern im Burgenland;wallern-im-burgenland;47.733448;16.930436;AT
+29178;Weiden am See;weiden-am-see;47.925728;16.863817;AT
+29179;Wulkaprodersdorf;wulkaprodersdorf;47.789253;16.490549;AT
+29180;Wien Matzleinsdorf (Autoreisezuganlage);wien-matzleinsdorf-autoreisezuganlage;48.180221;16.358614;AT
+29181;Trimmelkam;trimmelkam;48.027378;12.86048;AT
+29182;Villach Warmbad;villach-warmbad;46.588834;13.828672;AT
+29183;Aschau im Zillertal;aschau-im-zillertal;47.26351;11.897124;AT
+29184;Wien Breitensee;wien-breitensee;48.197543;16.306737;AT
+29185;Irnfritz;irnfritz;48.748411;15.539769;AT
+29186;Ried im Zillertal;ried-im-zillertal;47.302937;11.873186;AT
+29187;Riedau;riedau;48.30447;13.62672;AT
+29188;Salzburg Hbf Bahnsteige (11-12);salzburg-hbf-bahnsteige-11-12;47.812859;13.04457;AT
+29189;Müllendorf;mullendorf;47.833903;16.460057;AT
+29190;St Andrä am Zicksee;st-andra-am-zicksee;47.782799;16.927991;AT
+29191;Neusiedl am See;neusiedl-am-see;47.955644;16.823464;AT
+29192;Wien Oberdöbling;wien-oberdobling;48.244099;16.344061;AT
+29193;Obernberg-Altheim;obernberg-altheim;48.270104;13.259781;AT
+29194;Wien Franz-Josefs-Bahnhof;wien-franz-josefs-bahnhof;48.226165;16.361266;AT
+29195;Pamhagen;pamhagen;47.704099;16.903432;AT
+29196;Wien Penzing;wien-penzing;48.192707;16.304436;AT
+29197;Bergheim bei Salzburg;bergheim-bei-salzburg;47.83935;13.020964;AT
+29198;Bernhardsthal;bernhardsthal;48.688004;16.879009;AT
+29199;Marchegg;marchegg;48.249249;16.918705;AT
+29200;Retz;retz;48.753526;15.957039;AT
+29201;Bregenz Riedenburg;bregenz-riedenburg;47.492906;9.721312;AT
+29203;Mönchhof-Halbturn;monchhof-halbturn;47.874732;16.946868;AT
+29204;Nickelsdorf;nickelsdorf;47.942816;17.086246;AT
+29205;Oberndorf bei Salzburg Bahnhof;oberndorf-bei-salzburg-bahnhof;47.9418;12.944089;AT
+29206;Wien Ottakring;wien-ottakring;48.211809;16.311187;AT
+29207;Parndorf Ort;parndorf-ort;47.992077;16.851394;AT
+29208;Pürbach-Schrems;purbach-schrems;48.763711;15.08398;AT
+29209;Jenbach Zillertalbahn;jenbach-zillertalbahn;47.388361;11.778556;AT
+29210;Kuchl;kuchl;47.625821;13.141528;AT
+29211;Allerheiligenhöfe;allerheiligenhofe;47.26903;11.352971;AT
+29212;Gießenbach in Tirol;giessenbach-in-tirol;47.374383;11.236704;AT
+29213;Kranebitten;kranebitten;47.269587;11.328664;AT
+29214;Leithen bei Seefeld;leithen-bei-seefeld;47.290784;11.221935;AT
+29215;Salzburg Gnigl;salzburg-gnigl;47.811852;13.06636;AT
+29216;St Martin im Sulmtal-Bergla;st-martin-im-sulmtal-bergla;46.748258;15.284799;AT
+29217;Schlüßlberg;schlusslberg;48.223666;13.869177;AT
+29218;Schlöglmühl;schloglmuhl;47.682596;15.913774;AT
+29219;Weng bei Neumarkt;weng-bei-neumarkt;47.936748;13.175345;AT
+29220;Flughafen Graz-Feldkirchen;flughafen-graz-feldkirchen;46.997636;15.449643;AT
+29234;Wien Hbf (Bahnsteige 1-2);wien-hbf-bahnsteige-1-2;48.185705;16.374552;AT
+29235;Salzburg Hbf (Forum);salzburg-hbf-forum;47.81392;13.044327;AT
+29236;Innsbruck Hbf (Verladestelle);innsbruck-hbf-verladestelle;47.262773;11.401827;AT
+29238;Wien Längenfeldgasse;wien-langenfeldgasse;48.18507;16.33526;AT
+29335;Wien Praterstern;wien-praterstern;48.2190836;16.3899653;AT
+29336;Wien Quartier Belvedere;wien-quartier-belvedere;48.1879346;16.3783763;AT
+29429;Wien Mitte-Landstraße;wien-mitte-landstrasse;48.206386;16.384833;AT
+29430;Wien Flughafen (CAT);wien-flughafen-cat;48.120833;16.563056;AT
+32185;Villach Hbf (Busbahnhof);villach-hbf-busbahnhof;46.6186240000;13.8485380000;AT
+32207;Fulpmes;fulpmes;47.1521124;11.3483091;AT
+32226;Neustift im Stubaital;neustift-im-stubaital;47.1090461;11.3052459;AT
+32231;Pinggau;pinggau;47.4455644;16.0664641;AT
+32240;Sattledt;sattledt;48.0738308;14.0557083;AT
+32241;Scheffau;scheffau;47.52925;12.24965;AT
+32245;Stockerau;stockerau;48.3861094;16.2156965;AT
+32246;Stubaier Gletscher;stubaier-gletscher;47.00928;11.15295;AT
+32266;Ellmau;ellmau;47.5147844;12.3022577;AT
+32275;Mieders;mieders;47.1688138;11.3819034;AT
+32278;St. Johann i.T.;st-johann-i-t;48.4501064;9.3439709;AT
+32279;Söll;soll;47.5038387;12.1923691;AT
+33374;Oberwart;oberwart;47.29482;16.19914;AT
+33378;Flachau;flachau;47.3414833;13.3909059;AT
+33391;Untersiebenbrunn Bahnhof;untersiebenbrunn-bahnhof;48.247992;16.747589;AT
+33392;Holzleithen am Hausruck Bahnhof;holzleithen-am-hausruck-bahnhof;48.113542;13.6066;AT
+33393;Rothenthurn Bahnhof;rothenthurn-bahnhof;46.760283;13.580383;AT
+33394;St. Paul im Lavanttal Bad Bahnhof;st-paul-im-lavanttal-bad-bahnhof;46.696429;14.868536;AT
+33395;Waizenkirchen Bahnhof;waizenkirchen-bahnhof;48.330533;13.852977;AT
+33396;Jesdorf-Bergfried Bahnhof;jesdorf-bergfried-bahnhof;47.283412;12.661851;AT
+33397;Winzendorf bei Wr Neustadt Bahnhof;winzendorf-bei-wr-neustadt-bahnhof;47.810689;16.11132;AT
+33398;Obersdorf NÖ (Bahnsteige 1-2);obersdorf-no-bahnsteige-1-2;48.362286;16.516677;AT
+33399;St. Andrä im Lavanttal Bahnhof;st-andra-im-lavanttal-bahnhof;46.76379;14.841576;AT
+33400;Schönberg/Kamp Bahnhof;schonberg-kamp-bahnhof;48.515495;15.696645;AT
+33401;Wienerbruck-Josefsberg Bahnhof;wienerbruck-josefsberg-bahnhof;47.856429;15.307249;AT
+33402;Pleißing-Waschbach Bahnhof;pleissing-waschbach-bahnhof;48.805504;15.84217;AT
+33403;Deutschlandsberg Bahnhof;deutschlandsberg-bahnhof;46.818876;15.218291;AT
+33404;Uggl-Schwarzenbach Bahnhof;uggl-schwarzenbach-bahnhof;47.280263;12.595959;AT
+33405;Maierdorf Bahnhof;maierdorf-bahnhof;46.887135;15.854687;AT
+33406;Hieflau Bahnhof;hieflau-bahnhof;47.607801;14.737555;AT
+33407;Mödling Bahnhof;modling-bahnhof;48.085967;16.295525;AT
+33408;Prambachkirchen-Bad Weinberg Bahnhof;prambachkirchen-bad-weinberg-bahnhof;48.315428;13.90109;AT
+33409;Erlaufklause Bahnhof;erlaufklause-bahnhof;47.832567;15.283608;AT
+33410;Zitoll Bahnhof;zitoll-bahnhof;47.206928;15.324329;AT
+33411;Jennersdorf Bahnhof;jennersdorf-bahnhof;46.935102;16.139694;AT
+33412;Rabenstein/Pielach Bahnhof;rabenstein-pielach-bahnhof;48.068249;15.466174;AT
+33413;Mautbrücken Bahnhof;mautbrucken-bahnhof;46.721281;14.189169;AT
+33414;Raggendorf Bahnhof;raggendorf-bahnhof;48.399587;16.667309;AT
+33415;Hofstatt/Anzbach Bahnhof;hofstatt-anzbach-bahnhof;48.191936;15.918384;AT
+33416;Groß Schweinbarth Bahnhof;gross-schweinbarth-bahnhof;48.417934;16.640522;AT
+33417;Mistelbach/Zaya Stadt Bahnhof;mistelbach-zaya-stadt-bahnhof;48.570743;16.568847;AT
+33418;Raggendorf Markt Bahnhof;raggendorf-markt-bahnhof;48.389784;16.654469;AT
+33419;Schauboden Bahnhof;schauboden-bahnhof;48.079003;15.136959;AT
+33420;Regelsbrunn Bahnhof;regelsbrunn-bahnhof;48.10701;16.780681;AT
+33421;Laxenburg-Biedermannsdorf Bahnhof;laxenburg-biedermannsdorf-bahnhof;48.076944;16.355505;AT
+33422;Hohenbrugg/Raab Bahnhof;hohenbrugg-raab-bahnhof;46.944245;16.060325;AT
+33423;Eggenberg bei Vorchdorf Schloss Bahnhof;eggenberg-bei-vorchdorf-schloss-bahnhof;47.994137;13.918263;AT
+33424;Söchau Bahnhof;sochau-bahnhof;47.028677;16.013886;AT
+33425;St. Ruprecht/Raab Bahnhof;st-ruprecht-raab-bahnhof;47.15177;15.667975;AT
+33426;Ausschlag-Zöbern Bahnhof;ausschlag-zobern-bahnhof;47.533059;16.083215;AT
+33427;Lichendorf bei Mureck Bahnhof;lichendorf-bei-mureck-bahnhof;46.713905;15.698332;AT
+33428;Alkoven Bahnhof;alkoven-bahnhof;48.28818;14.115182;AT
+33429;Oftering Bahnhof;oftering-bahnhof;48.227598;14.151115;AT
+33430;Lebring Bahnhof;lebring-bahnhof;46.854928;15.532246;AT
+33431;Mistelbach/Zaya Bahnhof;mistelbach-zaya-bahnhof;48.565684;16.563623;AT
+33432;Grünbach am Schneeberg Kohlenwerk Bahnhof;grunbach-am-schneeberg-kohlenwerk-bahnhof;47.798162;15.971875;AT
+33433;Schwarzenbach/Pielach Bahnhof;schwarzenbach-pielach-bahnhof;47.994914;15.353927;AT
+33434;Himberg bei Übelbach Bahnhof;himberg-bei-ubelbach-bahnhof;47.218373;15.274056;AT
+33435;Langschlag bei Großgerungs Bahnhof;langschlag-bei-grossgerungs-bahnhof;48.576849;14.882721;AT
+33436;Platt bei Zellerndorf Bahnhof;platt-bei-zellerndorf-bahnhof;48.674671;15.965769;AT
+33437;Furth bei Mattighofen Bahnhof;furth-bei-mattighofen-bahnhof;48.131904;13.139849;AT
+33438;Eggenburg Bahnhof;eggenburg-bahnhof;48.637856;15.814537;AT
+33439;Mittersill Bahnhof;mittersill-bahnhof;47.283659;12.481457;AT
+33440;Straß-Emling Bahnhof;strass-emling-bahnhof;48.287829;14.081969;AT
+33441;Groß St. Florian Bahnhof;gross-st-florian-bahnhof;46.820815;15.317769;AT
+33442;Uttendorf im Pinzgau Manlitzbrücke Bahnhof;uttendorf-im-pinzgau-manlitzbrucke-bahnhof;47.283214;12.562328;AT
+33443;Heidenreichstein Moormuseum Bahnhof;heidenreichstein-moormuseum-bahnhof;48.862855;15.107941;AT
+33444;Wildungsmauer Bahnhof;wildungsmauer-bahnhof;48.107966;16.801912;AT
+33445;Bleiburg Staatsgrenze (Tarifpunkt);bleiburg-staatsgrenze-tarifpunkt;46.566665;14.83995;AT
+33446;St. Martin-Sittich Bahnhof;st-martin-sittich-bahnhof;46.732146;14.152419;AT
+33447;Mühling-Plaika Bahnhof;muhling-plaika-bahnhof;48.10324;15.132717;AT
+33448;Neuratting Bahnhof;neuratting-bahnhof;48.227158;13.373899;AT
+33449;Niederspaching Bahnhof;niederspaching-bahnhof;48.323027;13.809995;AT
+33450;Baumgartenberg Bahnhof;baumgartenberg-bahnhof;48.208715;14.747672;AT
+33451;Lengdorf im Pinzgau Bahnhof;lengdorf-im-pinzgau-bahnhof;47.281558;12.628515;AT
+33452;Neumarkt/Ybbs-Karlsbach Bahnhof;neumarkt-ybbs-karlsbach-bahnhof;48.143419;15.055251;AT
+33453;Rohrbach-Vorau Bahnhof;rohrbach-vorau-bahnhof;47.390529;15.985758;AT
+33454;Losenstein Bahnhof;losenstein-bahnhof;47.924056;14.431087;AT
+33455;Pöndorf Bahnhof;pondorf-bahnhof;47.986669;13.355808;AT
+33456;Predlitz Pichl Bahnhof;predlitz-pichl-bahnhof;47.076817;13.921116;AT
+33457;Lödersdorf Bahnhof;lodersdorf-bahnhof;46.954678;15.94553;AT
+33458;Rohr/Raab Bahnhof;rohr-raab-bahnhof;46.976287;15.812483;AT
+33459;Neukirchen am Großvenediger Bahnhof;neukirchen-am-grossvenediger-bahnhof;47.252872;12.282241;AT
+33460;Drosendorf Bahnhof;drosendorf-bahnhof;48.864129;15.624749;AT
+33461;Großsierning Bahnhof;grosssierning-bahnhof;48.188088;15.457643;AT
+33462;Leibnitz Bahnhof;leibnitz-bahnhof;46.781221;15.546851;AT
+33463;Kaindorf im Murtal Bahnhof;kaindorf-im-murtal-bahnhof;47.103415;14.12441;AT
+33464;Sitzenberg-Reidling Bahnhof;sitzenberg-reidling-bahnhof;48.332193;15.818662;AT
+33465;Preding-Wieselsdorf Bahnhof;preding-wieselsdorf-bahnhof;46.858101;15.381663;AT
+33466;Frojach-Katschtal Bahnhof;frojach-katschtal-bahnhof;47.132817;14.304189;AT
+33467;Manzing-Prambach Bahnhof;manzing-prambach-bahnhof;48.33183;13.888573;AT
+33468;St. Martin im Innkreis Bahnhof;st-martin-im-innkreis-bahnhof;48.288825;13.433709;AT
+33469;Berndorf/Triesting Fabrik Bahnhof;berndorf-triesting-fabrik-bahnhof;47.940259;16.133787;AT
+33470;Mureck Bahnhof;mureck-bahnhof;46.71132;15.770981;AT
+33471;Alling-Tobisegg Bahnhof;alling-tobisegg-bahnhof;46.881911;15.372865;AT
+33472;Bockfließ Bahnhof;bockfliess-bahnhof;48.357782;16.603199;AT
+33473;St. Stefan-Vorderberg Bahnhof;st-stefan-vorderberg-bahnhof;46.600324;13.533544;AT
+33474;Lutzmannsdorf/Mur Bahnhof;lutzmannsdorf-mur-bahnhof;47.103502;14.075286;AT
+33475;Admont Bahnhof;admont-bahnhof;47.573334;14.468412;AT
+33476;Hartberg Bahnhof;hartberg-bahnhof;47.281261;15.984971;AT
+33477;Burk Bahnhof;burk-bahnhof;47.285201;12.497602;AT
+33478;Predlitz Turrach Bahnhof;predlitz-turrach-bahnhof;47.071891;13.908606;AT
+33479;St. Egyden am Steinfeld Bahnhof;st-egyden-am-steinfeld-bahnhof;47.760996;16.14675;AT
+33480;Glanegg in Ktn Bahnhof;glanegg-in-ktn-bahnhof;46.716504;14.210658;AT
+33481;Schwallenbach Bahnhof;schwallenbach-bahnhof;48.341692;15.403488;AT
+33482;Purbach/Neusiedler See Bahnhof;purbach-neusiedler-see-bahnhof;47.906316;16.698613;AT
+33483;Krenstetten-Biberbach Bahnhof;krenstetten-biberbach-bahnhof;48.055224;14.699185;AT
+33484;Hirtenberg Bahnhof;hirtenberg-bahnhof;47.929443;16.175649;AT
+33485;Grünbach am Schneeberg Schule Bahnhof;grunbach-am-schneeberg-schule-bahnhof;47.801367;15.981461;AT
+33486;Pitten Bahnhof;pitten-bahnhof;47.717173;16.179579;AT
+33487;Weitra Bahnhof;weitra-bahnhof;48.700502;14.901533;AT
+33488;Markt Piesting Bahnhof;markt-piesting-bahnhof;47.874572;16.12409;AT
+33489;Aspang Markt Bahnhof;aspang-markt-bahnhof;47.56235;16.099581;AT
+33490;Absdorf-Hippersdorf Bahnhof;absdorf-hippersdorf-bahnhof;48.401855;15.986174;AT
+33491;St. Peter-Seitenstetten Bahnhof;st-peter-seitenstetten-bahnhof;48.054701;14.646145;AT
+33492;Stadl/Mur Bahnhof;stadl-mur-bahnhof;47.084708;13.981;AT
+33493;Herzogenburg-Wielandsthal Bahnhof;herzogenburg-wielandsthal-bahnhof;48.285141;15.69057;AT
+33494;Neulengbach Stadt Bahnhof;neulengbach-stadt-bahnhof;48.196176;15.906917;AT
+33495;Palmsdorf im Attergau Bahnhof;palmsdorf-im-attergau-bahnhof;47.923496;13.512872;AT
+33496;Rohrbach-Berg Bahnhof;rohrbach-berg-bahnhof;48.58194;13.987068;AT
+33497;Dürnkrut Bahnhof;durnkrut-bahnhof;48.469766;16.860112;AT
+33498;St. Lorenzen ob Murau Ost Bahnhof;st-lorenzen-ob-murau-ost-bahnhof;47.10026;14.096543;AT
+33499;Leumühle Bahnhof;leumuhle-bahnhof;48.321918;14.010272;AT
+33500;Weiz Nord Bahnhof;weiz-nord-bahnhof;47.222469;15.624146;AT
+33501;Lilienfeld Krankenhaus Bahnhof;lilienfeld-krankenhaus-bahnhof;48.009021;15.578511;AT
+33502;Großraming Bahnhof;grossraming-bahnhof;47.882223;14.551067;AT
+33503;Petersbaumgarten Bahnhof;petersbaumgarten-bahnhof;47.633762;16.132384;AT
+33504;Feldham Bahnhof;feldham-bahnhof;48.014583;13.912472;AT
+33505;Haslau/Donau Bahnhof;haslau-donau-bahnhof;48.109656;16.710441;AT
+33506;Steinbach-Großpertholz Bahnhof;steinbach-grosspertholz-bahnhof;48.640289;14.842157;AT
+33507;Brunn-Maria Enzersdorf Bahnhof;brunn-maria-enzersdorf-bahnhof;48.104957;16.288062;AT
+33508;Schalchen-Mattighofen Bahnhof;schalchen-mattighofen-bahnhof;48.095962;13.162926;AT
+33509;Hochschneeberg Bergbahnhof;hochschneeberg-bergbahnhof;47.760531;15.83426;AT
+33510;Schönwies bei Imst Bahnhof;schonwies-bei-imst-bahnhof;47.197207;10.660607;AT
+33511;Köflach Bahnhof;koflach-bahnhof;47.061588;15.083287;AT
+33512;Mautern in Stmk Bahnhof;mautern-in-stmk-bahnhof;47.396784;14.836051;AT
+33513;Marein-St. Lorenzen Bahnhof;marein-st-lorenzen-bahnhof;47.473265;15.373263;AT
+33514;Siebenhirten NÖ Bahnhof;siebenhirten-no-bahnhof;48.611394;16.531209;AT
+33515;Wolfsberg in Ktn Reding Bahnhof;wolfsberg-in-ktn-reding-bahnhof;46.824985;14.846165;AT
+33516;Bramberg am Wildkogel Bahnhof;bramberg-am-wildkogel-bahnhof;47.269795;12.344889;AT
+33517;Traisen Markt Bahnhof;traisen-markt-bahnhof;48.039746;15.611519;AT
+33518;Asten-Fisching Bahnhof;asten-fisching-bahnhof;48.225992;14.431448;AT
+33519;Scheibbs Bahnhof;scheibbs-bahnhof;48.005261;15.164286;AT
+33520;Weissenbach-Neuhaus Bahnhof;weissenbach-neuhaus-bahnhof;47.984307;16.046307;AT
+33521;Munderfing Dampfsäge Bahnhof;munderfing-dampfsage-bahnhof;48.068509;13.184555;AT
+33522;Weikendorf Bahnhof;weikendorf-bahnhof;48.338848;16.763282;AT
+33523;Pama Bahnhof;pama-bahnhof;48.042083;17.041397;AT
+33524;Willendorf/Wachau Bahnhof;willendorf-wachau-bahnhof;48.320019;15.4048;AT
+33525;Feldbach/Raab Landesbahn Bahnhof;feldbach-raab-landesbahn-bahnhof;46.94929;15.896683;AT
+33526;Kefermarkt Bahnhof;kefermarkt-bahnhof;48.436899;14.538116;AT
+33527;Krieglach Bahnhof;krieglach-bahnhof;47.547165;15.560027;AT
+33528;Kolbnitz Bahnhof;kolbnitz-bahnhof;46.87834;13.321824;AT
+33529;Wösendorf-Joching Bahnhof;wosendorf-joching-bahnhof;48.383985;15.454593;AT
+33530;Altnagelberg Herrenhaus Bahnhof;altnagelberg-herrenhaus-bahnhof;48.840917;14.992714;AT
+33531;Dürnbach/Enns Bahnhof;durnbach-enns-bahnhof;47.978353;14.353839;AT
+33532;Zissersdorf bei Geras Bahnhof;zissersdorf-bei-geras-bahnhof;48.828012;15.631175;AT
+33533;Straßham-Schönering Bahnhof;strassham-schonering-bahnhof;48.283523;14.148242;AT
+33534;Achenlohe Bahnhof;achenlohe-bahnhof;48.04585;13.197801;AT
+33535;Teufenbach/Mur Bahnhof;teufenbach-mur-bahnhof;47.134981;14.362327;AT
+33536;Aisthofen Bahnhof;aisthofen-bahnhof;48.25624;14.590364;AT
+33537;Schafbergalpe Bahnhof;schafbergalpe-bahnhof;47.769998;13.422183;AT
+33538;Albersdorf bei Gleisdorf Bahnhof;albersdorf-bei-gleisdorf-bahnhof;47.123063;15.69525;AT
+33539;Wilfling Bahnhof;wilfling-bahnhof;47.980641;14.029078;AT
+33540;Großengersdorf Bahnhof;grossengersdorf-bahnhof;48.354144;16.569657;AT
+33541;Sonntagberg NÖ Bahnhof;sonntagberg-no-bahnhof;47.992702;14.738019;AT
+33542;Großweikersdorf Bahnhof;grossweikersdorf-bahnhof;48.469053;15.976197;AT
+33543;Pettenbach OÖ Bahnhof;pettenbach-oo-bahnhof;47.962149;14.011505;AT
+33544;Statzendorf Bahnhof;statzendorf-bahnhof;48.309102;15.632668;AT
+33545;Fehring Bahnhof;fehring-bahnhof;46.949466;16.012683;AT
+33546;Siebenbrunn-Leopoldsdorf Bahnhof;siebenbrunn-leopoldsdorf-bahnhof;48.245573;16.703843;AT
+33547;Freistadt Bahnhof;freistadt-bahnhof;48.495177;14.481463;AT
+33548;Saffen Bahnhof;saffen-bahnhof;48.021712;15.152513;AT
+33549;Sölling bei Purgstall Bahnhof;solling-bei-purgstall-bahnhof;48.039001;15.140377;AT
+33550;Mittersill Essiger Bahnhof;mittersill-essiger-bahnhof;47.284096;12.492543;AT
+33551;Litschau Bahnhof (Tarifpunkt);litschau-bahnhof-tarifpunkt;48.941841;15.044001;AT
+33552;Getzersdorf ob der Traisen Bahnhof;getzersdorf-ob-der-traisen-bahnhof;48.324093;15.715303;AT
+33553;Waidhofen/Ybbs Kreilhof Bahnhof;waidhofen-ybbs-kreilhof-bahnhof;47.944953;14.797549;AT
+33554;Bleiburg Stadt Bahnhof;bleiburg-stadt-bahnhof;46.590068;14.794119;AT
+33555;Dietrichshofen Bahnhof;dietrichshofen-bahnhof;48.370028;13.422087;AT
+33556;Grein Stadt Bahnhof;grein-stadt-bahnhof;48.230045;14.856037;AT
+33557;Gleisdorf Bahnhof;gleisdorf-bahnhof;47.099417;15.708938;AT
+33558;Spielfeld-Straß Bahnhof;spielfeld-strass-bahnhof;46.709581;15.629121;AT
+33559;Kleblach-Lind Bahnhof;kleblach-lind-bahnhof;46.772305;13.342663;AT
+33560;Langau bei Geras Bahnhof;langau-bei-geras-bahnhof;48.825202;15.718501;AT
+33561;Winterbach NÖ Bahnhof;winterbach-no-bahnhof;47.950916;15.27515;AT
+33562;Schwerbach/Pielach Bahnhof;schwerbach-pielach-bahnhof;48.019872;15.403626;AT
+33563;Hadersdorf/Kamp Bahnhof;hadersdorf-kamp-bahnhof;48.446506;15.714637;AT
+33564;Tamsweg Bahnhof;tamsweg-bahnhof;47.129924;13.807956;AT
+33565;Schönborn-Mallebarn Bahnhof;schonborn-mallebarn-bahnhof;48.468464;16.159195;AT
+33566;Alkoven Schule Bahnhof;alkoven-schule-bahnhof;48.286337;14.103804;AT
+33567;Peuerbach Bahnhof;peuerbach-bahnhof;48.33747;13.770615;AT
+33568;St. Michael ob Bleiburg Bahnhof;st-michael-ob-bleiburg-bahnhof;46.582254;14.750918;AT
+33569;Petronell-Carnuntum Bahnhof;petronell-carnuntum-bahnhof;48.1059;16.867731;AT
+33570;Willendorf am Steinfeld Bahnhof;willendorf-am-steinfeld-bahnhof;47.789216;16.060474;AT
+33571;Langenlois Bahnhof;langenlois-bahnhof;48.476803;15.686179;AT
+33572;Diensthubersiedlung Bahnhof;diensthubersiedlung-bahnhof;47.968079;14.022025;AT
+33573;Schwarza bei Spielfeld Bahnhof;schwarza-bei-spielfeld-bahnhof;46.71802;15.669469;AT
+33574;Ziersdorf Bahnhof;ziersdorf-bahnhof;48.527927;15.921986;AT
+33575;Ramingstein Bahnhof;ramingstein-bahnhof;47.076531;13.843339;AT
+33576;Ortmann Bahnhof;ortmann-bahnhof;47.893386;15.979316;AT
+33577;Hautzendorf NÖ Bahnhof;hautzendorf-no-bahnhof;48.45132;16.492898;AT
+33578;Pöchlarn Bahnhof;pochlarn-bahnhof;48.208074;15.216602;AT
+33579;Trattenbach/Enns Bahnhof;trattenbach-enns-bahnhof;47.930291;14.354688;AT
+33580;Weizelsdorf Bahnhof;weizelsdorf-bahnhof;46.539476;14.243756;AT
+33581;Böheimkirchen Bahnhof;boheimkirchen-bahnhof;48.200418;15.753664;AT
+33582;Traismauer Bahnhof;traismauer-bahnhof;48.34793;15.745586;AT
+33583;Trautmannsdorf in Oststmk Bahnhof;trautmannsdorf-in-oststmk-bahnhof;46.878126;15.888513;AT
+33584;Heidenreichstein Bahnhof;heidenreichstein-bahnhof;48.864778;15.117823;AT
+33585;Pregarten Bahnhof;pregarten-bahnhof;48.355954;14.522314;AT
+33586;Oed/Piesting Bahnhof;oed-piesting-bahnhof;47.878717;16.02635;AT
+33587;Lungitz/Gusen Bahnhof;lungitz-gusen-bahnhof;48.28867;14.47836;AT
+33588;Oberwaltersdorf Bahnhof;oberwaltersdorf-bahnhof;47.975109;16.328384;AT
+33589;Sarmingstein Bahnhof;sarmingstein-bahnhof;48.229585;14.943994;AT
+33590;Kammerhof Bahnhof;kammerhof-bahnhof;48.104613;15.530222;AT
+33591;Mitterdorf-Veitsch Bahnhof;mitterdorf-veitsch-bahnhof;47.536558;15.512378;AT
+33593;Donnerskirchen Bahnhof;donnerskirchen-bahnhof;47.88862;16.660453;AT
+33594;Gaflenz Bahnhof;gaflenz-bahnhof;47.893778;14.723658;AT
+33595;Ebreichsdorf Bahnhof;ebreichsdorf-bahnhof;47.9612;16.408875;AT
+33596;Untertullnerbach Bahnhof;untertullnerbach-bahnhof;48.191659;16.128055;AT
+33597;Schafbergspitze Bahnhof;schafbergspitze-bahnhof;47.775228;13.433803;AT
+33598;Ober-Grafendorf Bahnhof;ober-grafendorf-bahnhof;48.151954;15.539832;AT
+33599;Bärnbach bei Köflach Bahnhof;barnbach-bei-koflach-bahnhof;47.056152;15.12935;AT
+33600;Waldhausen bei Zwettl Museumsbahnhof;waldhausen-bei-zwettl-museumsbahnhof;48.524738;15.243528;AT
+33601;Waldegg-Dürnbach Bahnhof;waldegg-durnbach-bahnhof;47.867597;16.051482;AT
+33602;Schönau bei Litschau Dorfwirt Bahnhof;schonau-bei-litschau-dorfwirt-bahnhof;48.93216;15.038428;AT
+33603;Guntersdorf Bahnhof;guntersdorf-bahnhof;48.642283;16.053631;AT
+33604;Tiffen Bahnhof;tiffen-bahnhof;46.7014;14.060004;AT
+33605;Laßnitzhöhe Bahnhof;lassnitzhohe-bahnhof;47.078922;15.588409;AT
+33606;Vorchdorf Gewerbegebiet Bahnhof;vorchdorf-gewerbegebiet-bahnhof;48.010125;13.91422;AT
+33607;Attersee Bahnhof;attersee-bahnhof;47.914463;13.534;AT
+33608;Gschnarret Bahnhof;gschnarret-bahnhof;48.311639;13.939086;AT
+33609;Laßnitzthal Bahnhof;lassnitzthal-bahnhof;47.088144;15.656264;AT
+33610;Kammer-Schörfling Bahnhof;kammer-schorfling-bahnhof;47.94849;13.595324;AT
+33611;Steindorf/Ossiacher See Bahnhof;steindorf-ossiacher-see-bahnhof;46.698196;14.014097;AT
+33612;Tamsweg St. Leonhard Bahnhof;tamsweg-st-leonhard-bahnhof;47.123796;13.80706;AT
+33613;Rothengrub Bahnhof;rothengrub-bahnhof;47.789203;16.051079;AT
+33614;Weyer/Enns Bahnhof;weyer-enns-bahnhof;47.861563;14.666994;AT
+33615;St. Paul im Lavanttal Bahnhof;st-paul-im-lavanttal-bahnhof;46.706507;14.867747;AT
+33616;Köppling Bahnhof;koppling-bahnhof;47.002739;15.244402;AT
+33617;Pernitz Raimundviertel Bahnhof;pernitz-raimundviertel-bahnhof;47.892264;15.946752;AT
+33618;Sachsenburg Markt Bahnhof;sachsenburg-markt-bahnhof;46.825636;13.348302;AT
+33619;Sollenau Bahnhof;sollenau-bahnhof;47.898292;16.24561;AT
+33620;Lilienfeld Bahnhof;lilienfeld-bahnhof;48.013766;15.593046;AT
+33621;Grünbach am Schneeberg Bahnhof;grunbach-am-schneeberg-bahnhof;47.79747;15.997907;AT
+33622;Sebersdorf Bahnhof;sebersdorf-bahnhof;47.188866;15.999037;AT
+33623;Kalwang Bahnhof;kalwang-bahnhof;47.423689;14.74694;AT
+33624;Steinkogel Bahnhof;steinkogel-bahnhof;47.787156;13.741356;AT
+33625;Kaindorf/Sulm Bahnhof;kaindorf-sulm-bahnhof;46.802172;15.542428;AT
+33626;Hart im Innkreis Bahnhof;hart-im-innkreis-bahnhof;48.316042;13.415211;AT
+33627;Mühlbach im Pinzgau Bahnhof;muhlbach-im-pinzgau-bahnhof;47.273;12.374287;AT
+33628;St. Georgen/Gusen Bahnhof;st-georgen-gusen-bahnhof;48.265156;14.440395;AT
+33629;Hainburg/Donau Personenbahnhof;hainburg-donau-personenbahnhof;48.148749;16.939245;AT
+33630;Übersbach bei Fürstenfeld Bahnhof;ubersbach-bei-furstenfeld-bahnhof;47.026883;16.0536;AT
+33631;Unteroberndorf Bahnhof;unteroberndorf-bahnhof;48.181805;15.957743;AT
+33632;Oedt bei Feldbach Bahnhof;oedt-bei-feldbach-bahnhof;46.936391;15.869058;AT
+33633;St. Georgen/Gusen Bahnhst;st-georgen-gusen-bahnhst;48.270896;14.450876;AT
+33634;St. Nikola-Struden Bahnhof;st-nikola-struden-bahnhof;48.233487;14.909103;AT
+33635;Mühling/Erlauf Bahnhof;muhling-erlauf-bahnhof;48.110985;15.135524;AT
+33636;Kirchberg/Pielach Bahnhof;kirchberg-pielach-bahnhof;48.024262;15.432745;AT
+33637;Kleinreifling Bahnhof;kleinreifling-bahnhof;47.823964;14.642182;AT
+33638;Kottingbrunn Bahnhof;kottingbrunn-bahnhof;47.950187;16.226977;AT
+33639;Arnoldstein Bahnhof;arnoldstein-bahnhof;46.551466;13.707687;AT
+33640;Laizing Bahnhof;laizing-bahnhof;47.963996;13.89213;AT
+33641;Helmahof Bahnhof;helmahof-bahnhof;48.310454;16.597663;AT
+33642;Nötsch im Gailtal Bahnhof;notsch-im-gailtal-bahnhof;46.588663;13.625227;AT
+33643;Bierbaum/Safen Bahnhof;bierbaum-safen-bahnhof;47.098001;16.074268;AT
+33644;Kleinpertholz bei Heidenreichstein Bahnhof;kleinpertholz-bei-heidenreichstein-bahnhof;48.860798;15.105315;AT
+33645;Wolkersdorf im Weinviertel Bahnhof;wolkersdorf-im-weinviertel-bahnhof;48.378654;16.512489;AT
+33646;Burgfried bei Gnas Bahnhof;burgfried-bei-gnas-bahnhof;46.891365;15.832981;AT
+33647;St. Veit/Triesting Bahnhof;st-veit-triesting-bahnhof;47.933243;16.149084;AT
+33648;Ferndorf in Ktn Bahnhof;ferndorf-in-ktn-bahnhof;46.732887;13.628537;AT
+33649;Achau Bahnhof;achau-bahnhof;48.082122;16.377024;AT
+33650;Lahöfen Bahnhof;lahofen-bahnhof;48.286942;14.00676;AT
+33651;Bad Waltersdorf Bahnhof;bad-waltersdorf-bahnhof;47.170274;16.01368;AT
+33652;Rosental im Pinzgau Bahnhof;rosental-im-pinzgau-bahnhof;47.243551;12.24523;AT
+33653;Wittmannsdorf NÖ Bahnhof;wittmannsdorf-no-bahnhof;47.920287;16.219922;AT
+33654;Unterfladnitz Bahnhof;unterfladnitz-bahnhof;47.179308;15.667397;AT
+33655;Weitersfeld im Waldviertel Bahnhof;weitersfeld-im-waldviertel-bahnhof;48.78749;15.804701;AT
+33656;Hollersbach im Pinzgau Panoramabahn Bahnhof;hollersbach-im-pinzgau-panoramabahn-bahnhof;47.278927;12.408148;AT
+33657;Spielfeld Staatsgrenze (Tarifpunkt);spielfeld-staatsgrenze-tarifpunkt;46.692061;15.640247;AT
+33658;Aschbach NÖ Bahnhof;aschbach-no-bahnhof;48.069657;14.756361;AT
+33659;St. Lorenzen ob Murau Bahnhof;st-lorenzen-ob-murau-bahnhof;47.101695;14.090419;AT
+33660;St. Johann-Weistrach Bahnhof;st-johann-weistrach-bahnhof;48.074962;14.613216;AT
+33661;Tattendorf Bahnhof;tattendorf-bahnhof;47.955458;16.305924;AT
+33662;Frankenfels Bahnhof;frankenfels-bahnhof;47.981884;15.321948;AT
+33663;Thal/Drau Bahnhof;thal-drau-bahnhof;46.784141;12.670696;AT
+33664;Enzersdorf bei Staatz Bahnhof;enzersdorf-bei-staatz-bahnhof;48.6728;16.511023;AT
+33665;Ladendorf Bahnhof;ladendorf-bahnhof;48.536164;16.510106;AT
+33666;Mattighofen Bahnhof;mattighofen-bahnhof;48.108665;13.15237;AT
+33667;Großgerungs Bahnhof;grossgerungs-bahnhof;48.571806;14.960202;AT
+33668;Kirchberg-Thürnau Bahnhof;kirchberg-thurnau-bahnhof;48.275226;14.165622;AT
+33669;Annaberg NÖ-Reith Bahnhof;annaberg-no-reith-bahnhof;47.865323;15.310687;AT
+33670;Fraham bei Eferding Bahnhof;fraham-bei-eferding-bahnhof;48.287479;14.039505;AT
+33671;Kößlwang Bahnhof;kosslwang-bahnhof;48.022968;13.908762;AT
+33672;Laubenbachmühle Bahnhof;laubenbachmuhle-bahnhof;47.952291;15.287164;AT
+33673;Hausruck Bahnhof;hausruck-bahnhof;48.129612;13.57162;AT
+33674;Strasshof/Nordbahn Bahnhof;strasshof-nordbahn-bahnhof;48.31857;16.634415;AT
+33675;Kendlbruck Bahnhof;kendlbruck-bahnhof;47.069634;13.882512;AT
+33676;Hörersdorf Bahnhof;horersdorf-bahnhof;48.620288;16.516333;AT
+33677;Ottensheim Bahnhof;ottensheim-bahnhof;48.337787;14.177114;AT
+33678;Ehrenhausen Bahnhof;ehrenhausen-bahnhof;46.727664;15.585574;AT
+33679;Hatzendorf Bahnhof;hatzendorf-bahnhof;46.979351;16.003415;AT
+33680;Uttendorf-Helpfau Bahnhof;uttendorf-helpfau-bahnhof;48.16078;13.133459;AT
+33681;Ottnang-Wolfsegg Bahnhof;ottnang-wolfsegg-bahnhof;48.092061;13.664876;AT
+33682;Murau Bahnhof;murau-bahnhof;47.108994;14.174784;AT
+33683;Sulzbachtäler Bahnhof;sulzbachtaler-bahnhof;47.242459;12.26085;AT
+33684;Katzendorf in Stmk Bahnhof;katzendorf-in-stmk-bahnhof;46.883683;15.853838;AT
+33685;Falkendorf/Mur Bahnhof;falkendorf-mur-bahnhof;47.0988;14.008878;AT
+33686;Eichgraben-Altlengbach Bahnhof;eichgraben-altlengbach-bahnhof;48.173744;15.982009;AT
+33687;Marktl/Traisen Bahnhof;marktl-traisen-bahnhof;48.021536;15.600067;AT
+33688;Götzendorf/Leitha Bahnhof;gotzendorf-leitha-bahnhof;48.025683;16.587423;AT
+33689;Wald im Pinzgau Lahnsiedlung Bahnhof;wald-im-pinzgau-lahnsiedlung-bahnhof;47.239848;12.206735;AT
+33690;Voitsberg Bahnhof;voitsberg-bahnhof;47.043137;15.150044;AT
+33691;Mötz Bahnhof;motz-bahnhof;47.275237;10.960014;AT
+33692;Feldbach/Raab Bahnhof;feldbach-raab-bahnhof;46.958559;15.888569;AT
+33693;Schwertberg Bahnhof;schwertberg-bahnhof;48.268662;14.580195;AT
+33694;Lahnstein/Traun Bahnhof;lahnstein-traun-bahnhof;47.774503;13.731084;AT
+33695;Waidhofen/Ybbs Lokalbahn Bahnhof;waidhofen-ybbs-lokalbahn-bahnhof;47.955825;14.778909;AT
+33696;Großhaslau Bahnhof;grosshaslau-bahnhof;48.647688;15.168536;AT
+33697;Pernitz Wipfelhofstraße Bahnhof;pernitz-wipfelhofstrasse-bahnhof;47.895735;15.968279;AT
+33698;Knittelfeld Bahnhof;knittelfeld-bahnhof;47.215294;14.837616;AT
+33699;Gleißenfeld Bahnhof;gleissenfeld-bahnhof;47.679226;16.128757;AT
+33700;Kirchstetten bei Neulengbach Bahnhof;kirchstetten-bei-neulengbach-bahnhof;48.190264;15.821161;AT
+33701;Hollersbach im Pinzgau Bahnhof;hollersbach-im-pinzgau-bahnhof;47.278339;12.415476;AT
+33702;Perg Schulzentrum Bahnhof;perg-schulzentrum-bahnhof;48.242493;14.640367;AT
+33703;Wald am Schoberpass Bahnhof;wald-am-schoberpass-bahnhof;47.450377;14.670787;AT
+33704;Aalfang Bahnhof;aalfang-bahnhof;48.842607;15.068901;AT
+33705;Stuhlfelden Siedlung Bahnhof;stuhlfelden-siedlung-bahnhof;47.28587;12.535301;AT
+33706;Laa/Thaya Bahnhof;laa-thaya-bahnhof;48.723713;16.402669;AT
+33707;Paasdorf Bahnhof;paasdorf-bahnhof;48.546835;16.535215;AT
+33708;Rainfeld-Klein Zell Bahnhof;rainfeld-klein-zell-bahnhof;48.050648;15.707418;AT
+33709;Karling bei Eferding Bahnhof;karling-bei-eferding-bahnhof;48.35213;13.993836;AT
+33710;Walding bei Linz Bahnhof;walding-bei-linz-bahnhof;48.348394;14.153629;AT
+33711;Guggenbach Warthkogelsiedlung Bahnhof;guggenbach-warthkogelsiedlung-bahnhof;47.219373;15.251725;AT
+33712;Kottingneusiedl Bahnhof;kottingneusiedl-bahnhof;48.703468;16.464287;AT
+33713;Pottenstein/Triesting Bahnhof;pottenstein-triesting-bahnhof;47.961429;16.089512;AT
+33714;Grafendorf bei Hartberg Bahnhof;grafendorf-bei-hartberg-bahnhof;47.346642;16.003544;AT
+33715;Baumgartner Bahnhof;baumgartner-bahnhof;47.753408;15.850813;AT
+33716;Ernstbrunn Bahnhof;ernstbrunn-bahnhof;48.526082;16.376942;AT
+33717;Hofstätten bei Bad Gleichenberg Bahnhof;hofstatten-bei-bad-gleichenberg-bahnhof;46.892906;15.872014;AT
+33718;Aich im Jauntal Bahnhof;aich-im-jauntal-bahnhof;46.630147;14.811411;AT
+33719;Fürstenfeld Bahnhof;furstenfeld-bahnhof;47.042165;16.083889;AT
+33720;Traiskirchen Aspangbahn Bahnhof;traiskirchen-aspangbahn-bahnhof;48.017406;16.303069;AT
+33721;Puch bei Villach Bahnhof;puch-bei-villach-bahnhof;46.663138;13.759663;AT
+33722;Seebenstein Bahnhof;seebenstein-bahnhof;47.703319;16.142784;AT
+33723;Waldstein Bahnhof;waldstein-bahnhof;47.219839;15.2901;AT
+33724;Böhlerwerk Bahnhof;bohlerwerk-bahnhof;47.983084;14.754058;AT
+33725;Enzesfeld-Lindabrunn Bahnhof;enzesfeld-lindabrunn-bahnhof;47.9213;16.187444;AT
+33726;Mittewald/Drau Bahnhof;mittewald-drau-bahnhof;46.769594;12.595148;AT
+33727;Auersthal Bahnhof;auersthal-bahnhof;48.368038;16.642283;AT
+33728;Guggenbach Bahnhof;guggenbach-bahnhof;47.219021;15.255859;AT
+33729;Dreistetten Bahnhof;dreistetten-bahnhof;47.872488;16.110139;AT
+33730;Frantschach-St. Gertraud Bahnhof;frantschach-st-gertraud-bahnhof;46.865;14.868583;AT
+33731;Mogersdorf Bahnhof;mogersdorf-bahnhof;46.945553;16.229231;AT
+33732;Prottes Bahnhof;prottes-bahnhof;48.382398;16.729989;AT
+33733;Tarifpunkt 88 Spielfeld Staatsgrenze;tarifpunkt-88-spielfeld-staatsgrenze;46.692049;15.644171;AT
+33734;Preding bei Weiz Bahnhof;preding-bei-weiz-bahnhof;47.201542;15.647566;AT
+33735;Mainburg/Pielach Bahnhof;mainburg-pielach-bahnhof;48.079758;15.478545;AT
+33736;Kirchham bei Vorchdorf Bahnhof;kirchham-bei-vorchdorf-bahnhof;47.975519;13.898824;AT
+33737;Neumarkt in Stmk Bahnhof;neumarkt-in-stmk-bahnhof;47.073485;14.414927;AT
+33738;Kappel am Krappfeld Bahnhof;kappel-am-krappfeld-bahnhof;46.8376;14.475618;AT
+33739;Eferding Bahnhof;eferding-bahnhof;48.303089;14.015831;AT
+33740;Wieselburg/Erlauf Bahnhof;wieselburg-erlauf-bahnhof;48.132147;15.142479;AT
+33741;Hainfeld NÖ Bahnhof;hainfeld-no-bahnhof;48.039364;15.768591;AT
+33742;Rekawinkel Bahnhof;rekawinkel-bahnhof;48.179816;16.031793;AT
+33743;Willersdorf/Aschach Bahnhof;willersdorf-aschach-bahnhof;48.325609;13.832089;AT
+33744;Stillfried Bahnhof;stillfried-bahnhof;48.412009;16.846537;AT
+33745;Nenzing Bahnhof;nenzing-bahnhof;47.191641;9.708076;AT
+33746;Bad Deutsch-Altenburg Bahnhof;bad-deutsch-altenburg-bahnhof;48.132767;16.910757;AT
+33747;Silberwald Bahnhof;silberwald-bahnhof;48.328318;16.678341;AT
+33748;Boding Bahnhof;boding-bahnhof;47.963585;15.297226;AT
+33749;Spitz/Donau Bahnhof;spitz-donau-bahnhof;48.365091;15.41766;AT
+33750;Übelbach Bahnhof;ubelbach-bahnhof;47.224838;15.236591;AT
+33751;Murau St. Leonhard Bahnhof;murau-st-leonhard-bahnhof;47.109376;14.165341;AT
+33752;Mollmannsdorf Bahnhof;mollmannsdorf-bahnhof;48.412759;16.404056;AT
+33753;Werndorf Bahnhof;werndorf-bahnhof;46.916367;15.476977;AT
+33754;Wagram-Grafenegg Bahnhof;wagram-grafenegg-bahnhof;48.434214;15.776592;AT
+33755;Schlägl Bahnhof;schlagl-bahnhof;48.636611;13.975399;AT
+33756;Weiz Zentrum (Bahnhst);weiz-zentrum-bahnhst;47.219207;15.627134;AT
+33757;Mixnitz-Bärenschützklamm Bahnhof;mixnitz-barenschutzklamm-bahnhof;47.331581;15.360285;AT
+33758;Gerling OÖ Bahnhof;gerling-oo-bahnhof;48.397297;14.077077;AT
+33759;Gnas Bahnhof;gnas-bahnhof;46.884352;15.831167;AT
+33760;Pernitz-Muggendorf Bahnhof;pernitz-muggendorf-bahnhof;47.895912;15.958127;AT
+33761;Perg Bahnhof;perg-bahnhof;48.247545;14.627501;AT
+33762;Munderfing Bahnhof;munderfing-bahnhof;48.073104;13.180201;AT
+33763;Waidhofen/Ybbs Vogelsang Bahnhof;waidhofen-ybbs-vogelsang-bahnhof;47.951341;14.787131;AT
+33764;Baden bei Wien Bahnhof;baden-bei-wien-bahnhof;48.004053;16.242777;AT
+33765;Ebensee Bahnhof;ebensee-bahnhof;47.804348;13.771461;AT
+33766;Uttendorf-Stubachtal Bahnhof;uttendorf-stubachtal-bahnhof;47.281087;12.573956;AT
+33767;St. Martin bei Weitra Bahnhof;st-martin-bei-weitra-bahnhof;48.663164;14.841452;AT
+33768;Trasdorf Bahnhof;trasdorf-bahnhof;48.315163;15.880099;AT
+33769;Tullnerbach-Pressbaum Bahnhof;tullnerbach-pressbaum-bahnhof;48.186058;16.092856;AT
+33770;St. Veit/Gölsen Bahnhof;st-veit-golsen-bahnhof;48.045108;15.671757;AT
+33771;Krimml Bahnhof;krimml-bahnhof;47.234705;12.196277;AT
+33772;Gobelsburg Bahnhof;gobelsburg-bahnhof;48.462404;15.701621;AT
+33773;Oepping Bahnhof;oepping-bahnhof;48.59986;13.960448;AT
+33774;Neunkirchen NÖ Bahnhof;neunkirchen-no-bahnhof;47.731612;16.085103;AT
+33775;Prädiberg Bahnhof;pradiberg-bahnhof;46.920356;15.847971;AT
+33776;Nöstlbach-St. Marien Bahnhof;nostlbach-st-marien-bahnhof;48.16399;14.246536;AT
+33777;Gaishorn am See Bahnhof;gaishorn-am-see-bahnhof;47.489086;14.546568;AT
+33778;Raasdorf Bahnhof;raasdorf-bahnhof;48.239019;16.581907;AT
+33779;Felixdorf Bahnhof;felixdorf-bahnhof;47.887295;16.248057;AT
+33780;Arbing Bahnhof;arbing-bahnhof;48.226866;14.701129;AT
+33781;Aggsbach-Markt Bahnhof;aggsbach-markt-bahnhof;48.296644;15.402916;AT
+33782;Kirchham bei Vorchdorf Ort Bahnhof;kirchham-bei-vorchdorf-ort-bahnhof;47.971136;13.896934;AT
+33783;Granitztal Bahnhof;granitztal-bahnhof;46.68513;14.838229;AT
+33784;Waldegg/Piesting Bahnhof;waldegg-piesting-bahnhof;47.868912;16.058473;AT
+33785;Unterhöflein Bahnhof;unterhoflein-bahnhof;47.790702;16.032897;AT
+33786;Limberg-Maissau Bahnhof;limberg-maissau-bahnhof;48.592337;15.863305;AT
+33787;Ebensee Landungsplatz Bahnhof;ebensee-landungsplatz-bahnhof;47.812735;13.774516;AT
+33788;Paternion Markt Bahnhof;paternion-markt-bahnhof;46.725232;13.64237;AT
+33789;Penk im Mölltal Bahnhof;penk-im-molltal-bahnhof;46.91212;13.257572;AT
+33790;Trieben Bahnhof;trieben-bahnhof;47.489196;14.489261;AT
+33791;Dürrwien Bahnhof;durrwien-bahnhof;48.178438;16.061762;AT
+33792;Weiz Bahnhof;weiz-bahnhof;47.21427;15.630916;AT
+33793;Takern-St. Margarethen Bahnhof;takern-st-margarethen-bahnhof;47.045659;15.757852;AT
+33794;Schrambach Bahnhof;schrambach-bahnhof;48.001426;15.57467;AT
+33795;Bergern am Hausruck Bahnhof;bergern-am-hausruck-bahnhof;48.100865;13.63129;AT
+33796;Fischa Bahnhof;fischa-bahnhof;46.905951;15.837168;AT
+33797;Niedernsill Bahnhof;niedernsill-bahnhof;47.282091;12.646842;AT
+33798;Säusenstein Bahnhof;sausenstein-bahnhof;48.192613;15.113807;AT
+33799;Gaisfeld Bahnhof;gaisfeld-bahnhof;47.021248;15.197531;AT
+33800;Hagendorf im Murtal Bahnhof;hagendorf-im-murtal-bahnhof;47.087263;13.990727;AT
+33801;Wiesenau im Lavanttal Bahnhof;wiesenau-im-lavanttal-bahnhof;46.945183;14.813882;AT
+33802;Erlauf Bahnhof;erlauf-bahnhof;48.183806;15.182099;AT
+33803;Bad Blumau Bahnhof;bad-blumau-bahnhof;47.123372;16.056581;AT
+33804;Passering Bahnhof;passering-bahnhof;46.80694;14.469442;AT
+33805;Mühldorf im Lavanttal Bahnhof;muhldorf-im-lavanttal-bahnhof;46.736109;14.857364;AT
+33806;Peggau-Deutschfeistritz Bahnhof;peggau-deutschfeistritz-bahnhof;47.207237;15.343258;AT
+33807;Traunkirchen Ort Bahnhof;traunkirchen-ort-bahnhof;47.842778;13.787038;AT
+33808;Schadendorf bei Lieboch Bahnhof;schadendorf-bei-lieboch-bahnhof;46.979321;15.317997;AT
+33809;Kroisbach-Zöbing Bahnhof;kroisbach-zobing-bahnhof;47.033834;15.760961;AT
+33810;Bruderndorf bei Langschlag Bahnhof;bruderndorf-bei-langschlag-bahnhof;48.597316;14.846344;AT
+33811;Kleinzell im Mühlkreis Bahnhof;kleinzell-im-muhlkreis-bahnhof;48.458486;14.03208;AT
+33812;Göllersdorf Bahnhof;gollersdorf-bahnhof;48.492468;16.126634;AT
+33813;St. Stefan im Lavanttal Bahnhof;st-stefan-im-lavanttal-bahnhof;46.806749;14.846123;AT
+33814;Ybbs/Donau Bahnhof;ybbs-donau-bahnhof;48.158903;15.099707;AT
+33815;Schlins-Beschling Bahnhof;schlins-beschling-bahnhof;47.19499;9.689981;AT
+33816;Guntramsdorf Thallern Bahnhof;guntramsdorf-thallern-bahnhof;48.051919;16.297485;AT
+33817;Gstocket Bahnhof;gstocket-bahnhof;48.306256;13.955174;AT
+33818;Hessendorf bei Geras Anglerparadies Bahnhof;hessendorf-bei-geras-anglerparadies-bahnhof;48.812721;15.742934;AT
+33819;Heilbad Burgwies Bahnhof;heilbad-burgwies-bahnhof;47.286235;12.510566;AT
+33820;St. Johann in der Haide Bahnhof;st-johann-in-der-haide-bahnhof;47.280619;16.035256;AT
+33821;Twimberg Bahnhof;twimberg-bahnhof;46.915375;14.841756;AT
+33822;Murau West Bahnhof;murau-west-bahnhof;47.112105;14.147964;AT
+33823;Vorchdorf Schule (Bahnhst);vorchdorf-schule-bahnhst;48.004077;13.917132;AT
+33824;Hengsberg Bahnhof;hengsberg-bahnhof;46.863489;15.457842;AT
+33825;Kindberg Bahnhof;kindberg-bahnhof;47.501146;15.448339;AT
+33826;Treibach-Althofen Bahnhof;treibach-althofen-bahnhof;46.868517;14.465567;AT
+33827;Leobersdorf Bahnhof;leobersdorf-bahnhof;47.938434;16.230985;AT
+33828;Purkla Bahnhof;purkla-bahnhof;46.731563;15.903351;AT
+33829;Lasberg-St. Oswald Bahnhof;lasberg-st-oswald-bahnhof;48.460914;14.521518;AT
+33830;Gramatneusiedl Bahnhof;gramatneusiedl-bahnhof;48.035294;16.491063;AT
+33831;Iglmühle Bahnhof;iglmuhle-bahnhof;48.52057;14.036441;AT
+33832;Neubau-Kreuzstetten Bahnhof;neubau-kreuzstetten-bahnhof;48.497338;16.500651;AT
+33833;Rohrbach/Gölsen Bahnhof;rohrbach-golsen-bahnhof;48.047764;15.742841;AT
+33834;Weißenstein-Kellerberg Bahnhof;weissenstein-kellerberg-bahnhof;46.679517;13.719856;AT
+33835;Ternberg Bahnhof;ternberg-bahnhof;47.949189;14.354984;AT
+33836;Bad St. Leonhard Bahnhof;bad-st-leonhard-bahnhof;46.965765;14.786716;AT
+33837;Schönfeld-Lassee Bahnhof;schonfeld-lassee-bahnhof;48.251041;16.807214;AT
+33838;Kröllendorf Bahnhof;krollendorf-bahnhof;48.042553;14.789012;AT
+33839;Übelbach Vormarkt Bahnhof;ubelbach-vormarkt-bahnhof;47.222522;15.241075;AT
+33840;Neuhaus-Niederwaldkirchen Bahnhof;neuhaus-niederwaldkirchen-bahnhof;48.442014;14.05135;AT
+33841;Dornach bei Grein Bahnhof;dornach-bei-grein-bahnhof;48.191872;14.820072;AT
+33842;Wiesen-Sigleß Bahnhof;wiesen-sigless-bahnhof;47.753434;16.369782;AT
+33843;Herzogenburg Bahnhof;herzogenburg-bahnhof;48.276546;15.696362;AT
+33844;Markersdorf/Pielach Bahnhof;markersdorf-pielach-bahnhof;48.196442;15.496969;AT
+33845;Wald im Pinzgau Bahnhof;wald-im-pinzgau-bahnhof;47.243709;12.228496;AT
+33846;Zöbing/Kamp Bahnhof;zobing-kamp-bahnhof;48.490681;15.69385;AT
+33847;Puchberg am Schneeberg Bahnhof;puchberg-am-schneeberg-bahnhof;47.790413;15.910319;AT
+33848;Hengsthütte Bahnhof;hengsthutte-bahnhof;47.758164;15.88298;AT
+33849;Kreisbach Bahnhof;kreisbach-bahnhof;48.10056;15.607882;AT
+33850;Miesenbach-Waidmannsfeld Bahnhof;miesenbach-waidmannsfeld-bahnhof;47.877569;16.005301;AT
+33851;Frättingsdorf Bahnhof;frattingsdorf-bahnhof;48.643427;16.51218;AT
+33852;Weiz Interspar Bahnhof;weiz-interspar-bahnhof;47.207612;15.639661;AT
+33853;Krems in Stmk Bahnhof;krems-in-stmk-bahnhof;47.033039;15.175504;AT
+33854;Pressbaum Bahnhof;pressbaum-bahnhof;48.181379;16.07784;AT
+33855;Halbenrain Bahnhof;halbenrain-bahnhof;46.723825;15.948863;AT
+33856;Straßham Wehrgasse Bahnhof;strassham-wehrgasse-bahnhof;48.288919;14.14393;AT
+33857;Winkl im Rosental Bahnhof;winkl-im-rosental-bahnhof;46.545081;14.014165;AT
+33858;Neukirchen am Großvenediger Vorstadl Bahnhof;neukirchen-am-grossvenediger-vorstadl-bahnhof;47.252713;12.297802;AT
+33859;Kirchberg am Wagram Bahnhof;kirchberg-am-wagram-bahnhof;48.427504;15.894294;AT
+33860;Pirtendorf Bahnhof;pirtendorf-bahnhof;47.284895;12.544692;AT
+33861;Mühldorf-Möllbrücke Bahnhof;muhldorf-mollbrucke-bahnhof;46.851402;13.36702;AT
+33862;Allerheiligen-Mürzhofen Bahnhof;allerheiligen-murzhofen-bahnhof;47.481997;15.402903;AT
+33863;Großraming Kraftwerk Bahnhof;grossraming-kraftwerk-bahnhof;47.892956;14.510766;AT
+33864;Purgstall/Erlauf Bahnhof;purgstall-erlauf-bahnhof;48.058971;15.131104;AT
+33865;Wartberg/Krems Bahnhof;wartberg-krems-bahnhof;47.989029;14.121554;AT
+33866;Wildon Bahnhof;wildon-bahnhof;46.884183;15.521;AT
+33867;Marbach bei Murau Golfplatz Bahnhof;marbach-bei-murau-golfplatz-bahnhof;47.100972;14.107408;AT
+33868;Waidhofen/Ybbs Bahnhof (Citybahn);waidhofen-ybbs-bahnhof-citybahn;47.968377;14.765984;AT
+33869;Mitterbach/Erlaufsee Bahnhof;mitterbach-erlaufsee-bahnhof;47.813091;15.296926;AT
+33870;Pfaffstätten Bahnhof;pfaffstatten-bahnhof;48.018255;16.258937;AT
+33871;Bad Vöslau Bahnhof;bad-voslau-bahnhof;47.969479;16.224077;AT
+33872;Wartberg ob der Aist Schloss Haus Bahnhof;wartberg-ob-der-aist-schloss-haus-bahnhof;48.341682;14.505375;AT
+33873;Reichraming Bahnhof;reichraming-bahnhof;47.891462;14.472651;AT
+33874;Gosdorf Bahnhof;gosdorf-bahnhof;46.724427;15.797608;AT
+33875;Möllbrücke-Sachsenburg Bahnhof;mollbrucke-sachsenburg-bahnhof;46.830795;13.368062;AT
+33876;Hengsttal Bahnhof;hengsttal-bahnhof;47.785333;15.899329;AT
+33877;Aigen-Schlägl Bahnhof;aigen-schlagl-bahnhof;48.642625;13.974946;AT
+33878;Matzen im Weinviertel Bahnhof;matzen-im-weinviertel-bahnhof;48.397393;16.70037;AT
+33879;Abschlag Bahnhof;abschlag-bahnhof;48.625214;14.846155;AT
+33880;Weißenkirchen/Wachau Bahnhof;weissenkirchen-wachau-bahnhof;48.398482;15.473227;AT
+33881;Gniebing Bahnhof;gniebing-bahnhof;46.961828;15.853168;AT
+33882;Lieboch Bahnhof;lieboch-bahnhof;46.968612;15.345322;AT
+33883;Gattendorf Bahnhof;gattendorf-bahnhof;48.010634;16.981186;AT
+33884;Rottenegg Bahnhof;rottenegg-bahnhof;48.360195;14.137548;AT
+33885;Teesdorf Bahnhof;teesdorf-bahnhof;47.942495;16.289787;AT
+33886;Ramingstein-Thomatal Bahnhof;ramingstein-thomatal-bahnhof;47.075293;13.830486;AT
+33887;Bad Gleichenberg Bahnhof;bad-gleichenberg-bahnhof;46.871438;15.903657;AT
+33888;Gutenstein Bahnhof;gutenstein-bahnhof;47.876946;15.910859;AT
+33889;Sperneck bei Eferding Bahnhof;sperneck-bei-eferding-bahnhof;48.291075;13.994136;AT
+33890;Weidach bei Vorchdorf Bahnhof;weidach-bei-vorchdorf-bahnhof;47.989767;13.9083;AT
+33891;Gstatterboden im Nationalpark Bahnhof;gstatterboden-im-nationalpark-bahnhof;47.591367;14.633568;AT
+33892;Rettenbach im Pinzgau Bahnhof;rettenbach-im-pinzgau-bahnhof;47.281512;12.449828;AT
+33893;Ternitzer Hütte Bahnhof;ternitzer-hutte-bahnhof;47.751731;15.866894;AT
+33894;Grein-Bad Kreuzen Bahnhof;grein-bad-kreuzen-bahnhof;48.220677;14.851219;AT
+33895;Summerau Bahnhof;summerau-bahnhof;48.557187;14.448598;AT
+33896;Wopfing Bahnhof;wopfing-bahnhof;47.873658;16.0768;AT
+33897;Hilm-Kematen Bahnhof;hilm-kematen-bahnhof;48.022531;14.761736;AT
+33898;Gösing an der Mariazeller Bahn Bahnhof;gosing-an-der-mariazeller-bahn-bahnhof;47.888302;15.281847;AT
+33899;Mauerkirchen Bahnhof;mauerkirchen-bahnhof;48.191436;13.128849;AT
+33900;Rosenau/Ybbs Bahnhof;rosenau-ybbs-bahnhof;48.010535;14.741788;AT
+33901;Falkenohren Bahnhof;falkenohren-bahnhof;47.98799;13.904592;AT
+33902;Vorchdorf-Eggenberg Bahnhof;vorchdorf-eggenberg-bahnhof;47.998265;13.920856;AT
+33903;Bad Pirawarth Bahnhof;bad-pirawarth-bahnhof;48.448528;16.605782;AT
+33904;Bleiburg Bahnhof;bleiburg-bahnhof;46.574231;14.786539;AT
+33905;Frojach Bahnhof;frojach-bahnhof;47.131689;14.334968;AT
+33906;Guggenbach Pulverwerksiedlung Bahnhof;guggenbach-pulverwerksiedlung-bahnhof;47.218619;15.265801;AT
+33907;Gstadt bei Waidhofen Bahnhof;gstadt-bei-waidhofen-bahnhof;47.943641;14.818786;AT
+33908;Staatz Bahnhof;staatz-bahnhof;48.699721;16.492587;AT
+33909;Herzogenburg Stadt Bahnhof;herzogenburg-stadt-bahnhof;48.284465;15.700586;AT
+33910;Niederkreuzstetten Bahnhof;niederkreuzstetten-bahnhof;48.477996;16.479821;AT
+33911;Neuhofen/Krems Bahnhof;neuhofen-krems-bahnhof;48.136032;14.238462;AT
+33912;Haslach/Mühl Bahnhof;haslach-muhl-bahnhof;48.554476;14.030893;AT
+33913;Wollsdorf/Raab Bahnhof;wollsdorf-raab-bahnhof;47.134164;15.682652;AT
+33914;Weißenbach-St. Gallen Bahnhof;weissenbach-st-gallen-bahnhof;47.714256;14.635479;AT
+33915;Tauchendorf-Haidensee Bahnhof;tauchendorf-haidensee-bahnhof;46.728186;14.236461;AT
+33916;Schleinbach Bahnhof;schleinbach-bahnhof;48.42206;16.489871;AT
+33917;Söding-Mooskirchen Bahnhof;soding-mooskirchen-bahnhof;46.996914;15.282275;AT
+33918;Lannach Bahnhof;lannach-bahnhof;46.941089;15.334353;AT
+33919;Steinklamm Bahnhof;steinklamm-bahnhof;48.05336;15.456406;AT
+33920;Walchen im Pinzgau Bahnhof;walchen-im-pinzgau-bahnhof;47.285246;12.695784;AT
+33921;Gemeinlebarn Bahnhof;gemeinlebarn-bahnhof;48.335965;15.805055;AT
+33922;Fentsch-St. Lorenzen Bahnhof;fentsch-st-lorenzen-bahnhof;47.251727;14.892957;AT
+33923;Wenns im Pinzgau Bahnhof;wenns-im-pinzgau-bahnhof;47.272203;12.354257;AT
+33924;Murau St. Egidi Bahnhof;murau-st-egidi-bahnhof;47.108181;14.18218;AT
+33925;Hofstetten-Grünau Bahnhof;hofstetten-grunau-bahnhof;48.096784;15.507883;AT
+33926;Aschach/Donau Bahnhof;aschach-donau-bahnhof;48.363273;14.014053;AT
+33927;Trautmannsdorf/Leitha Bahnhof;trautmannsdorf-leitha-bahnhof;48.024174;16.643544;AT
+33928;Maria Ellend/Donau Bahnhof;maria-ellend-donau-bahnhof;48.109737;16.68813;AT
+33929;Himberg bei Wien Bahnhof;himberg-bei-wien-bahnhof;48.082284;16.445051;AT
+33930;Eferding Gewerbegebiet Bahnhof;eferding-gewerbegebiet-bahnhof;48.302034;14.021838;AT
+33931;St. Ruprecht ob Murau Bahnhof;st-ruprecht-ob-murau-bahnhof;47.108052;14.024487;AT
+33932;Pupping Bahnhof;pupping-bahnhof;48.339245;13.998096;AT
+33933;Seyring Bahnhof;seyring-bahnhof;48.33076;16.501805;AT
+33934;Paternion-Feistritz Bahnhof;paternion-feistritz-bahnhof;46.707562;13.673747;AT
+33935;Weigelsdorf NÖ Bahnhof;weigelsdorf-no-bahnhof;47.952093;16.412807;AT
+33936;Wandritsch Bahnhof;wandritsch-bahnhof;47.110452;14.034365;AT
+33937;Frohnleiten Bahnhof;frohnleiten-bahnhof;47.266381;15.327111;AT
+33938;Gratwein-Gratkorn Bahnhof;gratwein-gratkorn-bahnhof;47.129044;15.323219;AT
+33939;Lanzendorf-Rannersdorf Bahnhof;lanzendorf-rannersdorf-bahnhof;48.113239;16.44749;AT
+33940;Unterhillinglah Bahnhof;unterhillinglah-bahnhof;48.293205;14.027984;AT
+33941;Triebendorf Bahnhof;triebendorf-bahnhof;47.128111;14.245463;AT
+33942;Gaisbach-Wartberg Bahnhof;gaisbach-wartberg-bahnhof;48.330296;14.506103;AT
+33943;Rosenbach bei Villach Bahnhof;rosenbach-bei-villach-bahnhof;46.530893;14.035472;AT
+33944;Krottendorf-Ligist Bahnhof;krottendorf-ligist-bahnhof;47.009903;15.214271;AT
+33945;Feldkirchen in Ktn Bahnhof;feldkirchen-in-ktn-bahnhof;46.721511;14.098996;AT
+33946;Scheiblingkirchen-Warth Bahnhof;scheiblingkirchen-warth-bahnhof;47.662183;16.131023;AT
+33947;Wartberg im Mürztal Bahnhof;wartberg-im-murztal-bahnhof;47.527277;15.483084;AT
+33948;Pillichsdorf Bahnhof;pillichsdorf-bahnhof;48.361664;16.538843;AT
+33949;Mariazell Bahnhof;mariazell-bahnhof;47.783083;15.307552;AT
+33950;Oisnitz-St. Josef Bahnhof;oisnitz-st-josef-bahnhof;46.915586;15.354393;AT
+33951;Sautern-Schiltern Bahnhof;sautern-schiltern-bahnhof;47.707427;16.156261;AT
+33952;Puchenstuben Bahnhof;puchenstuben-bahnhof;47.930592;15.290471;AT
+33953;Waidhofen/Ybbs Bahnhof;waidhofen-ybbs-bahnhof;47.96814;14.765341;AT
+33954;Berndorf/Triesting Stadt Bahnhof;berndorf-triesting-stadt-bahnhof;47.944822;16.108686;AT
+33955;Urschendorf am Steinfeld Bahnhof;urschendorf-am-steinfeld-bahnhof;47.797383;16.089837;AT
+33956;Kammern im Liesingtal Bahnhof;kammern-im-liesingtal-bahnhof;47.389901;14.903597;AT
+33957;Gussendorf Bahnhof;gussendorf-bahnhof;46.829638;15.348556;AT
+33958;Traisen Bahnhof;traisen-bahnhof;48.056846;15.612428;AT
+33959;Zwettl NÖ Museumsbahnhof;zwettl-no-museumsbahnhof;48.610068;15.167654;AT
+33960;Katsdorf Bahnhof;katsdorf-bahnhof;48.31211;14.490214;AT
+33961;Eis-Ruden Bahnhof;eis-ruden-bahnhof;46.662785;14.825236;AT
+33962;Waidhofen/Ybbs Schillerpark Bahnhof;waidhofen-ybbs-schillerpark-bahnhof;47.95742;14.773526;AT
+33963;Guntramsdorf Kaiserau Bahnhof;guntramsdorf-kaiserau-bahnhof;48.044317;16.325103;AT
+33964;Gleisdorf West Bahnhof;gleisdorf-west-bahnhof;47.105442;15.703395;AT
+33965;Deutschfeistritz Bahnhof;deutschfeistritz-bahnhof;47.199604;15.335621;AT
+33966;Prenning Viertler Bahnhof;prenning-viertler-bahnhof;47.209788;15.316413;AT
+33967;Preblau-Sauerbrunn Bahnhof;preblau-sauerbrunn-bahnhof;46.931391;14.826064;AT
+33968;Studenzen-Fladnitz Bahnhof;studenzen-fladnitz-bahnhof;46.998822;15.774868;AT
+33969;Etsdorf-Straß Bahnhof;etsdorf-strass-bahnhof;48.453086;15.730331;AT
+33970;Maria Anzbach Bahnhof;maria-anzbach-bahnhof;48.187974;15.934734;AT
+33971;Ulrichskirchen Bahnhof;ulrichskirchen-bahnhof;48.402082;16.488124;AT
+33972;Glinzendorf Bahnhof;glinzendorf-bahnhof;48.242102;16.639491;AT
+33973;Markt Piesting Harzwerk Bahnhof;markt-piesting-harzwerk-bahnhof;47.876489;16.136226;AT
+33974;Kastenreith Bahnhof;kastenreith-bahnhof;47.850733;14.63802;AT
+33975;Wiesenfeld-Schwarzenbach Bahnhof;wiesenfeld-schwarzenbach-bahnhof;48.051283;15.648588;AT
+33976;Schurrerprambach Bahnhof;schurrerprambach-bahnhof;48.342442;13.870379;AT
+33977;Stuhlfelden Bahnhof;stuhlfelden-bahnhof;47.285766;12.526697;AT
+33978;Einach Bahnhof;einach-bahnhof;47.08388;13.940783;AT
+33979;Ternitz Bahnhof;ternitz-bahnhof;47.713525;16.033207;AT
+33980;Prattsdorf-Dachsberg Bahnhof;prattsdorf-dachsberg-bahnhof;48.315131;13.929034;AT
+33981;Küpfern Bahnhof;kupfern-bahnhof;47.858261;14.610857;AT
+33982;Petzenkirchen Bahnhof;petzenkirchen-bahnhof;48.143478;15.156965;AT
+33983;Trumau Bahnhof;trumau-bahnhof;47.9925;16.332282;AT
+33984;Saurau Bahnhof;saurau-bahnhof;47.131295;14.281087;AT
+33985;Pram-Haag Bahnhof;pram-haag-bahnhof;48.231743;13.617074;AT
+33986;Ollersbach Bahnhof;ollersbach-bahnhof;48.191608;15.848111;AT
+33987;Deutschkreutz Bahnhof;deutschkreutz-bahnhof;47.603867;16.619682;AT
+33988;Schildberg bei Böheimkirchen Bahnhof;schildberg-bei-boheimkirchen-bahnhof;48.219435;15.739604;AT
+33989;Loich Bahnhof;loich-bahnhof;48.012;15.391926;AT
+33990;Wolfsberg in Ktn Bahnhof;wolfsberg-in-ktn-bahnhof;46.842629;14.838417;AT
+33991;Gänserndorf Bahnhof;ganserndorf-bahnhof;48.340305;16.732743;AT
+33992;Gumpoldskirchen Bahnhof;gumpoldskirchen-bahnhof;48.040959;16.284944;AT
+33993;Möllersdorf Aspangbahn Bahnhof;mollersdorf-aspangbahn-bahnhof;48.02901;16.312557;AT
+33994;Dürnberg bei Ottensheim Bahnhof;durnberg-bei-ottensheim-bahnhof;48.331482;14.192348;AT
+33995;Steinbachbrücke Bahnhof;steinbachbrucke-bahnhof;47.932359;13.993096;AT
+33996;Stübing Bahnhof;stubing-bahnhof;47.177548;15.32245;AT
+33997;Fels am Wagram Bahnhof;fels-am-wagram-bahnhof;48.429;15.822857;AT
+33998;Waizenkirchen Hochscharten Bahnhof;waizenkirchen-hochscharten-bahnhof;48.334079;13.85978;AT
+33999;Brunn/Pitten Bahnhof;brunn-pitten-bahnhof;47.72255;16.188288;AT
+34000;Stöttham im Attergau Bahnhof;stottham-im-attergau-bahnhof;47.925725;13.508607;AT
+34001;Kirnberg bei Eferding Bahnhof;kirnberg-bei-eferding-bahnhof;48.297556;13.96883;AT
+34002;Wilhelmsburg/Traisen Bahnhof;wilhelmsburg-traisen-bahnhof;48.111425;15.608381;AT
+34003;Emmersdorf im Gailtal Bahnhof;emmersdorf-im-gailtal-bahnhof;46.595308;13.572663;AT
+34004;Oberland OÖ Bahnhof;oberland-oo-bahnhof;47.902313;14.744844;AT
+34005;Saxen Bahnhof;saxen-bahnhof;48.205412;14.789492;AT
+34006;Weitersfeld/Mur Bahnhof;weitersfeld-mur-bahnhof;46.714669;15.71975;AT
+34007;Prenning Bahnhof;prenning-bahnhof;47.212925;15.308213;AT
+34008;Angern/March Bahnhof;angern-march-bahnhof;48.384376;16.825914;AT
+34009;Hainburg/Donau Kulturfabrik Bahnhof;hainburg-donau-kulturfabrik-bahnhof;48.144843;16.932206;AT
+34010;Johnsbach im Nationalpark Bahnhof;johnsbach-im-nationalpark-bahnhof;47.582407;14.595883;AT
+34011;Habachtal-Weyerhof Bahnhof;habachtal-weyerhof-bahnhof;47.256831;12.316286;AT
+34012;Kreischberg Talstation Bahnhof;kreischberg-talstation-bahnhof;47.101941;14.087318;AT
+34013;Neufelden Bahnhof;neufelden-bahnhof;48.483707;14.005066;AT
+34014;Maria Lanzendorf Bahnhof;maria-lanzendorf-bahnhof;48.102434;16.419649;AT
+34015;Deutsch Wagram Bahnhof;deutsch-wagram-bahnhof;48.303015;16.564101;AT
+34016;Hainburg/Donau Ungartor Bahnhof;hainburg-donau-ungartor-bahnhof;48.148325;16.948062;AT
+34017;Wettmannstätten Bahnhof;wettmannstatten-bahnhof;46.83744;15.381017;AT
+34018;Wackersbach Bahnhof;wackersbach-bahnhof;48.29639;13.979522;AT
+34019;St. Wolfgang im Salzk. Schafbergbf;st-wolfgang-im-salzk-schafbergbf;47.739662;13.439756;AT
+34020;Mariahof-St. Lambrecht Bahnhof;mariahof-st-lambrecht-bahnhof;47.104258;14.374221;AT
+34021;Oberweiden Bahnhof;oberweiden-bahnhof;48.306401;16.833581;AT
+34022;Altnagelberg Fa Ergo Bahnhof;altnagelberg-fa-ergo-bahnhof;48.851522;14.9991;AT
+34023;Weinburg/Pielach Bahnhof;weinburg-pielach-bahnhof;48.112588;15.535311;AT
+34024;Kapellerfeld Bahnhof;kapellerfeld-bahnhof;48.316827;16.495079;AT
+34025;Obersdorf NÖ (Bahnsteig 3);obersdorf-no-bahnsteig-3;48.362396;16.517598;AT
+34026;Frauental-Bad Gams Bahnhof;frauental-bad-gams-bahnhof;46.823837;15.2553;AT
+34027;Lacken im Mühlkreis Bahnhof;lacken-im-muhlkreis-bahnhof;48.385861;14.091409;AT
+34028;Weikendorf-Dörfles Bahnhof;weikendorf-dorfles-bahnhof;48.349493;16.758909;AT
+34029;Neulengbach Bahnhof;neulengbach-bahnhof;48.19945;15.892651;AT
+34030;Bad Erlach Bahnhof;bad-erlach-bahnhof;47.732041;16.211851;AT
+34031;Münchendorf Bahnhof;munchendorf-bahnhof;48.03248;16.38629;AT
+34032;Tallesbrunn Bahnhof;tallesbrunn-bahnhof;48.363634;16.786196;AT
+34033;Krummnußbaum an der Westbahn Bahnhof;krummnussbaum-an-der-westbahn-bahnhof;48.207821;15.1598;AT
+34034;Steinschal-Tradigist Bahnhof;steinschal-tradigist-bahnhof;48.041;15.451914;AT
+34035;Oberpiesting Bahnhof;oberpiesting-bahnhof;47.874474;16.097175;AT
+34036;Steinach im Pinzgau Bahnhof;steinach-im-pinzgau-bahnhof;47.267363;12.337874;AT
+34037;Pfennigbach bei Puchberg Bahnhof;pfennigbach-bei-puchberg-bahnhof;47.795698;15.923865;AT
+34038;Brand bei Litschau Bahnhof;brand-bei-litschau-bahnhof;48.860845;15.01741;AT
+34039;Langegg bei Schrems Bahnhof;langegg-bei-schrems-bahnhof;48.836022;15.051738;AT
+34040;Hirschwang an der Rax Bahnhof;hirschwang-an-der-rax-bahnhof;47.7081;15.812723;AT
+34041;Hintering Bahnhof;hintering-bahnhof;47.072247;13.864939;AT
+34042;Waidhofen/Ybbs Stadt Bahnhof;waidhofen-ybbs-stadt-bahnhof;47.958395;14.767764;AT
+34043;Bad Radkersburg Bahnhof;bad-radkersburg-bahnhof;46.699106;15.993649;AT
+34044;Dorf im Pinzgau-Pass Thurn Bahnhof;dorf-im-pinzgau-pass-thurn-bahnhof;47.27727;12.388484;AT
+34045;Edlitz-Grimmenstein Bahnhof;edlitz-grimmenstein-bahnhof;47.616918;16.127857;AT
+34046;Klangen Bahnhof;klangen-bahnhof;48.120088;15.541147;AT
+34047;Grafenstein Bahnhof;grafenstein-bahnhof;46.618943;14.459582;AT
+34048;Madling Bahnhof;madling-bahnhof;47.075992;13.821814;AT
+34049;Oedt bei Feldbach Siedlung Bahnhof;oedt-bei-feldbach-siedlung-bahnhof;46.941298;15.87964;AT
+34278;Salzburg Airport;salzburg-airport;47.7924841;12.9955638;AT
+34304;Hallstatt Bahnhof;hallstatt-bahnhof;47.567702;13.662091;AT
+34305;Muckendorf-Wipfing Bahnhof;muckendorf-wipfing-bahnhof;48.328297;16.150039;AT
+34306;Marchtrenk Bahnhof;marchtrenk-bahnhof;48.201126;14.099767;AT
+34307;Küb Bahnhof;kub-bahnhof;47.681479;15.876518;AT
+34308;Fürth-Kaprun Bahnhof;furth-kaprun-bahnhof;47.287897;12.745173;AT
+34309;Unterloiben Bahnhof;unterloiben-bahnhof;48.391627;15.546652;AT
+34310;Fischamend Bahnhof;fischamend-bahnhof;48.116522;16.615204;AT
+34311;Frauenberg/Enns Bahnhof;frauenberg-enns-bahnhof;47.569987;14.398472;AT
+34312;Aich-Assach Bahnhof;aich-assach-bahnhof;47.420401;13.820756;AT
+34313;Roppen Bahnhof;roppen-bahnhof;47.2158;10.817574;AT
+34314;Ledenitzen Bahnhof;ledenitzen-bahnhof;46.557647;13.978384;AT
+34315;Pritschitz Bahnhof;pritschitz-bahnhof;46.628222;14.169987;AT
+34316;Lehen-Altensam Bahnhof;lehen-altensam-bahnhof;48.035395;13.701012;AT
+34317;Schwanberg Bahnhof;schwanberg-bahnhof;46.766104;15.239534;AT
+34318;Baumgarten-Waldbach Bahnhof;baumgarten-waldbach-bahnhof;47.926249;13.829932;AT
+34319;Sattendorf Bahnhof;sattendorf-bahnhof;46.662829;13.91646;AT
+34320;Atzenbrugg Bahnhof;atzenbrugg-bahnhof;48.296966;15.918476;AT
+34321;Michelhausen Bahnhof;michelhausen-bahnhof;48.29649;15.934079;AT
+34322;Hönigsberg Bahnhof;honigsberg-bahnhof;47.583454;15.646178;AT
+34323;Furth-Göttweig Bahnhof;furth-gottweig-bahnhof;48.373195;15.615781;AT
+34324;Katzelsdorf/Leitha Bahnhof;katzelsdorf-leitha-bahnhof;47.792823;16.266938;AT
+34325;Prambeckenhof Bahnhof;prambeckenhof-bahnhof;48.29117;13.781909;AT
+34326;Inzing/Inn Bahnhof;inzing-inn-bahnhof;47.277968;11.198682;AT
+34327;Frastanz Bahnhof;frastanz-bahnhof;47.22005;9.638994;AT
+34328;Weitwörth-Nußdorf Bahnhof;weitworth-nussdorf-bahnhof;47.924032;12.965948;AT
+34329;Schwechat Bahnhof;schwechat-bahnhof;48.143599;16.481522;AT
+34330;Greifenstein-Altenberg Bahnhof;greifenstein-altenberg-bahnhof;48.344685;16.239567;AT
+34331;Elsbethen Bahnhof;elsbethen-bahnhof;47.760929;13.080354;AT
+34332;Stiefern Bahnhof;stiefern-bahnhof;48.534844;15.691412;AT
+34333;Leogang-Steinberge Bahnhof;leogang-steinberge-bahnhof;47.444935;12.76846;AT
+34334;Redl-Zipf Bahnhof;redl-zipf-bahnhof;48.026221;13.514994;AT
+34335;Unterradlberg Bahnhof;unterradlberg-bahnhof;48.255152;15.686665;AT
+34336;Pulgarn Bahnhof;pulgarn-bahnhof;48.278328;14.393669;AT
+34337;Stein-Mautern Bahnhof;stein-mautern-bahnhof;48.3992;15.571479;AT
+34338;Aurachkirchen Bahnhof;aurachkirchen-bahnhof;47.968052;13.745383;AT
+34339;Geras-Kottaun Bahnhof;geras-kottaun-bahnhof;48.807326;15.668526;AT
+34340;Semmering Bahnhof;semmering-bahnhof;47.639704;15.831028;AT
+34341;Langwies/Traun Bahnhof;langwies-traun-bahnhof;47.756798;13.70533;AT
+34342;Unterkritzendorf Bahnhof;unterkritzendorf-bahnhof;48.324078;16.309282;AT
+34343;Görtschach-Förolach Bahnhof;gortschach-forolach-bahnhof;46.623158;13.470812;AT
+34344;Klaus/Pyhrnbahn Bahnhof;klaus-pyhrnbahn-bahnhof;47.832967;14.155091;AT
+34345;Lend/Salzach Bahnhof;lend-salzach-bahnhof;47.297499;13.055449;AT
+34346;Glandorf Bahnhof;glandorf-bahnhof;46.749927;14.381122;AT
+34347;Sulz-Röthis Bahnhof;sulz-rothis-bahnhof;47.29396;9.634672;AT
+34348;Neukirchen-Gampern Bahnhof;neukirchen-gampern-bahnhof;48.020301;13.549316;AT
+34349;Kapfenberg Bahnhof;kapfenberg-bahnhof;47.445195;15.292089;AT
+34350;Straßwalchen Bahnhof;strasswalchen-bahnhof;47.972085;13.264475;AT
+34351;Ennsdorf Bahnhof;ennsdorf-bahnhof;48.216502;14.496089;AT
+34352;Altmünster/Traunsee Bahnhof;altmunster-traunsee-bahnhof;47.891228;13.758311;AT
+34353;Suben Bahnhof;suben-bahnhof;48.402758;13.43312;AT
+34354;Ramingdorf-Haidershofen Bahnhof;ramingdorf-haidershofen-bahnhof;48.067728;14.4595;AT
+34355;Untereggendorf Bahnhof;untereggendorf-bahnhof;47.861352;16.321321;AT
+34356;Buchberg/Kamp Bahnhof;buchberg-kamp-bahnhof;48.575813;15.658781;AT
+34357;Kittsee Bahnhof;kittsee-bahnhof;48.081448;17.071456;AT
+34358;Obereggendorf Bahnhof;obereggendorf-bahnhof;47.849882;16.297223;AT
+34359;Pürgg Bahnhof;purgg-bahnhof;47.528639;14.064623;AT
+34360;Altach Bahnhof;altach-bahnhof;47.352128;9.661242;AT
+34361;Dörnbach-Hitzing Bahnhof;dornbach-hitzing-bahnhof;48.271537;14.201842;AT
+34362;Pölfing-Brunn Bahnhof;polfing-brunn-bahnhof;46.73013;15.300242;AT
+34363;Hohenau/March Bahnhof;hohenau-march-bahnhof;48.598251;16.900943;AT
+34364;Sarasdorf Bahnhof;sarasdorf-bahnhof;48.02322;16.677098;AT
+34365;Hipping Bahnhof;hipping-bahnhof;47.950666;13.472036;AT
+34366;Langenwang/Mürz Bahnhof;langenwang-murz-bahnhof;47.568134;15.613873;AT
+34367;Lind-Scheifling Bahnhof;lind-scheifling-bahnhof;47.157512;14.4032;AT
+34368;Enns Bahnhof;enns-bahnhof;48.221209;14.466744;AT
+34369;Thalheim-Pöls Bahnhof;thalheim-pols-bahnhof;47.19657;14.588583;AT
+34370;Steyregg Bahnhof;steyregg-bahnhof;48.284471;14.362286;AT
+34371;Premstätten-Tobelbad Bahnhof;premstatten-tobelbad-bahnhof;46.979127;15.390953;AT
+34372;Patsch Bahnhof;patsch-bahnhof;47.193219;11.416495;AT
+34373;Ludesch Bahnhof;ludesch-bahnhof;47.180372;9.771105;AT
+34374;Kothmühle Bahnhof;kothmuhle-bahnhof;47.886714;13.940643;AT
+34375;Neunagelberg Bahnhof;neunagelberg-bahnhof;48.821636;14.971061;AT
+34376;Eschenau/Salzach Bahnhof;eschenau-salzach-bahnhof;47.306789;13.008407;AT
+34377;Furth-Palt Bahnhof;furth-palt-bahnhof;48.384482;15.606018;AT
+34378;Schlierbach/Krems Bahnhof;schlierbach-krems-bahnhof;47.936932;14.11125;AT
+34379;Breitenschützing Bahnhof;breitenschutzing-bahnhof;48.078681;13.800821;AT
+34380;Kremsmünster Bahnhof;kremsmunster-bahnhof;48.05357;14.141353;AT
+34381;Piesendorf Bahnhof;piesendorf-bahnhof;47.290553;12.723364;AT
+34382;Abfaltersbach/Drau Bahnhof;abfaltersbach-drau-bahnhof;46.753511;12.511199;AT
+34383;Wöllersdorf/Piesting Bahnhof;wollersdorf-piesting-bahnhof;47.861526;16.177997;AT
+34384;Neumarkt-Köstendorf Bahnhof;neumarkt-kostendorf-bahnhof;47.954941;13.225079;AT
+34385;Höbersdorf Bahnhof;hobersdorf-bahnhof;48.448287;16.173101;AT
+34386;Sierndorf/March Bahnhof;sierndorf-march-bahnhof;48.511056;16.890965;AT
+34387;Oberradlberg Bahnhof;oberradlberg-bahnhof;48.2407;15.67062;AT
+34388;Launsdorf-Hochosterwitz Bahnhof;launsdorf-hochosterwitz-bahnhof;46.768884;14.455633;AT
+34389;Stallegg Bahnhof;stallegg-bahnhof;48.615388;15.643679;AT
+34390;Aurolzmünster Bahnhof;aurolzmunster-bahnhof;48.249058;13.458022;AT
+34391;Pottenbrunn Bahnhof;pottenbrunn-bahnhof;48.223664;15.701934;AT
+34392;Pottschach Bahnhof;pottschach-bahnhof;47.697128;16.006263;AT
+34393;Wolfshütte Bahnhof;wolfshutte-bahnhof;48.052933;13.681509;AT
+34394;Ostermiething Bahnhof;ostermiething-bahnhof;48.044409;12.845928;AT
+34395;Eberschwang Bahnhof;eberschwang-bahnhof;48.151799;13.536675;AT
+34396;Pöham Bahnhof;poham-bahnhof;47.430313;13.254739;AT
+34397;Kainisch Bahnhof;kainisch-bahnhof;47.570702;13.841507;AT
+34398;Töschling Bahnhof;toschling-bahnhof;46.633147;14.110413;AT
+34399;Breitwiesen Bahnhof;breitwiesen-bahnhof;48.223083;13.967823;AT
+34400;Hörsching Bahnhof;horsching-bahnhof;48.245674;14.186207;AT
+34401;Niederwölz Bahnhof;niederwolz-bahnhof;47.146206;14.375346;AT
+34402;Achleitnersiedlung Bahnhof;achleitnersiedlung-bahnhof;48.321507;14.20568;AT
+34403;Gschwandt-Rabesberg Bahnhof;gschwandt-rabesberg-bahnhof;47.931843;13.845816;AT
+34404;Eisengattern Bahnhof;eisengattern-bahnhof;47.952712;13.880464;AT
+34405;Payerbach-Reichenau Bahnhof;payerbach-reichenau-bahnhof;47.69605;15.863012;AT
+34406;Antiesenhofen Bahnhof;antiesenhofen-bahnhof;48.347362;13.402084;AT
+34407;Öblarn Bahnhof;oblarn-bahnhof;47.46069;13.987627;AT
+34408;Pfaffenschwendt Bahnhof;pfaffenschwendt-bahnhof;47.46852;12.58066;AT
+34409;Großendorf Bahnhof;grossendorf-bahnhof;48.038688;14.05565;AT
+34410;Mattersburg Bahnhof;mattersburg-bahnhof;47.735871;16.408777;AT
+34411;Dechantskirchen Bahnhof;dechantskirchen-bahnhof;47.418588;16.021935;AT
+34412;Finkenstein Bahnhof;finkenstein-bahnhof;46.568832;13.867885;AT
+34413;Ossiach-Bodensdorf Bahnhof;ossiach-bodensdorf-bahnhof;46.682586;13.974235;AT
+34414;Kematen/Krems Bahnhof;kematen-krems-bahnhof;48.112992;14.203048;AT
+34415;Roßleithen Bahnhof;rossleithen-bahnhof;47.72455;14.30864;AT
+34416;Viechtwang Bahnhof;viechtwang-bahnhof;47.915539;13.97131;AT
+34417;Zellermoos Bahnhof;zellermoos-bahnhof;47.295886;12.779207;AT
+34418;Niederfladnitz Bahnhof;niederfladnitz-bahnhof;48.793657;15.894154;AT
+34419;Niederöblarn Bahnhof;niederoblarn-bahnhof;47.481657;14.014299;AT
+34420;Frankenmarkt Bahnhof;frankenmarkt-bahnhof;47.983104;13.432615;AT
+34421;Mitterberghütten Bahnhof;mitterberghutten-bahnhof;47.395365;13.222442;AT
+34422;Niklasdorf Bahnhof;niklasdorf-bahnhof;47.393899;15.155459;AT
+34423;Gödersdorf Bahnhof;godersdorf-bahnhof;46.568386;13.846871;AT
+34424;Tainach-Stein Bahnhof;tainach-stein-bahnhof;46.616212;14.544927;AT
+34425;Hallwang-Elixhausen Bahnhof;hallwang-elixhausen-bahnhof;47.857756;13.091262;AT
+34426;Tassenbach Bahnhof;tassenbach-bahnhof;46.746805;12.465788;AT
+34427;Pernegg/Mur Bahnhof;pernegg-mur-bahnhof;47.35947;15.343008;AT
+34428;Wies-Eibiswald Bahnhof;wies-eibiswald-bahnhof;46.71842;15.259198;AT
+34429;Ulmerfeld-Hausmening Bahnhof;ulmerfeld-hausmening-bahnhof;48.074905;14.815702;AT
+34430;Wolfsbergkogel Bahnhof;wolfsbergkogel-bahnhof;47.649617;15.827104;AT
+34431;Gopperding Bahnhof;gopperding-bahnhof;48.440829;13.458418;AT
+34432;Perchtoldsdorf Bahnhof;perchtoldsdorf-bahnhof;48.122709;16.285624;AT
+34433;Lauterach Bahnhof;lauterach-bahnhof;47.477415;9.724276;AT
+34434;Rabensburg Bahnhof;rabensburg-bahnhof;48.651917;16.894669;AT
+34435;Scharnstein-Mühldorf Bahnhof;scharnstein-muhldorf-bahnhof;47.900604;13.958927;AT
+34436;Imsterberg Bahnhof;imsterberg-bahnhof;47.211217;10.706024;AT
+34437;Finklham Bahnhof;finklham-bahnhof;48.247299;13.974985;AT
+34438;Pusarnitz Bahnhof;pusarnitz-bahnhof;46.835161;13.404629;AT
+34439;Traunkirchen Bahnhof;traunkirchen-bahnhof;47.855199;13.777138;AT
+34440;Oberolberndorf Bahnhof;oberolberndorf-bahnhof;48.41361;16.174229;AT
+34441;Feuerwerksanstalt Bahnhof;feuerwerksanstalt-bahnhof;47.848838;16.18932;AT
+34442;Tauchen-Schaueregg Bahnhof;tauchen-schaueregg-bahnhof;47.48284;16.054777;AT
+34443;Stein/Enns Bahnhof;stein-enns-bahnhof;47.437321;13.941859;AT
+34444;Peterskirchen Bahnhof;peterskirchen-bahnhof;48.23388;13.549384;AT
+34445;Neufeld/Leitha Bahnhof;neufeld-leitha-bahnhof;47.868469;16.381268;AT
+34446;Langenzersdorf Bahnhof;langenzersdorf-bahnhof;48.306352;16.356115;AT
+34447;Stams Bahnhof;stams-bahnhof;47.281896;10.979897;AT
+34448;Mittlern Bahnhof;mittlern-bahnhof;46.604469;14.709403;AT
+34449;Timelkam Bahnhof;timelkam-bahnhof;48.007973;13.595762;AT
+34450;Eben/Achensee Bahnhof;eben-achensee-bahnhof;47.414113;11.763325;AT
+34451;Mandling/Enns Bahnhof;mandling-enns-bahnhof;47.404178;13.568215;AT
+34452;Mining Bahnhof;mining-bahnhof;48.271312;13.17127;AT
+34453;Zell/Pram Bahnhof;zell-pram-bahnhof;48.317269;13.62406;AT
+34454;Siggerwiesen Bahnhof;siggerwiesen-bahnhof;47.863208;13.005431;AT
+34455;Zellerndorf Bahnhof;zellerndorf-bahnhof;48.695201;15.968315;AT
+34456;Oberthalheim-Timelkam Bahnhof;oberthalheim-timelkam-bahnhof;48.001834;13.623754;AT
+34457;Nüziders Bahnhof;nuziders-bahnhof;47.17146;9.792709;AT
+34458;Acharting Bahnhof;acharting-bahnhof;47.891068;12.992609;AT
+34459;Ernsthofen Bahnhof;ernsthofen-bahnhof;48.126554;14.480016;AT
+34460;Ziegelhaiden Bahnhof;ziegelhaiden-bahnhof;47.953614;12.942439;AT
+34461;Kraubath/Mur Bahnhof;kraubath-mur-bahnhof;47.306004;14.945529;AT
+34462;Zeltweg Bahnhof;zeltweg-bahnhof;47.189641;14.74794;AT
+34463;Dürnstein-Oberloiben Bahnhof;durnstein-oberloiben-bahnhof;48.393274;15.525356;AT
+34464;Nettingsdorf Bahnhof;nettingsdorf-bahnhof;48.189525;14.258532;AT
+34465;Unterpurkersdorf Bahnhof;unterpurkersdorf-bahnhof;48.207535;16.189195;AT
+34466;Zeiselmauer-Königstetten Bahnhof;zeiselmauer-konigstetten-bahnhof;48.326636;16.174989;AT
+34467;Gagering Bahnhof;gagering-bahnhof;47.362862;11.851849;AT
+34468;Altweitra Bahnhof;altweitra-bahnhof;48.722499;14.904782;AT
+34469;Kalköfen-Dachsberg Bahnhof;kalkofen-dachsberg-bahnhof;48.273264;13.987259;AT
+34470;Nußbach Bahnhof;nussbach-bahnhof;47.972076;14.123037;AT
+34471;Walsberg Bahnhof;walsberg-bahnhof;47.95668;13.472676;AT
+34472;Siebenmühlen-Rosenau Bahnhof;siebenmuhlen-rosenau-bahnhof;47.959457;13.605732;AT
+34473;Lind-Rosegg Bahnhof;lind-rosegg-bahnhof;46.605883;14.000066;AT
+34474;Garsten Bahnhof;garsten-bahnhof;48.023753;14.40832;AT
+34475;Eugendorf Bahnhof;eugendorf-bahnhof;47.873475;13.11698;AT
+34476;Rufling Bahnhof;rufling-bahnhof;48.273144;14.21917;AT
+34477;Jois Bahnhof;jois-bahnhof;47.95666;16.790722;AT
+34478;Schauersberg Bahnhof;schauersberg-bahnhof;48.135934;14.008684;AT
+34479;Wilfleinsdorf Bahnhof;wilfleinsdorf-bahnhof;48.02197;16.719548;AT
+34480;Rotholz Bahnhof;rotholz-bahnhof;47.390908;11.800965;AT
+34481;Prinzersdorf Bahnhof;prinzersdorf-bahnhof;48.203095;15.526097;AT
+34482;Traxenbichl Bahnhof;traxenbichl-bahnhof;47.877236;13.938335;AT
+34483;Vellach-Khünburg Bahnhof;vellach-khunburg-bahnhof;46.631229;13.408146;AT
+34484;Bludenz-Moos Bahnhof;bludenz-moos-bahnhof;47.142241;9.830983;AT
+34485;Ansfelden Bahnhof;ansfelden-bahnhof;48.208904;14.2611;AT
+34486;Judendorf-Straßengel Bahnhof;judendorf-strassengel-bahnhof;47.11845;15.343931;AT
+34487;Mannswörth Bahnhof;mannsworth-bahnhof;48.136512;16.507461;AT
+34488;Grimsing Bahnhof;grimsing-bahnhof;48.263121;15.364704;AT
+34489;Kumpfmühl Bahnhof;kumpfmuhl-bahnhof;48.269377;13.620308;AT
+34490;Gunskirchen Bahnhof;gunskirchen-bahnhof;48.132128;13.945415;AT
+34491;Friedburg Bahnhof;friedburg-bahnhof;47.997019;13.234218;AT
+34492;Haiming Bahnhof;haiming-bahnhof;47.253424;10.890363;AT
+34493;Lanzenkirchen Bahnhof;lanzenkirchen-bahnhof;47.750674;16.24225;AT
+34494;Kamegg Bahnhof;kamegg-bahnhof;48.610135;15.657556;AT
+34495;Tenneck Bahnhof;tenneck-bahnhof;47.494281;13.178908;AT
+34496;Kritzendorf Bahnhof;kritzendorf-bahnhof;48.336066;16.29897;AT
+34497;Dölsach Bahnhof;dolsach-bahnhof;46.814804;12.833566;AT
+34498;Schwanenstadt Bahnhof;schwanenstadt-bahnhof;48.05409;13.768095;AT
+34499;Parndorf Bahnhof;parndorf-bahnhof;47.986945;16.870972;AT
+34500;Thurnharting Bahnhof;thurnharting-bahnhof;48.269322;14.185761;AT
+34501;Neuhub Bahnhof;neuhub-bahnhof;47.940677;13.859958;AT
+34502;Hetzmannsdorf-Wullersdorf Bahnhof;hetzmannsdorf-wullersdorf-bahnhof;48.616979;16.091701;AT
+34503;Pinsdorf Bahnhof;pinsdorf-bahnhof;47.933223;13.766135;AT
+34504;Haiding Bahnhof;haiding-bahnhof;48.209821;13.974765;AT
+34505;Maurach/Achensee Bahnhof;maurach-achensee-bahnhof;47.421803;11.75377;AT
+34506;Wallersee Bahnhof;wallersee-bahnhof;47.919196;13.159291;AT
+34507;Fürnitz Bahnhof;furnitz-bahnhof;46.563167;13.813637;AT
+34508;Brunn/Schneebergbahn Bahnhof;brunn-schneebergbahn-bahnhof;47.825601;16.157291;AT
+34509;Viehofen Bahnhof;viehofen-bahnhof;48.230757;15.652894;AT
+34510;Hollenegg Bahnhof;hollenegg-bahnhof;46.785842;15.235664;AT
+34511;Thörl-Maglern Bahnhof;thorl-maglern-bahnhof;46.540334;13.64831;AT
+34512;Mitterweißenbach Bahnhof;mitterweissenbach-bahnhof;47.738805;13.66333;AT
+34513;Völs Bahnhof;vols-bahnhof;47.25577;11.32124;AT
+34514;Liebenfels Bahnhof;liebenfels-bahnhof;46.73641;14.2931;AT
+34515;Plank/Kamp Bahnhof;plank-kamp-bahnhof;48.557797;15.673307;AT
+34516;Greinsfurth Bahnhof;greinsfurth-bahnhof;48.10796;14.83853;AT
+34517;Micheldorf-Hirt Bahnhof;micheldorf-hirt-bahnhof;46.914323;14.43151;AT
+34518;Pfarrwerfen Bahnhof;pfarrwerfen-bahnhof;47.461417;13.199696;AT
+34519;Lorüns Bahnhof;loruns-bahnhof;47.130681;9.853707;AT
+34520;Sigmundsherberg Bahnhof;sigmundsherberg-bahnhof;48.685701;15.745015;AT
+34521;Nikolsdorf Bahnhof;nikolsdorf-bahnhof;46.779189;12.895048;AT
+34522;Lengau Bahnhof;lengau-bahnhof;48.008487;13.219762;AT
+34523;Wampersdorf Bahnhof;wampersdorf-bahnhof;47.930663;16.416922;AT
+34524;Grieswirt Bahnhof;grieswirt-bahnhof;47.509438;12.467862;AT
+34525;Höflein/Donau Bahnhof;hoflein-donau-bahnhof;48.35006;16.271811;AT
+34526;Gedersdorf Bahnhof;gedersdorf-bahnhof;48.43191;15.69034;AT
+34527;Oberalm Bahnhof;oberalm-bahnhof;47.699821;13.093227;AT
+34528;Wolfsthal Bahnhof;wolfsthal-bahnhof;48.135556;17.006171;AT
+34529;Mühlheim/Inn Bahnhof;muhlheim-inn-bahnhof;48.269703;13.220934;AT
+34530;Bisamberg Bahnhof;bisamberg-bahnhof;48.316323;16.347268;AT
+34531;Kledt Bahnhof;kledt-bahnhof;48.273891;13.739562;AT
+34532;Wolfurt Bahnhof;wolfurt-bahnhof;47.457116;9.741032;AT
+34533;Pottendorf-Landegg Bahnhof;pottendorf-landegg-bahnhof;47.905388;16.396201;AT
+34534;Muntigl Bahnhof;muntigl-bahnhof;47.853121;13.005629;AT
+34535;Mauer-Öhling Bahnhof;mauer-ohling-bahnhof;48.094358;14.798849;AT
+34536;Voitsdorf Bahnhof;voitsdorf-bahnhof;48.012425;14.047052;AT
+34538;Stadl-Paura Bahnhof;stadl-paura-bahnhof;48.08444;13.883324;AT
+34539;Paudorf Bahnhof;paudorf-bahnhof;48.35177;15.61571;AT
+34540;Jedenspeigen Bahnhof;jedenspeigen-bahnhof;48.495033;16.878285;AT
+34541;Hart-Wörth Bahnhof;hart-worth-bahnhof;48.147393;15.614174;AT
+34542;Flaurling Bahnhof;flaurling-bahnhof;47.288984;11.143075;AT
+34543;Feldkirchen-Seiersberg Bahnhof;feldkirchen-seiersberg-bahnhof;47.012604;15.440478;AT
+34544;Unterberg-Stefansbrücke Bahnhof;unterberg-stefansbrucke-bahnhof;47.214147;11.391811;AT
+34545;Eiferding Bahnhof;eiferding-bahnhof;48.01475;12.863784;AT
+34546;Böckstein Bahnhof;bockstein-bahnhof;47.080574;13.130438;AT
+34547;Hüttau Bahnhof;huttau-bahnhof;47.41565;13.320624;AT
+34548;Loipersbach-Schattendorf Bahnhof;loipersbach-schattendorf-bahnhof;47.70072;16.491863;AT
+34549;Angererbach-Ahrnbach Bahnhof;angererbach-ahrnbach-bahnhof;47.277001;11.886713;AT
+34550;Steyrling Bahnhof;steyrling-bahnhof;47.801662;14.163675;AT
+34551;Puchenau Bahnhof;puchenau-bahnhof;48.311638;14.238393;AT
+34552;Oberfalkenstein Bahnhof;oberfalkenstein-bahnhof;46.925894;13.237382;AT
+34553;Emmersdorf/Donau Bahnhof;emmersdorf-donau-bahnhof;48.243059;15.337646;AT
+34554;Steeg-Gosau Bahnhof;steeg-gosau-bahnhof;47.616158;13.632024;AT
+34555;Hochzirl Bahnhof;hochzirl-bahnhof;47.280982;11.249692;AT
+34556;Autal Bahnhof;autal-bahnhof;47.056999;15.53005;AT
+34557;Pruggern Bahnhof;pruggern-bahnhof;47.423357;13.874819;AT
+34558;Weitlanbrunn Bahnhof;weitlanbrunn-bahnhof;46.743055;12.390371;AT
+34559;Neuhaus/Gail Bahnhof;neuhaus-gail-bahnhof;46.55508;13.780117;AT
+34560;Straßhof/Aschach Bahnhof;strasshof-aschach-bahnhof;48.27738;13.753127;AT
+34561;Zirl Bahnhof;zirl-bahnhof;47.265873;11.229909;AT
+34562;Ardning Bahnhof;ardning-bahnhof;47.590573;14.358853;AT
+34563;Oberaschach Bahnhof;oberaschach-bahnhof;48.279158;13.758227;AT
+34564;Teichstätt Bahnhof;teichstatt-bahnhof;48.019843;13.21295;AT
+34565;Geinberg Bahnhof;geinberg-bahnhof;48.266316;13.291179;AT
+34566;Pöckau Bahnhof;pockau-bahnhof;46.551856;13.746498;AT
+34567;Herzograd Bahnhof;herzograd-bahnhof;48.161382;14.503487;AT
+34568;Breitenwaida Bahnhof;breitenwaida-bahnhof;48.51493;16.07488;AT
+34569;Marz-Rohrbach Bahnhof;marz-rohrbach-bahnhof;47.717616;16.428752;AT
+34570;Rosenburg/Kamp Bahnhof;rosenburg-kamp-bahnhof;48.628418;15.643509;AT
+34571;Moosbierbaum-Heiligeneich Bahnhof;moosbierbaum-heiligeneich-bahnhof;48.305866;15.901275;AT
+34572;Spillern Bahnhof;spillern-bahnhof;48.375812;16.256682;AT
+34573;Föderlach Bahnhof;foderlach-bahnhof;46.602112;13.958998;AT
+34574;Theresienfeld Bahnhof;theresienfeld-bahnhof;47.860715;16.244038;AT
+34575;Zurndorf Bahnhof;zurndorf-bahnhof;47.968135;17.023773;AT
+34576;Lochau-Hörbranz Bahnhof;lochau-horbranz-bahnhof;47.529533;9.74237;AT
+34577;Unterretzbach Bahnhof;unterretzbach-bahnhof;48.764345;16.007537;AT
+34578;Kimpling Bahnhof;kimpling-bahnhof;48.266601;13.669759;AT
+34579;Anthering Bahnhof;anthering-bahnhof;47.879224;13.000888;AT
+34580;Langenlebarn Bahnhof;langenlebarn-bahnhof;48.327521;16.121748;AT
+34581;Dorf/Enns Bahnhof;dorf-enns-bahnhof;48.091446;14.473089;AT
+34582;Zehmemoos Bahnhof;zehmemoos-bahnhof;47.989449;12.937195;AT
+34583;Waldl Bahnhof;waldl-bahnhof;48.027893;13.907688;AT
+34584;Diepoltsdorf Bahnhof;diepoltsdorf-bahnhof;48.035197;12.861088;AT
+34585;Burgeck Bahnhof;burgeck-bahnhof;47.397848;11.775754;AT
+34633;Wien Speising Bahnhof;wien-speising-bahnhof;48.173607;16.283635;AT
+34634;Wien Spittelau Bahnhof;wien-spittelau-bahnhof;48.235318;16.35807;AT
+34635;Wien Geiselbergstraße Bahnhof;wien-geiselbergstrasse-bahnhof;48.175585;16.407152;AT
+34636;Wien Brünner Straße Bahnhof;wien-brunner-strasse-bahnhof;48.267789;16.403586;AT
+34637;Wien Atzgersdorf Bahnhof;wien-atzgersdorf-bahnhof;48.146952;16.288575;AT
+34638;Wien Traisengasse Bahnhof;wien-traisengasse-bahnhof;48.234785;16.383376;AT
+34639;Wien Hadersdorf Bahnhof;wien-hadersdorf-bahnhof;48.210365;16.223315;AT
+34640;Wien Stadlau Bahnhof;wien-stadlau-bahnhof;48.219193;16.448405;AT
+34641;Wien Hetzendorf Bahnhof;wien-hetzendorf-bahnhof;48.166688;16.315267;AT
+34642;Wien St. Marx Bahnhof;wien-st-marx-bahnhof;48.188469;16.398581;AT
+34643;Wien Simmering Bahnhof;wien-simmering-bahnhof;48.169878;16.41933;AT
+34644;Wien Grillgasse Bahnhof;wien-grillgasse-bahnhof;48.167204;16.406961;AT
+34645;Wien Praterkai Bahnhof;wien-praterkai-bahnhof;48.199501;16.441035;AT
+34646;Wien Weidlingau Bahnhof;wien-weidlingau-bahnhof;48.210444;16.211929;AT
+34647;Wien Leopoldau Bahnhof;wien-leopoldau-bahnhof;48.277312;16.44833;AT
+34648;Wien Nußdorf Bahnhof;wien-nussdorf-bahnhof;48.260666;16.367607;AT
+34649;Wien Jedlersdorf Bahnhof;wien-jedlersdorf-bahnhof;48.273854;16.396143;AT
+34650;Wien Siemensstraße Bahnhof;wien-siemensstrasse-bahnhof;48.270747;16.420203;AT
+34651;Wien Haidestraße Bahnhof;wien-haidestrasse-bahnhof;48.178744;16.426205;AT
+34652;Wien Süßenbrunn Bahnhof;wien-sussenbrunn-bahnhof;48.285559;16.485456;AT
+34653;Wien Hausfeldstraße Bahnhof;wien-hausfeldstrasse-bahnhof;48.233696;16.485583;AT
+34654;Wien Wolf in der Au Bahnhof;wien-wolf-in-der-au-bahnhof;48.204647;16.236409;AT
+34655;Wien Strebersdorf Bahnhof;wien-strebersdorf-bahnhof;48.28551;16.381751;AT
+34657;Wien Kaiserebersdorf Bahnhof;wien-kaiserebersdorf-bahnhof;48.145926;16.465216;AT
+34658;Wien Zentralfriedhof S-Bahn Bahnhof;wien-zentralfriedhof-s-bahn-bahnhof;48.154172;16.426137;AT
+34659;Wien Hirschstetten Bahnhof;wien-hirschstetten-bahnhof;48.232722;16.469076;AT
+35359;Klagenfurt Airport;klagenfurt-airport;46.6508772;14.3235913;AT
+35712;Parndorf;parndorf;47.9948905;16.8575696;AT
+35830;Innsbruck Airport;innsbruck-airport;47.2575301;11.3509844;AT
+35832;Linz Airport;linz-airport;48.2399371;14.1879109;AT
+35914;Obertauern;obertauern;47.2482547;13.5586251;AT
+35924;Wolfsberg;wolfsberg;46.8414796;14.83925;AT
+35927;Lofer;lofer;47.5873661;12.6958921;AT
+38107;St. Andrä-Wördern;st-andra-wordern;48.333936;16.209135;AT
+38542;Graz Liebenau Murpark Bahnhof;graz-liebenau-murpark-bahnhof;47.0400540000;15.4626834000;AT
+38543;Graz Don Bosco Bahnhof;graz-don-bosco-bahnhof;47.0580311000;15.4190412000;AT
+38694;Wien Handelskai (Bahnsteige 11-12);wien-handelskai-bahnsteige-11-12;;;AT
+39241;Blindenmarkt;blindenmarkt;48.125063;14.979579;AT
+39242;Gries im Pinzgau;gries-im-pinzgau;47.288042;12.890459;AT
+39243;Wien Blumental;wien-blumental;48.139455;16.369455;AT
+39244;Stadt Haag;stadt-haag;48.115679;14.565779;AT
+39245;Rottenmann Landeskrankenhaus;rottenmann-landeskrankenhaus;47.525878;14.367279;AT
+39263;Götzendorf/Leitha;gotzendorf-leitha;48.025706;16.586338;AT
+39264;Gattendorf;gattendorf;48.010595;16.980973;AT
+39265;Gramatneusiedl;gramatneusiedl;48.035396;16.490738;AT
+39266;Kittsee;kittsee;48.081565;17.071594;AT
+39267;Loipersbach-Schattendorf;loipersbach-schattendorf;47.700791;16.49178;AT
+39268;Marz-Rohrbach;marz-rohrbach;47.717555;16.428829;AT
+39269;Neufeld/Leitha;neufeld-leitha;47.868197;16.381366;AT
+39270;St. Andrä im Lavanttal;st-andra-im-lavanttal;46.762775;14.841658;AT
+39271;Pama;pama;48.042057;17.041417;AT
+39272;Gutenstein;gutenstein;47.876925;15.910852;AT
+39273;Deutschkreutz;deutschkreutz;47.603923;16.620317;AT
+39274;Laa/Thaya;laa-thaya;48.723781;16.402634;AT
+39275;Puchberg am Schneeberg;puchberg-am-schneeberg;47.790485;15.91034;AT
+39276;Tassenbach;tassenbach;46.746909;12.466087;AT
+39277;Thörl-Maglern;thorl-maglern;46.540274;13.64807;AT
+39278;Weitlanbrunn;weitlanbrunn;46.742963;12.389553;AT
+39279;Wöllersdorf/Piesting;wollersdorf-piesting;47.861284;16.178506;AT
+39280;Zurndorf;zurndorf;47.968058;17.024041;AT
+39281;Graz-Liebenau Murpark;graz-liebenau-murpark;47.039949;15.46283;AT
+39282;GRAZ DON BOSCO;graz-don-bosco;47.058511;15.419367;AT
+66817;Heinfels;heinfels;46.745833;12.444444;AT
+66824;St-Jodok Am Brenner;st-jodok-am-brenner;47.063333;11.499444;AT
+67319;Wien Hbf (Autoreisezuganlage);wien-hbf-autoreisezuganlage;48.177873;16.391002;AT
+67321;Alpendorf;alpendorf;47.32139;13.19361;AT
+67333;Saalbach-Hinterglemm;saalbach-hinterglemm;47.38972;12.63444;AT
+67336;Sölden;solden;46.96806;11.00778;AT
+67341;Wagrain;wagrain;47.33361;13.29556;AT
+67343;Woergl Hbf;woergl-hbf;47.49111;12.06056;AT
+67374;Kufstein Bahnhof;kufstein-bahnhof;47.582912;12.165882;AT
+67375;Haus im Ennstal Bahnhof;haus-im-ennstal-bahnhof;47.41699;13.801295;AT
+67376;Dellach im Drautal Bahnhof;dellach-im-drautal-bahnhof;46.735811;13.07531;AT
+67377;Steinfeld im Drautal Bahnhof;steinfeld-im-drautal-bahnhof;46.75258;13.259609;AT
+67378;Friedberg in Stmk Bahnhof;friedberg-in-stmk-bahnhof;47.434711;16.053936;AT
+67379;Pinggau Markt Bahnhof;pinggau-markt-bahnhof;47.440537;16.061062;AT
+67380;Schwarzenau im Waldviertel Bahnhof;schwarzenau-im-waldviertel-bahnhof;48.746271;15.267208;AT
+67381;Göpfritz an der Wild Bahnhof;gopfritz-an-der-wild-bahnhof;48.729769;15.394697;AT
+67382;Tulln/Donau Bahnhof;tulln-donau-bahnhof;48.327446;16.064563;AT
+67383;Gurten OÖ Bahnhof;gurten-oo-bahnhof;48.243832;13.334606;AT
+67384;Kaltenbrunnen im Montafon Bahnhof;kaltenbrunnen-im-montafon-bahnhof;47.085482;9.887897;AT
+67385;Stadt Rottenmann Bahnhof;stadt-rottenmann-bahnhof;47.527276;14.367096;AT
+67386;Winden am See Bahnhof;winden-am-see-bahnhof;47.946986;16.759004;AT
+67387;Neudorf bei Parndorf Bahnhst;neudorf-bei-parndorf-bahnhst;48.008853;16.938281;AT
+67388;Linz/Donau Urfahr Bahnhof;linz-donau-urfahr-bahnhof;48.312089;14.279798;AT
+67389;Breitenbrunn/Neusiedler See Bahnhof;breitenbrunn-neusiedler-see-bahnhof;47.941081;16.746226;AT
+67390;Salzburg Maria Plain-Plainbrücke Bahnhof;salzburg-maria-plain-plainbrucke-bahnhof;47.826577;13.036793;AT
+67391;Micheldorf in OÖ Bahnhof;micheldorf-in-oo-bahnhof;47.883131;14.1264;AT
+67392;Mauthausen OÖ Bahnhof;mauthausen-oo-bahnhof;48.242878;14.532721;AT
+67393;Schützen am Gebirge Bahnhof;schutzen-am-gebirge-bahnhof;47.848143;16.618961;AT
+67394;Wörschach Schwefelbad Bahnhof;worschach-schwefelbad-bahnhof;47.545512;14.139782;AT
+67395;Neusiedl am See Bad Bahnhst;neusiedl-am-see-bad-bahnhst;47.94285;16.844337;AT
+67396;Klosterneuburg Kierling Bahnhof;klosterneuburg-kierling-bahnhof;48.309807;16.326281;AT
+67397;Maria Rain in Ktn Bahnhof;maria-rain-in-ktn-bahnhof;46.563726;14.284324;AT
+67398;Bad Sauerbrunn Bahnhof;bad-sauerbrunn-bahnhof;47.774078;16.324664;AT
+67399;Neudörfl im Bgld Bahnhof;neudorfl-im-bgld-bahnhof;47.793784;16.300575;AT
+67400;St. Anton im Montafon Bahnhof;st-anton-im-montafon-bahnhof;47.1099;9.866186;AT
+67401;St. Georgen im Attergau Bahnhof;st-georgen-im-attergau-bahnhof;47.937218;13.488205;AT
+67402;St. Urban/Ossiacher See Bahnhof;st-urban-ossiacher-see-bahnhof;46.674469;13.959509;AT
+67403;Pressegger See Bahnhof;pressegger-see-bahnhof;46.631657;13.436835;AT
+67404;Au bei Bad Wimsbach Bahnhof;au-bei-bad-wimsbach-bahnhof;48.047524;13.907047;AT
+67405;Bergham bei Linz Bahnhof;bergham-bei-linz-bahnhof;48.273975;14.239817;AT
+67406;Haid bei Vöcklamarkt Bahnhof;haid-bei-vocklamarkt-bahnhof;47.988407;13.501378;AT
+67407;Kogl im Attergau Bahnhof;kogl-im-attergau-bahnhof;47.945949;13.472994;AT
+67408;Silz in Tirol Bahnhof;silz-in-tirol-bahnhof;47.270172;10.936651;AT
+67409;Bergham bei Linz Am Dürrweg Bahnhst;bergham-bei-linz-am-durrweg-bahnhst;48.274171;14.230992;AT
+67410;Altenstadt (Feldkirch) Bahnhof;altenstadt-feldkirch-bahnhof;47.256263;9.615388;AT
+67411;Bad Fischau-Brunn Bahnhof;bad-fischau-brunn-bahnhof;47.826812;16.173144;AT
+67412;Bad Fischau Bahnhof;bad-fischau-bahnhof;47.83139;16.171518;AT
+67413;Berg im Drautal Bahnhof;berg-im-drautal-bahnhof;46.742398;13.127759;AT
+67414;Blankenberg bei Vorchdorf Bahnhof;blankenberg-bei-vorchdorf-bahnhof;48.033468;13.908018;AT
+67415;Blindenmarkt bei Amstetten Bahnhof;blindenmarkt-bei-amstetten-bahnhof;48.125077;14.979603;AT
+67416;Bad Mitterndorf-Heilbrunn Bahnhof;bad-mitterndorf-heilbrunn-bahnhof;47.551079;13.925461;AT
+67417;Ried im Innkreis Bad Bahnhof;ried-im-innkreis-bad-bahnhof;48.212314;13.477582;AT
+67418;Breiteneich bei Horn Bahnhst;breiteneich-bei-horn-bahnhst;48.671979;15.688128;AT
+67419;Bruckberg im Pinzgau Bahnhof;bruckberg-im-pinzgau-bahnhof;47.297352;12.786046;AT
+67420;Breitenstein am Semmering Bahnhof;breitenstein-am-semmering-bahnhof;47.660067;15.820529;AT
+67421;Breitensee bei Marchegg Bahnhst;breitensee-bei-marchegg-bahnhst;48.254773;16.877634;AT
+67422;Bludenz Brunnenfeld-Stallehr Bahnhof;bludenz-brunnenfeld-stallehr-bahnhof;47.136298;9.838922;AT
+67423;Bichl im Zillertal Bahnhof;bichl-im-zillertal-bahnhof;47.195045;11.870564;AT
+67424;Bad Wimsbach-Neydharting Bahnhof;bad-wimsbach-neydharting-bahnhof;48.064828;13.903352;AT
+67425;Dornbirn Schoren Bahnhof;dornbirn-schoren-bahnhof;47.412994;9.726295;AT
+67426;Eichberg am Semmering Bahnhof;eichberg-am-semmering-bahnhof;47.672179;15.911097;AT
+67427;Eching bei Bürmoos Bahnhof;eching-bei-burmoos-bahnhof;47.977039;12.9088;AT
+67428;Gmunden Engelhof Bahnhof;gmunden-engelhof-bahnhof;47.92357;13.819184;AT
+67429;Erlach im Zillertal Bahnhof;erlach-im-zillertal-bahnhof;47.244861;11.895762;AT
+67430;Wien Erzherzog-Karl-Straße Bahnhst;wien-erzherzog-karl-strasse-bahnhst;48.229838;16.453234;AT
+67431;Eisenstadt Schule Bahnhof;eisenstadt-schule-bahnhof;47.843825;16.536562;AT
+67432;Feldkirch Amberg Bahnhof;feldkirch-amberg-bahnhof;47.255385;9.621365;AT
+67433;Puxerboden Bahnhst;puxerboden-bahnhst;47.131689;14.334968;AT
+67434;Linz/Donau Franckstraße Bahnhof;linz-donau-franckstrasse-bahnhof;48.285934;14.323543;AT
+67435;Waidhofen/Ybbs Pestalozzistraße Bahnhst;waidhofen-ybbs-pestalozzistrasse-bahnhst;47.949458;14.789531;AT
+67436;Gaisruck bei Stockerau Bahnhof;gaisruck-bei-stockerau-bahnhof;48.394128;16.064534;AT
+67437;Gisingen (Feldkirch) Bahnhof;gisingen-feldkirch-bahnhof;47.25542;9.597813;AT
+67438;Bad Goisern Jodschwefelbad Bahnhof;bad-goisern-jodschwefelbad-bahnhof;47.658345;13.608799;AT
+67439;Gerasdorf bei Wien Bahnhof;gerasdorf-bei-wien-bahnhof;48.293344;16.48374;AT
+67440;Gerling im Pinzgau Bahnhof;gerling-im-pinzgau-bahnhof;47.390191;12.827275;AT
+67441;Gries im Pinzgau Bahnhof;gries-im-pinzgau-bahnhof;47.288048;12.890629;AT
+67442;Hagenau bei Salzburg Bahnhof;hagenau-bei-salzburg-bahnhof;47.832373;13.029371;AT
+67443;Bruderndorf bei Langschlag Wasserstation Bahnhst;bruderndorf-bei-langschlag-wasserstation-bahnhst;48.605404;14.848709;AT
+67444;Hatlerdorf (Dornbirn) Bahnhof;hatlerdorf-dornbirn-bahnhof;47.398084;9.724884;AT
+67445;Hennersdorf bei Wien Bahnhof;hennersdorf-bei-wien-bahnhof;48.112651;16.35857;AT
+67446;Hopfgarten im Brixental Berglift Bahnhof;hopfgarten-im-brixental-berglift-bahnhof;47.446731;12.158927;AT
+67447;Hirschbach bei Gmünd Bahnhof;hirschbach-bei-gmund-bahnhof;48.749241;15.127188;AT
+67448;Hofern bei Retz Bahnhof;hofern-bei-retz-bahnhof;48.779709;15.903734;AT
+67449;Haselstauden (Dornbirn) Bahnhof;haselstauden-dornbirn-bahnhof;47.432445;9.749067;AT
+67450;Hatting in Tirol Bahnhof;hatting-in-tirol-bahnhof;47.281282;11.170706;AT
+67451;Hausleiten bei Stockerau Bahnhof;hausleiten-bei-stockerau-bahnhof;48.391351;16.10621;AT
+67452;Wien Blumental Bahnhof;wien-blumental-bahnhof;48.138749;16.369181;AT
+67453;Irschen in Ktn Bahnhof;irschen-in-ktn-bahnhof;46.740595;13.01313;AT
+67454;Itzling OÖ Bahnhof;itzling-oo-bahnhof;48.313003;13.794883;AT
+67455;Kalsdorf bei Graz Bahnhof;kalsdorf-bei-graz-bahnhof;46.964295;15.470041;AT
+67456;Kapfing im Zillertal Bahnhof;kapfing-im-zillertal-bahnhof;47.333485;11.861756;AT
+67457;Kapfenberg Fachhochschule Bahnhof;kapfenberg-fachhochschule-bahnhof;47.454689;15.329131;AT
+67458;Kematen in Tirol Bahnhof;kematen-in-tirol-bahnhof;47.261191;11.276705;AT
+67459;Kitzbühel Hahnenkamm Bahnhof;kitzbuhel-hahnenkamm-bahnhof;47.443483;12.389657;AT
+67460;Klamm-Schottwien Bahnhof;klamm-schottwien-bahnhof;47.665159;15.872418;AT
+67461;Kledering Bahnhof;kledering-bahnhof;48.133297;16.439159;AT
+67462;Klagenfurt Annabichl Bahnhof;klagenfurt-annabichl-bahnhof;46.650591;14.314959;AT
+67463;Klagenfurt Ebenthal Bahnhof;klagenfurt-ebenthal-bahnhof;46.616628;14.333468;AT
+67464;Klagenfurt Lend Bahnhof;klagenfurt-lend-bahnhof;46.621531;14.284004;AT
+67465;Klagenfurt Ostbahnhof;klagenfurt-ostbahnhof;46.62162;14.321979;AT
+67466;Klaus in Vlbg Bahnhst;klaus-in-vlbg-bahnhst;47.308579;9.624479;AT
+67467;Klosterneuburg Weidling Bahnhof;klosterneuburg-weidling-bahnhof;48.297092;16.334978;AT
+67468;Lahrndorf bei Garsten Bahnhof;lahrndorf-bei-garsten-bahnhof;47.994836;14.373813;AT
+67469;Lauffen bei Bad Ischl Bahnhof;lauffen-bei-bad-ischl-bahnhof;47.674384;13.61637;AT
+67470;Leobendorf-Burg Kreuzenstein Bahnhof;leobendorf-burg-kreuzenstein-bahnhof;48.364635;16.301858;AT
+67471;Lendorf im Drautal Bahnhof;lendorf-im-drautal-bahnhof;46.827524;13.41919;AT
+67472;Linz/Donau Ebelsberg Bahnhof;linz-donau-ebelsberg-bahnhof;48.252061;14.347174;AT
+67473;Lenzing OÖ Ort Bahnhof;lenzing-oo-ort-bahnhof;47.971687;13.606661;AT
+67474;Lenzing OÖ Bahnhof;lenzing-oo-bahnhof;47.983224;13.613629;AT
+67475;Leonding (Lokalbahn) Bahnhof;leonding-lokalbahn-bahnhof;48.274448;14.254482;AT
+67476;Loosdorf bei Melk Bahnhof;loosdorf-bei-melk-bahnhof;48.194833;15.405047;AT
+67477;Linz/Donau Oed Bahnhof;linz-donau-oed-bahnhof;48.264676;14.276544;AT
+67478;Mittlere Au OÖ Bahnhof;mittlere-au-oo-bahnhof;48.038738;13.910438;AT
+67479;Lambach Markt Bahnhof;lambach-markt-bahnhof;48.094376;13.869811;AT
+67480;Maria Saal Bahnhst;maria-saal-bahnhst;46.682761;14.339076;AT
+67481;Neukirchen bei Lambach Bahnhst;neukirchen-bei-lambach-bahnhst;48.095161;13.832725;AT
+67482;Niedernfritz-St. Martin Bahnhof;niedernfritz-st-martin-bahnhof;47.421301;13.344652;AT
+67483;Oberbrunn im Innkreis Bahnhof;oberbrunn-im-innkreis-bahnhof;48.170994;13.513224;AT
+67484;Oberhart bei Steinhaus Bahnhof;oberhart-bei-steinhaus-bahnhof;48.103986;14.039181;AT
+67485;Obertraun Koppenbrüllerhöhle Bahnhof;obertraun-koppenbrullerhohle-bahnhof;47.564333;13.720357;AT
+67486;Obersee OÖ Bahnhof;obersee-oo-bahnhof;47.591667;13.665714;AT
+67487;Obertrattnach-Markt Hofkirchen Bahnhof;obertrattnach-markt-hofkirchen-bahnhof;48.245939;13.766874;AT
+67488;Oberhofen-Zell am Moos Bahnhof;oberhofen-zell-am-moos-bahnhof;47.958902;13.301508;AT
+67489;Purkersdorf bei Wien Sanatorium Bahnhof;purkersdorf-bei-wien-sanatorium-bahnhof;48.206278;16.200442;AT
+67490;Pichl bei Schladming Bahnhof;pichl-bei-schladming-bahnhof;47.388373;13.613286;AT
+67491;Linz/Donau Pichling Bahnhof;linz-donau-pichling-bahnhof;48.24264;14.38;AT
+67492;St. Pölten Alpenbahnhof-Kaiserwald (Traisentalbahn);st-polten-alpenbahnhof-kaiserwald-traisentalbahn;48.199131;15.613818;AT
+67493;Pötting im Hausruckkreis Bahnhof;potting-im-hausruckkreis-bahnhof;48.285174;13.76789;AT
+67494;Pasching bei Linz Bahnhof;pasching-bei-linz-bahnhof;48.257281;14.208937;AT
+67495;Graz Puntigam Bahnhof;graz-puntigam-bahnhof;47.030811;15.429247;AT
+67496;Purkersdorf bei Wien Zentrum Bahnhst;purkersdorf-bei-wien-zentrum-bahnhst;48.206126;16.175777;AT
+67497;Puch bei Hallein Bahnhof;puch-bei-hallein-bahnhof;47.713056;13.090545;AT
+67498;Puchenau West Bahnhof;puchenau-west-bahnhof;48.312527;14.22244;AT
+67499;Rohrendorf bei Krems Bahnhst;rohrendorf-bei-krems-bahnhst;48.423221;15.656944;AT
+67500;Rietz in Tirol Bahnhof;rietz-in-tirol-bahnhof;47.292055;11.024704;AT
+67501;Salzburg Itzling Bahnhof;salzburg-itzling-bahnhof;47.819167;13.040988;AT
+67502;Salzburg Parsch Bahnhof;salzburg-parsch-bahnhof;47.799341;13.073001;AT
+67503;Stefansdorf bei Peuerbach Bahnhof;stefansdorf-bei-peuerbach-bahnhof;48.306903;13.790735;AT
+67504;Waidhofen/Ybbs Kupferschmiedgasse Bahnhst;waidhofen-ybbs-kupferschmiedgasse-bahnhst;47.960779;14.771166;AT
+67505;Villach Seebach Bahnhof;villach-seebach-bahnhof;46.620891;13.874532;AT
+67506;Leonding Straßfeld Bahnhof;leonding-strassfeld-bahnhof;48.274654;14.245847;AT
+67507;St. Georgen ob Judenburg Bahnhof;st-georgen-ob-judenburg-bahnhof;47.212198;14.498798;AT
+67508;St. Georgen/Längsee Bahnhof;st-georgen-langsee-bahnhof;46.761864;14.423327;AT
+67509;St. Georgen/Mattig Bahnhof;st-georgen-mattig-bahnhof;48.21636;13.098847;AT
+67510;Graz Straßgang Bahnhof;graz-strassgang-bahnhof;47.019866;15.405363;AT
+67511;St. Georgen am Steinfelde Bahnhst;st-georgen-am-steinfelde-bahnhst;48.137762;15.614438;AT
+67512;St. Georgen im Attergau Seniorenheim Bahnhof;st-georgen-im-attergau-seniorenheim-bahnhof;47.934173;13.493579;AT
+67513;St. Georgen bei Salzburg Bahnhof;st-georgen-bei-salzburg-bahnhof;47.990228;12.889058;AT
+67514;Stadt Haag Bahnhst;stadt-haag-bahnhst;48.1157;14.56606;AT
+67515;Schmidham im Attergau Bahnhof;schmidham-im-attergau-bahnhof;47.972947;13.487326;AT
+67516;Bergheim bei Salzburg Schlachthof Bahnhof;bergheim-bei-salzburg-schlachthof-bahnhof;47.845977;13.012552;AT
+67517;Steinhaus am Semmering Bahnhof;steinhaus-am-semmering-bahnhof;47.620892;15.784099;AT
+67518;Steinhaus bei Wels Bahnhof;steinhaus-bei-wels-bahnhof;48.11933;14.017887;AT
+67519;Sierndorf bei Stockerau Bahnhof;sierndorf-bei-stockerau-bahnhof;48.428922;16.175029;AT
+67520;St. Jodok am Brenner Bahnhof;st-jodok-am-brenner-bahnhof;47.063292;11.499313;AT
+67521;Scheifling in Stmk Bahnhof;scheifling-in-stmk-bahnhof;47.149111;14.417111;AT
+67522;Dietmannsdorf im Sulmtal Bahnhst;dietmannsdorf-im-sulmtal-bahnhst;46.744519;15.311747;AT
+67523;Salzburg Kasern Bahnhst;salzburg-kasern-bahnhst;47.839144;13.065213;AT
+67524;St. Martin bei Traun Bahnhof;st-martin-bei-traun-bahnhof;48.236454;14.264686;AT
+67525;Wörgl Süd-Bruckhäusl Bahnhof;worgl-sud-bruckhausl-bahnhof;47.487296;12.107711;AT
+67526;St. Pantaleon NÖ Bahnhof;st-pantaleon-no-bahnhof;48.227647;14.528635;AT
+67527;St. Peter im Sulmtal Bahnhof;st-peter-im-sulmtal-bahnhof;46.759758;15.254296;AT
+67528;Villach St. Ruprecht Bahnhof;villach-st-ruprecht-bahnhof;46.640958;13.876352;AT
+67529;Kitzbühel Schwarzsee Bahnhof;kitzbuhel-schwarzsee-bahnhof;47.453471;12.370464;AT
+67530;Steyr Münichholz Bahnhof;steyr-munichholz-bahnhof;48.047613;14.449219;AT
+67531;Schützen am Gebirge Bahnhst;schutzen-am-gebirge-bahnhst;47.851206;16.629995;AT
+67532;St. Veit/Glan Westbahnhof;st-veit-glan-westbahnhof;46.762519;14.362037;AT
+67533;Schwarzach in Vlbg Bahnhof;schwarzach-in-vlbg-bahnhof;47.446196;9.754369;AT
+67534;St. Georgen im Attergau Thern Bahnhof;st-georgen-im-attergau-thern-bahnhof;47.928309;13.501949;AT
+67535;Schüttdorf Tischlerhäusl Bahnhof;schuttdorf-tischlerhausl-bahnhof;47.30799;12.794024;AT
+67536;Tisis (Feldkirch) Bahnhof;tisis-feldkirch-bahnhof;47.227251;9.575687;AT
+67537;Traun OÖ Bahnhof;traun-oo-bahnhof;48.22561;14.253845;AT
+67538;Linz/Donau Untergaumberg Bahnhst;linz-donau-untergaumberg-bahnhst;48.280137;14.280166;AT
+67539;Unterhart bei Sattledt Bahnhof;unterhart-bei-sattledt-bahnhof;48.089127;14.042616;AT
+67540;Unterm Wald Bahnhst;unterm-wald-bahnhst;47.927567;13.839871;AT
+67541;Bad Vigaun Bahnhof;bad-vigaun-bahnhof;47.664145;13.124099;AT
+67542;Wankham bei Attnang Bahnhof;wankham-bei-attnang-bahnhof;47.998048;13.73021;AT
+67543;Walchen im Attergau Bahnhof;walchen-im-attergau-bahnhof;47.978964;13.494792;AT
+67544;Wels Lokalbahn Bahnhof;wels-lokalbahn-bahnhof;48.156645;14.01731;AT
+67545;Wies in Stmk Markt Bahnhof;wies-in-stmk-markt-bahnhof;46.718442;15.273207;AT
+67546;Windau im Brixental Bahnhof;windau-im-brixental-bahnhof;47.43888;12.186682;AT
+67547;Wiesmühle bei Sattledt Bahnhst;wiesmuhle-bei-sattledt-bahnhst;48.021861;14.043709;AT
+67548;Wendling bei Haag Bahnhof;wendling-bei-haag-bahnhof;48.246424;13.650239;AT
+67549;Wr Neustadt Civitas Nova Bahnhof;wr-neustadt-civitas-nova-bahnhof;47.833576;16.255365;AT
+67550;Wr Neustadt Nord Bahnhof;wr-neustadt-nord-bahnhof;47.834987;16.238805;AT
+67551;Oberndorf in Tirol Bahnhof;oberndorf-in-tirol-bahnhof;47.497328;12.390788;AT
+67552;Wulkaprodersdorf Bahnhst;wulkaprodersdorf-bahnhst;47.799052;16.49646;AT
+67553;Bruckberg im Pinzgau Golfplatz Bahnhof;bruckberg-im-pinzgau-golfplatz-bahnhof;47.294697;12.776252;AT
+67554;Gschwandt bei Gmunden Schule Bahnhst;gschwandt-bei-gmunden-schule-bahnhst;47.935614;13.847964;AT
+67555;Schüttdorf Kitzsteinhornstraße Bahnhof;schuttdorf-kitzsteinhornstrasse-bahnhof;47.301911;12.794045;AT
+67556;St. Pölten Porschestraße Bahnhof;st-polten-porschestrasse-bahnhof;48.183106;15.617065;AT
+67557;Piesendorf Bad Bahnhof;piesendorf-bad-bahnhof;47.288264;12.712648;AT
+67558;Bad Wimsbach Steinfeld Bahnhof;bad-wimsbach-steinfeld-bahnhof;48.061727;13.905151;AT
+67559;Altenhof/Kamp Bahnhof;altenhof-kamp-bahnhof;48.544208;15.686008;AT
+67560;Arnsdorf bei Lamprechtshausen Bahnhof;arnsdorf-bei-lamprechtshausen-bahnhof;47.969639;12.934655;AT
+67561;Salzburg Süd Bahnhof;salzburg-sud-bahnhof;47.770263;13.078549;AT
+67562;Wien Handelskai (Bahnsteige 1-2);wien-handelskai-bahnsteige-1-2;48.242124;16.385624;AT
+67563;Wallersbach bei Unzmarkt Bahnhof;wallersbach-bei-unzmarkt-bahnhof;47.189505;14.430502;AT
+67564;Karl z’Neuhub Bahnhst;karl-zneuhub-bahnhst;47.94452;13.871412;AT
+67565;Wels Messe Bahnhof;wels-messe-bahnhof;48.152458;14.019618;AT
+67566;St. Pölten Alpenbahnhof-Kaiserwald (Mariaz. Bahn);st-polten-alpenbahnhof-kaiserwald-mariaz-bahn;48.198424;15.612972;AT
+67567;Bregenz Hafen Bahnhof;bregenz-hafen-bahnhof;47.506153;9.748388;AT
+67568;Krems/Donau Campus-Kunstmeile Bahnhof;krems-donau-campus-kunstmeile-bahnhof;48.407459;15.585855;AT
+67569;St. Pölten Traisenpark Bahnhst;st-polten-traisenpark-bahnhst;48.220519;15.641268;AT
+67570;Mattersburg Nord Bahnhof;mattersburg-nord-bahnhof;47.741386;16.402608;AT
+67571;Wr Neustadt Anemonensee Bahnhof;wr-neustadt-anemonensee-bahnhof;47.811918;16.209755;AT
+67572;Graz Stadion Liebenau Bahnhof;graz-stadion-liebenau-bahnhof;47.046746;15.453152;AT
+67573;Schüttdorf Areitbahn Bahnhst;schuttdorf-areitbahn-bahnhst;47.299078;12.789357;AT
+67574;Lienz in Osttirol Peggetz Bahnhof;lienz-in-osttirol-peggetz-bahnhof;46.8271;12.793057;AT
+67575;Kuchl Garnei Bahnhof;kuchl-garnei-bahnhof;47.651693;13.128245;AT
+67576;Hallein Burgfried Bahnhof;hallein-burgfried-bahnhof;47.675987;13.114146;AT
+67577;Hart bei Graz Bahnhst;hart-bei-graz-bahnhst;47.041841;15.507476;AT
+67578;Oberhofen im Inntal Bahnhof;oberhofen-im-inntal-bahnhof;47.30199;11.095725;AT
+67579;Puch bei Hallein Urstein Bahnhof;puch-bei-hallein-urstein-bahnhof;47.724184;13.08815;AT
+67580;Wöllersdorf/Piesting Marchgraben Bahnhof;wollersdorf-piesting-marchgraben-bahnhof;47.86484;16.165517;AT
+67581;Straßwalchen West Bahnhof;strasswalchen-west-bahnhof;47.976717;13.245369;AT
+67582;Hall in Tirol-Thaur Bahnhst;hall-in-tirol-thaur-bahnhst;47.277103;11.474448;AT
+67583;Ledenitzen Bahnhst;ledenitzen-bahnhst;46.562921;13.965191;AT
+67584;Wien Aspern Nord Bahnhof;wien-aspern-nord-bahnhof;48.234693;16.504438;AT
+67585;Gmünd NÖ Bahnhof (Waldviertelbahn);gmund-no-bahnhof-waldviertelbahn;48.764962;14.983522;AT
+67586;Reichenau an der Rax Kurhaus Bahnhof;reichenau-an-der-rax-kurhaus-bahnhof;47.699521;15.845824;AT
+67587;Gmunden Lembergweg Bahnhst;gmunden-lembergweg-bahnhst;47.917745;13.818588;AT
+67588;Klagenfurt West Bahnhof;klagenfurt-west-bahnhof;46.622813;14.268752;AT
+67589;Klagenfurt Süd Bahnhof;klagenfurt-sud-bahnhof;46.610301;14.302358;AT
+67590;Villach Landskron Bahnhst;villach-landskron-bahnhst;46.630124;13.875664;AT
+67591;Heinfels Bahnhst;heinfels-bahnhst;46.745898;12.444437;AT
+67592;Gmunden Schloss Weyer Bahnhst;gmunden-schloss-weyer-bahnhst;47.915382;13.811205;AT
+67593;Gmunden Seebahnhof (Hochmüllergasse);gmunden-seebahnhof-hochmullergasse;47.91615;13.805131;AT
+67594;Gmunden Klosterplatz (Tram);gmunden-klosterplatz-tram;47.917701;13.803904;AT
+67595;Payerbach-Reichenau Bahnhof (Lokalbahn);payerbach-reichenau-bahnhof-lokalbahn;47.69607;15.859227;AT
+67596;Reichenau an der Rax Haaberg Bahnhof;reichenau-an-der-rax-haaberg-bahnhof;47.70465;15.823831;AT
+67597;Reichenau an der Rax Bahnhof;reichenau-an-der-rax-bahnhof;47.698085;15.839287;AT
+67598;Altnagelberg Bahnhof;altnagelberg-bahnhof;48.837861;14.989853;AT
+67599;Hagenau im Innkreis Bahnhof;hagenau-im-innkreis-bahnhof;48.265178;13.114294;AT
+67600;Dietmanns Gmünd Bahnhst;dietmanns-gmund-bahnhst;48.750275;14.946856;AT
+67601;Seekirchen;seekirchen;47.898674;13.12803;AT
+67930;Hatting in Tirol;hatting-in-tirol;47.2813;11.170544;AT
+67932;Kematen in Tirol;kematen-in-tirol;47.261191;11.276545;AT
+67933;Kitzbühel Hahnenkamm;kitzbuhel-hahnenkamm;47.443384;12.389859;AT
+67934;Kuchl Garnei;kuchl-garnei;47.651503;13.128376;AT
+67935;Oberhofen im Inntal;oberhofen-im-inntal;47.301975;11.095897;AT
+67937;Rietz in Tirol;rietz-in-tirol;47.291925;11.023813;AT
+67959;Dornbirn;dornbirn;47.417693;9.738805;AT
+67960;Graz Don Bosco (Bahnsteige 1-2);graz-don-bosco-bahnsteige-1-2;47.058448;15.419107;AT
+67961;Graz Hbf (Busbahnhof);graz-hbf-busbahnhof;47.073703;15.416895;AT
+67962;Leoben Hbf (Vorplatz);leoben-hbf-vorplatz;47.38642;15.090227;AT
+67963;Bruck/Mur Bahnhof (Vorplatz);bruck-mur-bahnhof-vorplatz;47.413432;15.278416;AT
+67964;Selzthal Bahnhof (Vorplatz);selzthal-bahnhof-vorplatz;47.550338;14.313559;AT
