@@ -1,0 +1,28 @@
+id;name;uic;lat;lon;country
+10488;Smolensk;smolensk;54.777369;32.027504;RU
+10494;Moskva Belorusskaya;moskva-belorusskaya;55.777223;37.581826;RU
+10503;Moskva Kievskaia;moskva-kievskaia;55.742963;37.566774;RU
+28625;Kaliningrad;kaliningrad;54.69327;20.50225;RU
+28626;Sankt-Peterburg Vitebskii;sankt-peterburg-vitebskii;59.919648;30.329847;RU
+28627;Sankt-Peterburg Finlyandskiy;sankt-peterburg-finlyandskiy;59.93199;30.441376;RU
+28629;Moskva Leningradski;moskva-leningradski;55.776052;37.655362;RU
+28630;Sankt-Peterburg;sankt-peterburg;59.937082;30.306411;RU
+28631;Sankt-Peterburg Glavnii;sankt-peterburg-glavnii;59.928682;30.362711;RU
+28725;Vyborg;vyborg;60.715646;28.753255;RU
+32620;Moscow;moscow;55.75222;37.61556;RU
+37739;Adler;adler;43.4267177932987;39.92655134545112;RU
+37757;Sochi;sochi;43.59287;39.72808;RU
+37759;Tuapse;tuapse;44.09743959496327;39.08258569147563;RU
+37760;Volgograd;volgograd;48.71589;44.51647;RU
+37765;Volzhskiy;volzhskiy;48.80994;44.75321;RU
+37862;Gvardeysk;gvardeysk;54.64795;21.072718;RU
+37863;Kingisepp;kingisepp;59.369833;28.612113;RU
+37864;Pskov;pskov;57.802176;28.358287;RU
+38320;Sovetsk;sovetsk;55.081464;21.87955;RU
+38698;Vnukovo Airport Train Station;vnukovo-airport-train-station;55.605939;37.288528;RU
+38699;Moscow Domodedovo Airport Train Station;moscow-domodedovo-airport-train-station;55.415005;37.897127;RU
+38700;Moscow Sheremetyevo Airport Train Station;moscow-sheremetyevo-airport-train-station;55.963829;37.415615;RU
+67608;Moscow Vnukovo Airport;moscow-vnukovo-airport;55.605939;37.288528;RU
+67732;Brody;brody;50.0751381642599;25.1404778302799;RU
+67734;Khorol;khorol;49.7858202628658;33.2705798574243;RU
+67735;Romny;romny;50.734162626948006;33.51937693601085;RU
